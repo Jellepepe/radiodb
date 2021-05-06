@@ -1,0 +1,125 @@
+{
+  "stations": [
+    {
+      "id": "LT1",
+      "name": "Power Hit Radio",
+      "country": "Lithuania",
+      "description": "\u0160oki\u0173 muzikos hitai NR1",
+      "genre": "Dance",
+      "frequency": 95.9,
+      "mp3Stream": "",
+      "aacStream": "https://powerhit.ls.lv/PHR_AAC",
+      "imageUrl": "https://cdn-profiles.tunein.com/s2862/images/logog.png"
+    },
+    {
+      "id": "LT2",
+      "name": "M-1",
+      "country": "Lithuania",
+      "description": "Čia Mano Radijas",
+      "genre": "Pop Music",
+      "frequency":106.6,
+      "mp3Stream": "https://radio.m-1.fm/m1/MP3320",
+      "aacStream": "https://radio.m-1.fm/m1/aacp64",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/lt/thumb/5/5c/M-1_logo.png/320px-M-1_logo.png"
+    },
+    {
+      "id": "LT3",
+      "name": "M-1 Plius",
+      "country": "Lithuania",
+      "description": "Romanas su muzika",
+      "genre": "Adult Contemporary, Pop Music",
+      "frequency": 97.6,
+      "mp3Stream": "https://radio.m-1.fm/m1plius/mp3",
+      "aacStream": "https://radio.m-1.fm/m1plius/aacp320",
+      "imageUrl": "https://www.s-e.lt/site-images-png/2518.png" 
+    },
+    {
+      "id": "LT4",
+      "name": "ZIP FM",
+      "country": "Lithuania",
+      "description": "Radijas be kompleksų",
+      "genre": "electronic",
+      "frequency": 104.1,
+      "mp3Stream": "http://84.46.205.13/zipfm128.mp3",
+      "aacStream": "http://84.46.205.13:80/zipfm64.aac",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/lt/archive/2/2d/20200324102223%21Zip_FM_logo.png"
+    },
+    {
+      "id": "LT5",
+      "name": "European Hit Radio",
+      "country": "Lithuania",
+      "description": "perkamiausių Europoje dainų radijas",
+      "genre": "Top40, Pop music",
+      "frequency": 102.5,
+      "mp3Stream": "",
+      "aacStream": "http://82.135.234.195:8000/ehr.aac",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/lv/b/b4/EHR_logo_2011.png"
+    },
+    {
+      "id": "LT6",
+      "name": "Laluna",
+      "country": "Lithuania",
+      "description": "Ant bangos!",
+      "genre": "Lithuanian pop",
+      "frequency": 94.9,
+      "mp3Stream": "https://radio.m-1.fm/laluna/mp3",
+      "aacStream": "https://radio.m-1.fm/laluna/high",
+      "imageUrl": "https://www.laluna.lt/wp-content/uploads/2020/07/Laluna-logo-170x170.png"
+    },
+    {
+      "id": "LT7",
+      "name": "Easy Fm",
+      "country": "Lithuania",
+      "description": "Gyvenk be įtampos",
+      "genre": " classic rock,lounge,smooth jazz,jazz",
+      "frequency": 89.5,
+      "mp3Stream": "https://netradio.ziniur.lt/easyfm.mp3",
+      "aacStream": "",
+      "imageUrl": "https://fm.lt/images/stations/easyfm.png" 
+    },
+    {
+      "id": "LT8",
+      "name": "Radiocentras",
+      "country": "Lithuania",
+      "description": "Visada tarp draugų",
+      "genre": "pop,electronic",
+      "frequency": 101.5,
+      "mp3Stream": "http://84.46.205.13/rc128.mp3",
+      "aacStream": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/lt/8/85/RC-logo.png"
+    },
+    {
+      "id": "LT9",
+      "name": "Rusradio",
+      "country": "Lithuania",
+      "description": "Любимая музыка, Любимое радио",
+      "genre": "ru",
+      "frequency":100.4,
+      "mp3Stream": "http://5.20.223.18/rrb128.mp3",
+      "aacStream": "",
+      "imageUrl": "https://play-lh.googleusercontent.com/91fUh1Zee3pmeT2A-mqUiBpxPfafh5utRkHjK1juG9ec68IL9orgj9OosPtJCig-qzQ" 
+    },
+    {
+      "id": "LT10",
+      "name": "Relax Fm",
+      "country": "Lithuania",
+      "description": "Mūsų gyvenimo muzika",
+      "genre": "Blues, Jazz, Variety",
+      "frequency": 98.5,
+      "mp3Stream": "http://5.20.223.18/relaxfm128.mp3",
+      "aacStream": "",
+      "imageUrl": "https://relaxfm.lt/wp-content/uploads/2018/12/cropped-r-relax-fm-copy-1.png"
+    },
+    {
+      "id": "LT11",
+      "name": "Gold Fm",
+      "country": "Lithuania",
+      "description": "Žinantiems vertę!",
+      "genre": "Adult hits",
+      "frequency": 102.6,
+      "mp3Stream": "http://82.135.234.195:8000/goldfm.mp3",
+      "aacStream": "",
+      "imageUrl": "https://goldfm.lt/wp-content/uploads/2020/12/Gold_pilnas-300x136.png" 
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "stations": [
+    {
+      "id": "NL1",
+      "name": "NPO Radio 1",
+      "country": "Netherlands",
+      "description": "Het nieuws van alle kanten",
+      "genre": "News, Sport",
+      "frequency": 98.6,
+      "mp3Stream": "https://icecast.omroep.nl/radio1-bb-mp3",
+      "aacStream": "https://icescast.omroep.nl/radio1-bb-aac",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/NPO_Radio_1_logo_2014.svg/200px-NPO_Radio_1_logo_2014.svg.png"
+    },
+    {
+      "id": "NL2",
+      "name": "NPO Radio 2",
+      "country": "Netherlands",
+      "description": "Vertelt het hele verhaal",
+      "genre": "News, Talk",
+      "frequency": 92.6,
+      "mp3Stream": "https://icecast.omroep.nl/radio2-bb-mp3",
+      "aacStream": "https://icescast.omroep.nl/radio2-bb-aac",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NPO_Radio_2_logo.svg/200px-NPO_Radio_2_logo.svg.png"
+    },
+    {
+      "id": "NL3",
+      "name": "NPO 3FM",
+      "country": "Netherlands",
+      "description": "Music Starts Here",
+      "genre": "CHR, Alternative",
+      "frequency": 96.8,
+      "mp3Stream": "https://icecast.omroep.nl/3fm-bb-mp3",
+      "aacStream": "https://icescast.omroep.nl/3fm-bb-aac",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/NPO_3FM_logo_2020.svg/220px-NPO_3FM_logo_2020.svg.png"
+    },
+    {
+      "id": "NL4",
+      "name": "NPO Radio 4",
+      "country": "Netherlands",
+      "description": "Klassieke muziek luisteren",
+      "genre": "Classical, Culture",
+      "frequency": 87.6,
+      "mp3Stream": "https://icecast.omroep.nl/radio4-bb-mp3",
+      "aacStream": "https://icescast.omroep.nl/radio4-bb-aac",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NPO_Radio_4_logo_2014.svg/200px-NPO_Radio_4_logo_2014.svg.png"
+    },
+    {
+      "id": "NL5",
+      "name": "NPO Radio 5",
+      "country": "Netherlands",
+      "description": "Je voelt je thuis",
+      "genre": "Classical, Hits",
+      "frequency": 747.0,
+      "mp3Stream": "https://icecast.omroep.nl/radio5-bb-mp3",
+      "aacStream": "https://icescast.omroep.nl/radio5-bb-aac",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NPO_Radio_5_logo_2016.svg/200px-NPO_Radio_5_logo_2016.svg.png"
+    }
+  ]
+}
