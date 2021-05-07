@@ -11,7 +11,7 @@ If no such license is available or applicable please link to an external host.
 
 ## Formatting stations
 The station lists use the following format:
-```json
+```javascript
 {
   // String: id of the station, use the format XXYY where XX is the country code and YY is the station number.
   "id": "XX1",
