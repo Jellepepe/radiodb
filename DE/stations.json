@@ -1,7 +1,7 @@
 {
   "stations": [
     {
-      "id": "Antenne1",
+      "id": "DE1",
       "name": "Hitradio Antenne 1",
       "country": "Deutschland",
       "description": "Wir lieben das Hier!",
@@ -12,7 +12,7 @@
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Antenne_1_Logo.svg/2560px-Antenne_1_Logo.svg.png"
     },
     {
-      "id": "BigFM",
+      "id": "DE2",
       "name": "Big FM",
       "country": "Deutschland",
       "description": "Deutschlands biggste Beats",
@@ -23,7 +23,7 @@
       "imageUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f4/BigFM.svg/2880px-BigFM.svg.png"
     },
     {
-      "id": "SWR3",
+      "id": "DE3",
       "name": "SWR 3",
       "country": "Deutschland",
       "description": "Euer Radio Nummer 1",
@@ -34,7 +34,7 @@
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SWR3_Logo.svg/2880px-SWR3_Logo.svg.png" 
     },
     {
-      "id": "1077",
+      "id": "DE4",
       "name": "Die Neue 107.7",
       "country": "Deutschland",
       "description": "Bester Rock und Pop",
@@ -45,7 +45,7 @@
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/DIE_NEUE_107.7_Logo.jpg"
     },
 	{
-      "id": "Dasding",
+      "id": "DE5",
       "name": "DASDING",
       "country": "Deutschland",
       "description": "Dasding",
@@ -56,7 +56,7 @@
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dasding_2011.png"
     },
 	{
-      "id": "RadioBOBnational",
+      "id": "DE6",
       "name": "Radio BOB!",
       "country": "Deutschland",
       "description": "Wenn Rock, dann BOB!",
