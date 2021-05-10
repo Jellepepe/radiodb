@@ -1,0 +1,70 @@
+{
+  "stations": [
+    {
+      "id": "Antenne1",
+      "name": "Hitradio Antenne 1",
+      "country": "Deutschland",
+      "description": "Wir lieben das Hier!",
+      "genre": "Pop",
+      "frequency": 95.9,
+      "mp3Stream": "http://stream.antenne1.de/a1stg/livestream2.mp3",
+      "aacStream": "http://stream.antenne1.de/a1stg/livestream1.aac",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Antenne_1_Logo.svg/2560px-Antenne_1_Logo.svg.png"
+    },
+    {
+      "id": "BigFM",
+      "name": "Big FM",
+      "country": "Deutschland",
+      "description": "Deutschlands biggste Beats",
+      "genre": "Pop",
+      "frequency":87.7,
+      "mp3Stream": "https://streams.bigfm.de/bigfm-deutschland-128-mp3?usid=0-0-H-M-D-01",
+      "aacStream": "https://streams.bigfm.de/bigfm-deutschland-128-aac?usid=0-0-H-A-D-01",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f4/BigFM.svg/2880px-BigFM.svg.png"
+    },
+    {
+      "id": "SWR3",
+      "name": "SWR 3",
+      "country": "Deutschland",
+      "description": "Euer Radio Nummer 1",
+      "genre": " Pop",
+      "frequency": 92.2,
+      "mp3Stream": "http://mp3-live.swr3.de/swr3_m.m3u",
+      "aacStream": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SWR3_Logo.svg/2880px-SWR3_Logo.svg.png" 
+    },
+    {
+      "id": "1077",
+      "name": "Die Neue 107.7",
+      "country": "Deutschland",
+      "description": "Bester Rock und Pop",
+      "genre": "Rock,Pop",
+      "frequency": 107.7,
+      "mp3Stream": "http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3",
+      "aacStream": "http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/low/stream.aac",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/DIE_NEUE_107.7_Logo.jpg"
+    },
+	{
+      "id": "Dasding",
+      "name": "DASDING",
+      "country": "Deutschland",
+      "description": "Dasding",
+      "genre": "Rock, Pop",
+      "frequency": 90.8,
+      "mp3Stream": "http://mp3-live.dasding.de/dasding_m.m3u",
+      "aacStream": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dasding_2011.png"
+    },
+	{
+      "id": "RadioBOBnational",
+      "name": "Radio BOB!",
+      "country": "Deutschland",
+      "description": "Wenn Rock, dann BOB!",
+      "genre": "Rock",
+      "frequency": 178.352,
+      "mp3Stream": "http://streams.radiobob.de/bob-national/mp3-192/mediaplayer",
+      "aacStream": "http://streams.radiobob.de/bob-national/aac-64/mediaplayer",
+      "imageUrl": "https://www.radiobob.de/_nuxt/icons/icon_512.cUMc34Nz2jc.png"
+    }  
+  ]
+}
