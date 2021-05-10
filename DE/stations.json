@@ -44,7 +44,7 @@
       "aacStream": "http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/low/stream.aac",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/DIE_NEUE_107.7_Logo.jpg"
     },
-	{
+    {
       "id": "DE5",
       "name": "DASDING",
       "country": "Deutschland",
@@ -55,7 +55,7 @@
       "aacStream": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dasding_2011.png"
     },
-	{
+    {
       "id": "DE6",
       "name": "Radio BOB!",
       "country": "Deutschland",
