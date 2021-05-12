@@ -18,9 +18,9 @@
       "description": "Čia Mano Radijas",
       "genre": "Pop Music",
       "frequency":106.6,
-      "mp3Stream": "https://radio.m-1.fm/m1/MP3320",
+      "mp3Stream": "https://radio.m-1.fm/m1/mp3",
       "aacStream": "https://radio.m-1.fm/m1/aacp64",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/lt/thumb/5/5c/M-1_logo.png/320px-M-1_logo.png"
+      "imageUrl": "https://radio.byme.dev/LT/IMG/LT3.png"
     },
     {
       "id": "LT3",
