@@ -130,7 +130,7 @@
       "frequency": 98.3,
       "mp3Stream": "",
       "aacStream": "http://lrt-cast.lrt.lt:8000/lrt_opus",
-      "imageUrl": " https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LRT_opus.svg/1200px-LRT_opus.svg.png"  
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LRT_opus.svg/1200px-LRT_opus.svg.png"  
     },
     {
       "id": "LT13",
@@ -172,7 +172,7 @@
       "description": "Žinojimas keičia",
       "genre": "News,Talk",
       "frequency": 97.3,
-      "mp3Stream": "http://netradio.ziniur.lt/ziniur.mp3",
+      "mp3Stream": "https://netradio.ziniur.lt/ziniur.mp3",
       "aacStream": "",
       "imageUrl": "https://i.ibb.co/brYggY1/1620889462623.png" 
     },
@@ -216,7 +216,7 @@
       "description": "Radijo Stotis",
       "genre": "Lithuanian, pop",
       "frequency": 103.7,
-      "mp3Stream": "http://radio.m-1.fm/lietus/mp3",
+      "mp3Stream": "https://radio.m-1.fm/lietus/mp3",
       "aacStream": "https://stream.m-1.fm/lietus/aacp64",
       "imageUrl": "https://i.ibb.co/LkfSNKf/a552f9b9d2df0886290003b9813aed6f.png" 
     },
@@ -263,6 +263,28 @@
       "mp3Stream": "https://stream.radiojar.com/d9cm273ystzuv",
       "aacStream": "",
       "imageUrl": "https://www.playradio.lt/wp-content/themes/PlayRadio/img/logo.png"
+    },
+    {
+      "id": "LT25",
+      "name": "Dr.Chill",
+      "country": "Lithuania",
+      "description": "Užmik prie vairo",
+      "genre": "relax",
+      "frequency": 0.0,
+      "mp3Stream": "https://media-sov.musicradio.com/ChillMP3",
+      "aacStream": "",
+      "imageUrl": "https://i.ibb.co/WcH03YW/dr-radio-removebg-preview.png"  
+    },
+    {
+      "id": "LT26",
+      "name": "Life Chill Music",
+      "country": "Lithuania",
+      "description": "Exclusive and Deluxe",
+      "genre": "relax",
+      "frequency": 0.0,
+      "mp3Stream": "http://46.105.180.202:8053/live",
+      "aacStream": "",
+      "imageUrl": "http://www.lifechillmusic.com/wp-content/uploads/2019/12/Logo-original.png"  
     }
   ]
 }
