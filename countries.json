@@ -1,16 +1,20 @@
 {
   "countries": [
     {
-      "name": "Netherlands",
+      "name": "Nederland",
       "code": "NL"
     },
     {
-      "name": "Lithuania",
+      "name": "Lietuva",
       "code": "LT"
     },
     {
       "name": "Deutschland",
       "code": "DE"
+    },
+    {
+      "name": "Sverige",
+      "code": "SE"
     }
   ]
 }

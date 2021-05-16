@@ -1,0 +1,92 @@
+{
+  "stations": [
+    {
+      "id": "SE1",
+      "name": "RIX FM",
+      "country": "Sweden",
+      "description": "BÄST MUSIK JUST NU!",
+      "genre": "pop",
+      "frequency": 106.7,
+      "mp3Stream": "http://fm01-ice.stream.khz.se/fm01_mp3",
+      "aacStream": "",
+      "imageUrl": "https://cdn.khz.se/images/180x180/c4b8642fb86f50849ac5ca144afdc365.png" 
+    },
+    {
+      "id": "SE2",
+      "name": "Mix Megapol",
+      "country": "Sweden",
+      "description": "Den perfekta mixen",
+      "genre": "pop, oldies",
+      "frequency": 105.5,
+      "mp3Stream": "https://edge-bauersefm-05-gos1.sharp-stream.com/mixmegapol_instream_se_mp3",
+      "aacStream": "",
+      "imageUrl": "https://i.ibb.co/xDVSbPS/mix-megapol-removebg-preview.png"  
+    },
+    {
+      "id": "SE3",
+      "name": "NRJ",
+      "country": "Sweden",
+      "description": "De bästa hitsen",
+      "genre": "Pop",
+      "frequency": 104.3,
+      "mp3Stream": "https://edge-bauersefm-02-gos1.sharp-stream.com/nrj_instreamtest_se_mp3",
+      "aacStream": "https://tx-bauerse.sharp-stream.com/http_live.php?i=nrj_instreamtest_se_aacp ",
+      "imageUrl": "https://w7.pngwing.com/pngs/469/239/png-transparent-nrj-group-nrj-hits-internet-radio-nrj-international-in-maintenance-text-fm-broadcasting-logo-thumbnail.png" 
+    },
+    {
+      "id": "SE4",
+      "name": "Gold FM",
+      "country": "Sweden",
+      "description": "Största hitsen från tre decennier",
+      "genre": "Oldies",
+      "frequency": 102.6,
+      "mp3Stream": "http://goldfm.nu:8082/goldfm_mp3",
+      "aacStream": " ",
+      "imageUrl": "https://i.ibb.co/JjBCR8D/gold-fm-removebg-preview.png"
+    },
+    {
+      "id": "SE5",
+      "name": "Power Hit Radio",
+      "country": "Sweden",
+      "description": "Stockholms Hitstation",
+      "genre": "dance, pop",
+      "frequency": 107.5,
+      "mp3Stream": "http://fm04-ice.stream.khz.se/fm04_mp3",
+      "aacStream": "",
+      "imageUrl": "https://cdn.khz.se/images/300x146/dfaa53b2993d44f1317417e5c1fb37c8.png"  
+    },
+    {
+      "id": "SE6",
+      "name": "Bandit Rock FM",
+      "country": "Sweden",
+      "description": "Welcome to the Party!",
+      "genre": "Rock",
+      "frequency": 101.9,
+      "mp3Stream": "http://fm02-ice.stream.khz.se/fm02_mp3",
+      "aacStream": "",
+      "imageUrl": "https://cdn.khz.se/images/400x400/63808dd23f61e6193a9007a927189e13.png"  
+    },
+    {
+      "id": "SE7",
+      "name": "Rockklasiker",
+      "country": "Sweden",
+      "description": " TIDERNAS BÄSTA ROCK",
+      "genre": "Rock",
+      "frequency": 106.3,
+      "mp3Stream": "http://tx-bauerse.sharp-stream.com/http_live.php?i=rockklassiker_instream_se_mp3",
+      "aacStream": "",
+      "imageUrl": "https://i.postimg.cc/SRs5rxBd/rock-klasiker-removebg-preview.png"  
+    },
+    {
+      "id": "SE8",
+      "name": "Star FM",
+      "country": "Sweden",
+      "description": "BÄSTA LÅTARNA FRÅN 70-, 80- OCH 90-TALET! ",
+      "genre": "oldies",
+      "frequency": 101.9,
+      "mp3Stream": "http://fm05-ice.stream.khz.se/fm05_mp3",
+      "aacStream": "",
+      "imageUrl": "https://www.bytfrekvens.nu/wp-content/uploads/2018/06/logo-pos-Star4.png"   
+    }
+  ]
+}
