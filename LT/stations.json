@@ -9,7 +9,7 @@
       "frequency": 95.9,
       "mp3Stream": "",
       "aacStream": "https://powerhit.ls.lv/PHR_AAC",
-      "imageUrl": "https://cdn-profiles.tunein.com/s2862/images/logog.png"
+      "imageUrl": "https://radio.byme.dev/LT/IMG/LT1.png"
     },
     {
       "id": "LT2",
@@ -42,7 +42,7 @@
       "frequency": 104.1,
       "mp3Stream": "http://84.46.205.13/zipfm128.mp3",
       "aacStream": "http://84.46.205.13:80/zipfm64.aac",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/lt/archive/2/2d/20200324102223%21Zip_FM_logo.png"
+      "imageUrl": "https://radio.byme.dev/LT/IMG/LT4.png"
     },
     {
       "id": "LT5",
@@ -53,7 +53,7 @@
       "frequency": 102.5,
       "mp3Stream": "",
       "aacStream": "http://82.135.234.195:8000/ehr.aac",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/lv/b/b4/EHR_logo_2011.png"
+      "imageUrl": "https://radio.byme.dev/LT/IMG/LT5.png"
     },
     {
       "id": "LT6",
@@ -75,7 +75,7 @@
       "frequency": 89.5,
       "mp3Stream": "https://netradio.ziniur.lt/easyfm.mp3",
       "aacStream": "",
-      "imageUrl": "https://fm.lt/images/stations/easyfm.png" 
+      "imageUrl": "https://radio.byme.dev/LT/IMG/LT7.png" 
     },
     {
       "id": "LT8",
@@ -120,6 +120,149 @@
       "mp3Stream": "http://82.135.234.195:8000/goldfm.mp3",
       "aacStream": "",
       "imageUrl": "https://goldfm.lt/wp-content/uploads/2020/12/Gold_pilnas-300x136.png" 
+    },
+    {
+      "id": "LT12",
+      "name": "LRT Opus",
+      "country": "Lithuania",
+      "description": "Lietuvos nacionalinis radijas",
+      "genre": "Dance, Electronic",
+      "frequency": 98.3,
+      "mp3Stream": "",
+      "aacStream": "http://lrt-cast.lrt.lt:8000/lrt_opus",
+      "imageUrl": " https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LRT_opus.svg/1200px-LRT_opus.svg.png"  
+    },
+    {
+      "id": "LT13",
+      "name": "Mano Fm",
+      "country": "Lithuania",
+      "description": "Kauno miesto radijas",
+      "genre": "POP,Rock",
+      "frequency": 94.4,
+      "mp3Stream": "http://klausyk.manofm.lt:8000/Icecast2",
+      "aacStream": "",
+      "imageUrl": "https://i.ibb.co/5Btp27w/46110f722956a881fa902e47537ce8bc.png"  
+    },
+    {
+      "id": "LT14",
+      "name": "Rock FM",
+      "country": "Lithuania",
+      "description": "Let's Rock!",
+      "genre": "Rock",
+      "frequency": 87.8,
+      "mp3Stream": "http://5.20.223.18/crf128.mp3",
+      "aacStream": "",
+      "imageUrl": "https://i.ibb.co/GCBZpbz/518b4becb24c3b7de5169f0b4d363f36.png"  
+    },
+    {
+      "id": "LT15",
+      "name": "LRT Klasika",
+      "country": "Lithuania",
+      "description": "Įdomu girdėti",
+      "genre": "Classic, Culture",
+      "frequency": 96.2,
+      "mp3Stream": "",
+      "aacStream": "http://lrt-cast.lrt.lt:8000/lrt_klasika",
+      "imageUrl": "https://i.ibb.co/n7nzJtF/1a4a29810a4ead370163c523154d3383.png"
+    },
+    {
+      "id": "LT16",
+      "name": "Žinių Radijas",
+      "country": "Lithuania",
+      "description": "Žinojimas keičia",
+      "genre": "News,Talk",
+      "frequency": 97.3,
+      "mp3Stream": "http://netradio.ziniur.lt/ziniur.mp3",
+      "aacStream": "",
+      "imageUrl": "https://i.ibb.co/brYggY1/1620889462623.png" 
+    },
+    {
+      "id": "LT17",
+      "name": "Kelyje Klaipėda",
+      "country": "Lithuania",
+      "description": "Visada kelyje",
+      "genre": "Pop, Rock",
+      "frequency": 99.8,
+      "mp3Stream": "http://82.135.234.195:8000/kelyje_klaipeda.mp3",
+      "aacStream": "",
+      "imageUrl": "https://i.ibb.co/D9WxGVL/1620889687084.png" 
+    },
+    {
+      "id": "LT18",
+      "name": "Kelyje Kaunas",
+      "country": "Lithuania",
+      "description": "Visada kelyje",
+      "genre": "Pop, Rock",
+      "frequency": 105.9,
+      "mp3Stream": "http://82.135.234.195:8000/kelyje_kaunas.mp3",
+      "aacStream": "",
+      "imageUrl": "https://i.ibb.co/D9WxGVL/1620889687084.png" 
+    },
+    {
+      "id": "LT19",
+      "name": "Kelyje Vilnius",
+      "country": "Lithuania",
+      "description": "Visada kelyje",
+      "genre": "Pop, Rock",
+      "frequency": 107.7,
+      "mp3Stream": "http://82.135.234.195:8000/kelyje_vilnius.mp3",
+      "aacStream": "",
+      "imageUrl": "https://i.ibb.co/D9WxGVL/1620889687084.png" 
+    },
+    {
+      "id": "LT20",
+      "name": "Lietus",
+      "country": "Lithuania",
+      "description": "Radijo Stotis",
+      "genre": "Lithuanian, pop",
+      "frequency": 103.7,
+      "mp3Stream": "http://radio.m-1.fm/lietus/mp3",
+      "aacStream": "https://stream.m-1.fm/lietus/aacp64",
+      "imageUrl": "https://i.ibb.co/LkfSNKf/a552f9b9d2df0886290003b9813aed6f.png" 
+    },
+    {
+      "id": "LT21",
+      "name": "LRT Radijas",
+      "country": "Lithuania",
+      "description": "Pasaulis tavo automobilyje",
+      "genre": "Lithuanian, Pop",
+      "frequency": 102.6,
+      "mp3Stream": "http://lrt-cast.lrt.lt:8000/lrt_radijas",
+      "aacStream": "",
+      "imageUrl": "https://i.ibb.co/rf0TKpt/9e0a98044593f50cf5fbc5a1a7c27c84.png" 
+    },
+    {
+      "id": "LT22",
+      "name": "TAU",
+      "country": "Lithuania",
+      "description": "Įsijunk gerą nuotaiką",
+      "genre": "Pop",
+      "frequency":102.9,
+      "mp3Stream": "",
+      "aacStream": "http://radijas.tau.lt:8000/stream",
+      "imageUrl": "https://i.ibb.co/N23SNgz/300-1514923910-removebg-preview.png" 
+    },
+    {
+      "id": "LT23",
+      "name": "Svetur",
+      "country": "Lithuania",
+      "description": "Lietuviams Svetur",
+      "genre": "pop",
+      "frequency": 0.0,
+      "mp3Stream": "http://svetur.intellmedia.lt:8282/tiesiogiai.mp3",
+      "aacStream": "",
+      "imageUrl": "https://play-lh.googleusercontent.com/BHCqIS4GXBD3siq_8G7qz70sJRRYV9rQeXMaLZ1nA4cgk85hlCVEI26Qqe_r6KtyeDY"
+    },
+    {
+      "id": "LT24",
+      "name": "PLAY RADIO",
+      "country": "Lithuania",
+      "description": "Dar daugiau hitų",
+      "genre": "TOP40, Contemporary Hit Radio",
+      "frequency": 0.0,
+      "mp3Stream": "https://stream.radiojar.com/d9cm273ystzuv",
+      "aacStream": "",
+      "imageUrl": "https://www.playradio.lt/wp-content/themes/PlayRadio/img/logo.png"
     }
   ]
 }
