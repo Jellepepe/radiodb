@@ -1,0 +1,103 @@
+{
+  "stations": [
+    {
+      "id": "IT1",
+      "name": "RTL 102.5",
+      "country": "Italia",
+      "description": "Very Normal People",
+      "genre": "Pop",
+      "frequency": 102.5,
+      "mp3Stream": "https://streamingv2.shoutcast.com/rtl-1025",
+      "aacStream": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/it/thumb/2/25/RTL_102_5_logo.svg/1200px-RTL_102_5_logo.svg.png"
+    },
+    {
+      "id": "IT2",
+      "name": "Radio Kiss Kiss",
+      "country": "Italia",
+      "description": "Play Everywhere!",
+      "genre": "Pop",
+      "frequency": 104.5,
+      "mp3Stream": "https://ice07.fluidstream.net:8080/KissKiss.mp3",
+      "aacStream": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_Radio_Kiss_Kiss.png"
+    },
+    {
+      "id": "IT3",
+      "name": "Radio Deejay",
+      "country": "Italia",
+      "description": "One nation , One station! ",
+      "genre": "Pop",
+      "frequency": 89.1,
+      "mp3Stream": "https://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8",
+      "aacStream": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/it/thumb/9/93/Logo_Deejay.svg/1200px-Logo_Deejay.svg.png"
+    },
+    {
+      "id": "IT4",
+      "name": "Radio Capital",
+      "country": "Italia",
+      "description": "That's Life",
+      "genre": "Pop",
+      "frequency": 93.1,
+      "mp3Stream": "https://radiocapital-lh.akamaihd.net/i/RadioCapital_Live_1@196312/master.m3u8",
+      "aacStream": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/1200px-Radio_Capital_logo_%282020%29.svg.png"
+    },
+    {
+      "id": "IT5",
+      "name": "Rai Radio 1",
+      "country": "Italia",
+      "description": "Rai",
+      "genre": "Pop",
+      "frequency": 87.6,
+      "mp3Stream": "https://icestreaming.rai.it/1.mp3",
+      "aacStream": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rai_Radio_1_-_Logo_2017.svg/1200px-Rai_Radio_1_-_Logo_2017.svg.png"
+    },
+    {
+      "id": "IT6",
+      "name": "Rai Radio 2",
+      "country": "Italia",
+      "description": "Rai",
+      "genre": "Pop",
+      "frequency": 88.5,
+      "mp3Stream": "https://icestreaming.rai.it/2.mp3",
+      "aacStream": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rai_Radio_2_-_Logo_2017.svg/520px-Rai_Radio_2_-_Logo_2017.svg.png"
+    },
+    {
+      "id": "IT7",
+      "name": "Rai Radio 3",
+      "country": "Italia",
+      "description": "Rai",
+      "genre": "Pop",
+      "frequency": 93.7,
+      "mp3Stream": "https://icestreaming.rai.it/3.mp3",
+      "aacStream": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rai_Radio_3_-_Logo_2017.svg/520px-Rai_Radio_3_-_Logo_2017.svg.png"
+    },
+    {
+      "id": "IT8",
+      "name": "Radio 105",
+      "country": "Italia",
+      "description": "Proud to be different!",
+      "genre": "Pop",
+      "frequency": 104.5,
+      "mp3Stream": "https://icecast.unitedradio.it/Radio105.mp3",
+      "aacStream": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/it/0/01/105.png"
+    },
+    {
+      "id": "IT9",
+      "name": "M2O",
+      "country": "Italia",
+      "description": "DEEJAYSTATION",
+      "genre": "Pop",
+      "frequency": 90.5,
+      "mp3Stream": "https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8",
+      "aacStream": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1280px-Radio_m2o_-_Logo_2019.svg.png"
+    }
+  ]
+}
