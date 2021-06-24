@@ -29,7 +29,7 @@
       "description": "",
       "genre": "Pop",
       "frequency": 0.0,
-      "mp3Stream": "https://virginradio.ro/VirginRadioRomania-live.m3u",
+      "mp3Stream": "",
       "aacStream": "http://astreaming.europafm.ro:8000/virgin_aacp_64k",
       "imageUrl": "https://virginradio.ro/wp-content/themes/virgin_v3/img/logo.png"
     }
