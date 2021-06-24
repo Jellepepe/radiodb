@@ -1,0 +1,37 @@
+{
+  "stations": [
+    {
+      "id": "RO1",
+      "name": "Kiss FM",
+      "country": "Romania",
+      "description": "Kiss FM - #1 HIT RADIO",
+      "genre": "Pop",
+      "frequency": "0.0",
+      "mp3Stream": "",
+      "aacStream": "https://live.kissfm.ro/kissfm.aacp",
+      "imageUrl": "https://www.kissfm.ro/app/assets/images/logo.png"
+    },
+    {
+      "id": "RO2",
+      "name": "Radio ZU",
+      "country": "Romania",
+      "description": "HITURILE se asculta la ZU",
+      "genre": "Pop",
+      "frequency": "89.0",
+      "mp3Stream": "https://live7digi.antenaplay.ro/radiozu/radiozu-48000.m3u8",
+      "aacStream": "",
+      "imageUrl": "https://radiozu.ro/img/logo-zu.png"
+    },
+    {
+      "id": "RO3",
+      "name": "Virgin Radio",
+      "country": "Romania",
+      "description": "",
+      "genre": "Pop",
+      "frequency": "0.0",
+      "mp3Stream": "https://virginradio.ro/VirginRadioRomania-live.m3u",
+      "aacStream": "http://astreaming.europafm.ro:8000/virgin_aacp_64k",
+      "imageUrl": "https://virginradio.ro/wp-content/themes/virgin_v3/img/logo.png"
+    }
+  ]
+}
