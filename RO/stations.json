@@ -44,7 +44,7 @@
       "aacStream": "http://astreaming.europafm.ro:8000/europafm_aacp48k",
       "imageUrl": "https://www.europafm.ro/wp-content/themes/efm_v5/svg/logo.svg"
     },
-	{
+	  {
       "id": "RO5",
       "name": "Digi FM",
       "country": "Romania",
@@ -55,7 +55,7 @@
       "aacStream": "",
       "imageUrl": "https://ro.wikipedia.org/wiki/Digi_FM#/media/Fi%C8%99ier:Logo_Digi_FM_(2017).svg"
     },
-	{
+	  {
       "id": "RO6",
       "name": "Pro FM",
       "country": "Romania",
@@ -66,7 +66,7 @@
       "aacStream": "",
       "imageUrl": "https://www.profm.ro/static/theme-repo/bin/images/profm-logo.svg"
     },
-	{
+	  {
       "id": "RO7",
       "name": "Vibe FM",
       "country": "Romania",
@@ -77,7 +77,7 @@
       "aacStream": "http://astreaming.edi.ro:8000/VibeFM_aac",
       "imageUrl": ""
     },
-	{
+	  {
       "id": "RO8",
       "name": "National FM",
       "country": "Romania",
@@ -88,7 +88,7 @@
       "aacStream": "",
       "imageUrl": "https://www.nationalfm.ro/assets/img/logo-national-fm.jpg"
     },
-	{
+	  {
       "id": "RO9",
       "name": "Romantic FM",
       "country": "Romania",
@@ -99,7 +99,7 @@
       "aacStream": "",
       "imageUrl": "https://romanticfm.ro/img/logo.png"
     },
-	{
+	  {
       "id": "RO10",
       "name": "Magic FM",
       "country": "Romania",
@@ -121,7 +121,7 @@
       "aacStream": "http://live.guerrillaradio.ro:8010/guerrilla.aac",
       "imageUrl": "https://guerrillaradio.b-cdn.net/wp-content/themes/guerrilla/library/images/new_logo_header.png"
     },
-	{
+	  {
       "id": "RO12",
       "name": "Rock FM",
       "country": "Romania",
@@ -132,7 +132,7 @@
       "aacStream": "https://live.rockfm.ro/rockfm.aacp",
       "imageUrl": "https://www.rockfm.ro/app/assets/layout/rock-logo-white.png"
     },
-	{
+	  {
       "id": "RO13",
       "name": "Radio Brasov",
       "country": "Romania",
