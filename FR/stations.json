@@ -1,0 +1,213 @@
+{
+    "stations": [
+      {
+        "id": "FR1",
+        "name": "Fun Radio",
+        "country": "France",
+        "description": "Le son Dancefloor",
+        "genre": "Dance, House, Electro",
+        "frequency": "101.9",
+        "mp3Stream": "http://streaming.radio.funradio.fr/fun-1-44-128",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/eb/Fun_Radio.png/800px-Fun_Radio.png"
+      },
+      {
+        "id": "FR2",
+        "name": "NRJ",
+        "country": "France",
+        "description": "Hit Music Only !",
+        "genre": "Pop, Rock",
+        "frequency": "100.3",
+        "mp3Stream": "https://scdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Nrj2014.png/220px-Nrj2014.png"
+      },
+      {
+        "id": "FR3",
+        "name": "Vibration",
+        "country": "France",
+        "description": "Vibrons ensemble",
+        "genre": "Pop, Rock",
+        "frequency": "102.0",
+        "mp3Stream": "http://vibration.ice.infomaniak.ch/vibration-high.mp3",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Logo_Vibration2018.png/130px-Logo_Vibration2018.png"
+      },
+      {
+        "id": "FR4",
+        "name": "Virgin Radio",
+        "country": "France",
+        "description": "Pop-Rock-Electro",
+        "genre": "Pop-Rock-Electro",
+        "frequency": "103.5",
+        "mp3Stream": "https://stream.virginradio.fr/virgin.aac?aw_0_1st.playerid=lagardereWebVirgin",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Virgin_radio_fr.png"
+      },
+      {
+        "id": "FR5",
+        "name": "Skyrock",
+        "country": "France",
+        "description": "Premier sur le Rap",
+        "genre": "Urban contemporary",
+        "frequency": "96.0",
+        "mp3Stream": "http://icecast.skyrock.net/s/natio_mp3_128k",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/SKYROCK_FM_LOGO.svg/langfr-220px-SKYROCK_FM_LOGO.svg.png"
+      },
+      {
+        "id": "FR6",
+        "name": "Sud Radio",
+        "country": "France",
+        "description": "Parlons vrai",
+        "genre": "Pop, Rock",
+        "frequency": "99.9",
+        "mp3Stream": "https://start-sud.ice.infomaniak.ch/start-sud-high.mp3",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_Sud_Radio_2014.svg/langfr-220px-Logo_Sud_Radio_2014.svg.png"
+      },
+      {
+        "id": "FR7",
+        "name": "RTL",
+        "country": "France",
+        "description": "RTL, Toujours avec Vous !",
+        "genre": "News, Talk",
+        "frequency": "104.3",
+        "mp3Stream": "http://streaming.radio.rtl.fr/rtl-1-44-128",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/langfr-180px-RTL_logo.svg.png"
+      },
+      {
+        "id": "FR8",
+        "name": "RTL2",
+        "country": "France",
+        "description": "Le son Pop-Rock",
+        "genre": "Pop, Rock",
+        "frequency": "105.9",
+        "mp3Stream": "http://streaming.radio.rtl2.fr/rtl2-1-44-128",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/langfr-180px-RTL_logo.svg.png"
+      },
+      {
+        "id": "FR9",
+        "name": "RMC Info Talk Sport",
+        "country": "France",
+        "description": "Info Talk Sport",
+        "genre": "News, Talk, Sport",
+        "frequency": "103.1",
+        "mp3Stream": "http://chai5she.cdn.dvmr.fr/rmcinfo",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/langfr-170px-Logo_RMC_2002.svg.png"
+      },
+      {
+        "id": "FR10",
+        "name": "Rires et Chansons",
+        "country": "France",
+        "description": "La radio du rire",
+        "genre": "Chansons",
+        "frequency": "97.4",
+        "mp3Stream": "https://scdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Logo-rire-et-chansons-2020.png/130px-Logo-rire-et-chansons-2020.png"
+      },
+      {
+        "id": "FR10",
+        "name": "RFM",
+        "country": "France",
+        "description": "Le Meilleur de la Musique",
+        "genre": "Pop, Rock",
+        "frequency": "103.9",
+        "mp3Stream": "https://stream.rfm.fr/rfm.mp3",
+        "aacStream": "https://stream.rfm.fr/rfm.aac",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/RFM_logo_2011.png/130px-RFM_logo_2011.png"
+      },
+      {
+        "id": "FR11",
+        "name": "Nostalgie",
+        "country": "France",
+        "description": "Les plus grandes chansons",
+        "genre": "Classic Hits",
+        "frequency": "90.4",
+        "mp3Stream": "https://scdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Nostalgie_logo_2015.png/220px-Nostalgie_logo_2015.png"
+      },
+      {
+        "id": "FR12",
+        "name": "France Inter",
+        "country": "France",
+        "description": "InterVenez",
+        "genre": "News, Talk",
+        "frequency": "87.6",
+        "mp3Stream": "http://icecast.radiofrance.fr/franceinter-midfi.mp3",
+        "aacStream": "http://icecast.radiofrance.fr/franceinter-hifi.aac",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/39/France_Inter_logo.svg/langfr-130px-France_Inter_logo.svg.png"
+      },
+      {
+        "id": "FR13",
+        "name": "France Info",
+        "country": "News, Talk",
+        "description": "Et tout est plus clair",
+        "genre": "News",
+        "frequency": "105.5",
+        "mp3Stream": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
+        "aacStream": "http://icecast.radiofrance.fr/franceinfo-hifi.aac",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/langfr-220px-Franceinfo.svg.png"
+      },
+      {
+        "id": "FR14",
+        "name": "France Bleu Berry",
+        "country": "France",
+        "description": "Ecoutez, on est bien ensemble",
+        "genre": "Local",
+        "frequency": "95.2",
+        "mp3Stream": "http://direct.francebleu.fr/live/fbberry-midfi.mp3",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8b/France_Bleu_Berry_logo_2015.svg/langfr-110px-France_Bleu_Berry_logo_2015.svg.png"
+      },
+      {
+        "id": "FR15",
+        "name": "France Bleu Orléans",
+        "country": "France",
+        "description": "Ecoutez, on est bien ensemble",
+        "genre": "Local",
+        "frequency": "100.9",
+        "mp3Stream": "http://direct.francebleu.fr/live/fborleans-midfi.mp3",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Bleu_Orl%C3%A9ans_logo_2015.svg/langfr-220px-France_Bleu_Orl%C3%A9ans_logo_2015.svg.png"
+      },
+      {
+        "id": "FR16",
+        "name": "Europe 1",
+        "country": "France",
+        "description": "Écoutez le monde changer",
+        "genre": "News, Talk",
+        "frequency": "104.7",
+        "mp3Stream": "http://ais-live.cloud-services.paris:8000/europe1.mp3",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Europe_1_logo_%282010%29.svg/langfr-170px-Europe_1_logo_%282010%29.svg.png"
+      },
+      {
+        "id": "FR17",
+        "name": "Chérie FM",
+        "country": "France",
+        "description": "La Plus Belle Musique",
+        "genre": "Pop Rock",
+        "frequency": "91.3",
+        "mp3Stream": "https://scdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ch%C3%A9rie_FM_logo_2012.png"
+      },
+      {
+        "id": "FR18",
+        "name": "BFM radio",
+        "country": "France",
+        "description": "La France a tout pour réussir",
+        "genre": "Business",
+        "frequency": "96.4",
+        "mp3Stream": "http://bfmbusiness.cdn.dvmr.fr/bfmbusiness",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_Business_2020.png/150px-Logo_Business_2020.png"
+      }
+    ]
+  }
