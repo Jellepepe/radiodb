@@ -1,0 +1,26 @@
+{
+  "stations": [
+    {
+      "id": "AT1",
+      "name": "Hitradio Ö3",
+      "country": "Österreich",
+      "description": "Das Leben ist ein Hit",
+      "genre": "Pop",
+      "frequency": 88.8,
+      "mp3Stream": "https://orf-live.ors-shoutcast.at/oe3-q2a.m3u",
+      "aacStream": "",
+      "imageUrl": ""
+    },
+    {
+      "id": "AT2",
+      "name": "Kronehit",
+      "country": "Österreich",
+      "description": "Wir spielen die meiste Musik",
+      "genre": "Pop",
+      "frequency":87.9,
+      "mp3Stream": "http://onair.krone.at/kronehit.mp3",
+      "aacStream": "http://raj.krone.at/kronehit-ultra-hd.aac",
+      "imageUrl": ""
+    }
+  ]
+}
