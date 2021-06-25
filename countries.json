@@ -16,7 +16,6 @@
       "name": "Nederland",
       "code": "NL"
     },  
-
     {
           "name": "România",
 	        "code": "RO"
@@ -25,7 +24,5 @@
       "name": "Sverige",
       "code": "SE"
     }
-
-
 ]
 }
