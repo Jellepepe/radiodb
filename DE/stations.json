@@ -76,6 +76,50 @@
       "mp3Stream": "https://edge06.streamonkey.net/energy-digital/stream/mp3?aggregator=Shorty",
       "aacStream": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Energy_Z%C3%BCrich_Logo.png"
-    }	
+    },
+    {
+      "id": "DE8",
+      "name": "Antenne Bayern",
+      "country": "Deutschland",
+      "description": "Wir lieben Bayern. Wir lieben die Hits.",
+      "genre": "Hits",
+      "frequency": 101.9,
+      "mp3Stream": "https://mp3channels.webradio.de/antenne",
+      "aacStream": "",
+      "imageUrl": "https://www.antenne.de/assets/templates/antenne-de//img/logo-antenne-de-header-2.svg"
+    },
+    {
+      "id": "DE9",
+      "name": "Charivari",
+      "country": "Deutschland",
+      "description": "",
+      "genre": "Hits",
+      "frequency": 96.8,
+      "mp3Stream": "http://webstream.charivari986.de/charivari986",
+      "aacStream": "",
+      "imageUrl": "https://www.986charivari.de/images/system/charilogo_diversity.jpg"
+    },		
+	{
+      "id": "DE10",
+      "name": "Bayern 3",
+      "country": "Deutschland",
+      "description": "Hits, Hits, Hits",
+      "genre": "Hits",
+      "frequency": 94.4,
+      "mp3Stream": "https://br-br3-live.cast.addradio.de/br/br3/live/mp3/128/stream.mp3",
+      "aacStream": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bayern3_logo_2015.svg/640px-Bayern3_logo_2015.svg.png"
+    },
+    {
+      "id": "DE11",
+      "name": "Energy Nürnberg",
+      "country": "Deutschland",
+      "description": "Immer die besten neuen Hits.",
+      "genre": "Hits",
+      "frequency": 93.6,
+      "mp3Stream": "https://scdn.nrjaudio.fm/adwz1/de/33011/mp3_128.mp3",
+      "aacStream": "",
+      "imageUrl": "https://www.energy.de/sites/all/themes/zen_energy/images/logo_white.png"
+    }			
   ]
 }
