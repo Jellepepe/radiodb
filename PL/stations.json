@@ -1,0 +1,37 @@
+{
+    "stations": [
+      {
+        "id": "PL1",
+        "name": "Radio Nowy Świat",
+        "country": "Polska",
+        "description": "Pion i Poziom",
+        "genre": "Muzyka, Publicystyka",
+        "frequency": 0.0,
+        "mp3Stream": "https://n15a-eu.rcs.revma.com/ypqt40u0x1zuv?rj-ttl=5&rj-tok=AAABekk0sJEAzy6iTuiuEbOk0A",
+        "aacStream": "https://n20a-eu.rcs.revma.com/5ws0kfn1x1zuv?rj-ttl=5&rj-tok=AAABekk1VN0Ah9W_YPLuW6U0Bg",
+        "imageUrl": "https://nowyswiat.online/wp-content/uploads/2020/08/rns-start.jpg"
+      },
+      {
+        "id": "PL2",
+        "name": "Radio 357",
+        "country": "Polska",
+        "description": "Twoja Ulubiona Muzyka!",
+        "genre": "Muzyka, Publicystyka",
+        "frequency": 0.0,
+        "mp3Stream": "https://stream.rcs.revma.com/an1ugyygzk8uv",
+        "aacStream": "https://stream.rcs.revma.com/ye5kghkgcm0uv",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Radio357_logotype.jpg"
+      },
+      {
+        "id": "PL3",
+        "name": "Radio Lublin",
+        "country": "Polska",
+        "description": "Najświeższe informacje z Lublina",
+        "genre": "Muzyka, Wiadomości Regionalne",
+        "frequency": 102.2,
+        "mp3Stream": "https://streaming.radio.lublin.pl:8843/128k",
+        "aacStream": "",
+        "imageUrl": "https://radio.lublin.pl/static/logo_rl.png"
+      }
+    ]
+  }
