@@ -61,7 +61,7 @@
       "country": "Netherlands",
       "description": "Één station, Alle Hits",
       "genre": "Pop, Dance",
-      "frequency": "102.5",
+      "frequency": 102.5,
       "mp3Stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
       "aacStream": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_Radio_538_2014.svg/256px-Logo_Radio_538_2014.svg.png"
@@ -72,7 +72,7 @@
       "country": "Netherlands",
       "description": "Q sounds better with you",
       "genre": "Pop, Rock, Dance",
-      "frequency": "100.7",
+      "frequency": 100.7,
       "mp3Stream": "https://stream.qmusic.nl/qmusic/mp3",
       "aacStream": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Qmusiclogo2015red.jpg"
@@ -83,7 +83,7 @@
       "country": "Netherlands",
       "description": "Veronica is aan land!",
       "genre": "Pop-Rock-Electro",
-      "frequency": "97.8",
+      "frequency": 97.8,
       "mp3Stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3",
       "aacStream": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC.aac",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Logo_Radio_Veronica.png"
@@ -94,7 +94,7 @@
       "country": "Netherlands",
       "description": "Enjoy the music!",
       "genre": "Pop Music",
-      "frequency": "101.2",
+      "frequency": 101.2,
       "mp3Stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3",
       "aacStream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIOAAC.aac",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sky_Radio_logo_2019.png"
@@ -105,7 +105,7 @@
       "country": "Netherlands",
       "description": "Play Music, Play Life",
       "genre": "Pop, Rock",
-      "frequency": "93.6",
+      "frequency": 93.6,
       "mp3Stream": "https://stream.radiocorp.nl/web14_mp3",
       "aacStream": "https://stream.radiocorp.nl/web14_aac",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Slam%21FM.PNG"
