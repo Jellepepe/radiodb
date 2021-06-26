@@ -111,7 +111,7 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Logo-rire-et-chansons-2020.png/130px-Logo-rire-et-chansons-2020.png"
       },
       {
-        "id": "FR10",
+        "id": "FR11",
         "name": "RFM",
         "country": "France",
         "description": "Le Meilleur de la Musique",
@@ -122,7 +122,7 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/RFM_logo_2011.png/130px-RFM_logo_2011.png"
       },
       {
-        "id": "FR11",
+        "id": "FR12",
         "name": "Nostalgie",
         "country": "France",
         "description": "Les plus grandes chansons",
@@ -133,7 +133,7 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Nostalgie_logo_2015.png/220px-Nostalgie_logo_2015.png"
       },
       {
-        "id": "FR12",
+        "id": "FR13",
         "name": "France Inter",
         "country": "France",
         "description": "InterVenez",
@@ -144,7 +144,7 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/39/France_Inter_logo.svg/langfr-130px-France_Inter_logo.svg.png"
       },
       {
-        "id": "FR13",
+        "id": "FR14",
         "name": "France Info",
         "country": "News, Talk",
         "description": "Et tout est plus clair",
@@ -155,7 +155,7 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/langfr-220px-Franceinfo.svg.png"
       },
       {
-        "id": "FR14",
+        "id": "FR15",
         "name": "France Bleu Berry",
         "country": "France",
         "description": "Ecoutez, on est bien ensemble",
@@ -166,7 +166,7 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8b/France_Bleu_Berry_logo_2015.svg/langfr-110px-France_Bleu_Berry_logo_2015.svg.png"
       },
       {
-        "id": "FR15",
+        "id": "FR16",
         "name": "France Bleu Orléans",
         "country": "France",
         "description": "Ecoutez, on est bien ensemble",
@@ -177,7 +177,7 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Bleu_Orl%C3%A9ans_logo_2015.svg/langfr-220px-France_Bleu_Orl%C3%A9ans_logo_2015.svg.png"
       },
       {
-        "id": "FR16",
+        "id": "FR17",
         "name": "Europe 1",
         "country": "France",
         "description": "Écoutez le monde changer",
@@ -188,7 +188,7 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Europe_1_logo_%282010%29.svg/langfr-170px-Europe_1_logo_%282010%29.svg.png"
       },
       {
-        "id": "FR17",
+        "id": "FR18",
         "name": "Chérie FM",
         "country": "France",
         "description": "La Plus Belle Musique",
@@ -199,7 +199,7 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ch%C3%A9rie_FM_logo_2012.png"
       },
       {
-        "id": "FR18",
+        "id": "FR19",
         "name": "BFM radio",
         "country": "France",
         "description": "La France a tout pour réussir",
