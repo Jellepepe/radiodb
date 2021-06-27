@@ -33,5 +33,18 @@
         "aacStream": "",
         "imageUrl": "https://radio.lublin.pl/static/logo_rl.png"
       }
+
+      {
+        "id": "PL4",
+        "name": "Radio VOX FM",
+        "country": "Polska",
+        "description": "Pion i Poziom",
+        "genre": "Muzyka, Publicystyka",
+        "frequency": 93.3,
+        "mp3Stream": "https://waw01-01.ic.smcdn.pl:8000/3990-1.mp3.m3u,
+        "aacStream": "https://waw01-01.ic.smcdn.pl:8000/3990-1.aac.m3u,
+        "imageUrl": "https://"https://images.app.goo.gl/NG21wzSxDLWdkSf57"
+      }
+
     ]
   }
