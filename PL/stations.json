@@ -29,9 +29,20 @@
         "description": "Najświeższe informacje z Lublina",
         "genre": "Muzyka, Wiadomości Regionalne",
         "frequency": 102.2,
-        "mp3Stream": "https://streaming.radio.lublin.pl:8843/128k",
+        "mp3Stream": "https:/waw01-01.ic.smcdn.pl:8000/2010-1.mp3.m3u",
         "aacStream": "",
         "imageUrl": "https://radio.lublin.pl/static/logo_rl.png"
-      }
+      }, 
+      {
+        "id": "PL4",
+        "name": "Radio Eska",
+        "country": "Polska",
+        "description": "Najświeższe informacje",
+        "genre": "Muzyka",
+        "frequency": 102.2,
+        "mp3Stream": "https://streaming.radio.lublin.pl:8843/128k",
+        "aacStream": "https://waw01-01.ic.smcdn.pl:8000/2010-1.aac.m3u",
+        "imageUrl": "https://https://pl.m.wikipedia.org/wiki/Radio_Eska#/media/Plik%3ARadio_Eska.jpg"
+       },
     ]
   }
