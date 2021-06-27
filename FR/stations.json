@@ -86,7 +86,7 @@
         "frequency": 105.9,
         "mp3Stream": "http://streaming.radio.rtl2.fr/rtl2-1-44-128",
         "aacStream": "",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/langfr-180px-RTL_logo.svg.png"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/RTL2.png/220px-RTL2.png"
       },
       {
         "id": "FR9",
@@ -183,8 +183,8 @@
         "description": "Écoutez le monde changer",
         "genre": "News, Talk",
         "frequency": 104.7,
-        "mp3Stream": "http://ais-live.cloud-services.paris:8000/europe1.mp3",
-        "aacStream": "",
+        "mp3Stream": "https://stream.europe1.fr/europe1.mp3",
+        "aacStream": "https://stream.europe1.fr/europe1.aac",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Europe_1_logo_%282010%29.svg/langfr-170px-Europe_1_logo_%282010%29.svg.png"
       },
       {
@@ -208,6 +208,94 @@
         "mp3Stream": "http://bfmbusiness.cdn.dvmr.fr/bfmbusiness",
         "aacStream": "",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_Business_2020.png/150px-Logo_Business_2020.png"
+      },
+      {
+        "id": "FR20",
+        "name": "Radio Vinci Autoroutes",
+        "country": "France",
+        "description": "Roulez autrement, Roulez informé",
+        "genre": "Info-traffic",
+        "frequency": 107.7,
+        "mp3Stream": "https://str0.creacast.com/radio_vinci_autoroutes_6",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Logo_radio_vinci_autoroutes.svg/langfr-220px-Logo_radio_vinci_autoroutes.svg.png"
+      },
+      {
+        "id": "FR21",
+        "name": "Ouï FM",
+        "country": "France",
+        "description": "La Radio du Rock",
+        "genre": "Rock",
+        "frequency": 102.1,
+        "mp3Stream": "https://target-ad-1.cdn.dvmr.fr/ouifm-high.mp3",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Oui_FM_2014_logo.png/110px-Oui_FM_2014_logo.png"
+      },
+      {
+        "id": "FR22",
+        "name": "Radio FG",
+        "country": "France",
+        "description": "Feel Good",
+        "genre": "Electronic Dance",
+        "frequency": 94.9,
+        "mp3Stream": "https://radiofg.impek.com/fg.mp3",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/FG_2019.png/150px-FG_2019.png"
+      },
+      {
+        "id": "FR23",
+        "name": "Voltage FM",
+        "country": "France",
+        "description": "Les Hits d'Hier et d'Aujourd'hui",
+        "genre": "Pop",
+        "frequency": 96.9,
+        "mp3Stream": "https://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3",
+        "aacStream": "https://start-voltage.ice.infomaniak.ch/start-voltage-32.aac",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Voltage_logo_2018.png/110px-Voltage_logo_2018.png"
+      },
+      {
+        "id": "FR24",
+        "name": "France Culture",
+        "country": "France",
+        "description": "L'esprit d'ouverture",
+        "genre": "Culture",
+        "frequency": 98.8,
+        "mp3Stream": "https://icecast.radiofrance.fr/franceculture-midfi.mp3",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/langfr-180px-France_Culture_-_2008.svg.png"
+      },
+      {
+        "id": "FR25",
+        "name": "France Musique",
+        "country": "France",
+        "description": "Classique mais pas que.",
+        "genre": "Classical",
+        "frequency": 94.2,
+        "mp3Stream": "https://icecast.radiofrance.fr/francemusique-midfi.mp3",
+        "aacStream": "https://direct.francemusique.fr/live/francemusique-hifi.aac",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/langfr-180px-France_Musique_-_2008.svg.png"
+      },
+      {
+        "id": "FR26",
+        "name": "Nova Paris",
+        "country": "France",
+        "description": "NOVA, le grand Mix",
+        "genre": "Eclectic",
+        "frequency": 101.5,
+        "mp3Stream": "https://novazz.ice.infomaniak.ch/novazz-128.mp3",
+        "aacStream": "",
+        "imageUrl": "https://www.nova.fr/wp-content/uploads/sites/2/2020/12/radio_NOVA_LOGO.png"
+      },
+      {
+        "id": "FR27",
+        "name": "Mouv FM",
+        "country": "France",
+        "description": "Ta radio hip-hop",
+        "genre": "Hip-Hop",
+        "frequency": 82.1,
+        "mp3Stream": "https://direct.mouv.fr/live/mouv-midfi.mp3",
+        "aacStream": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Mouv.svg/langfr-220px-Mouv.svg.png"
       }
     ]
   }
