@@ -120,6 +120,39 @@
       "mp3Stream": "https://scdn.nrjaudio.fm/adwz1/de/33011/mp3_128.mp3",
       "aacStream": "",
       "imageUrl": "https://www.energy.de/sites/all/themes/zen_energy/images/logo_white.png"
-    }			
+    },
+    {
+      "id": "DE12",
+      "name": "1LIVE",
+      "country": "Deutschland",
+      "description": "Nur wir sind so",
+      "genre": "Pop, Dance, House, Hip-Hop",
+      "frequency": 107.9,
+      "mp3Stream": "https://wdr-edge-301d-dus-ts-cdn.cast.addradio.de/wdr/1live/live/mp3/128/stream.mp3",
+      "aacStream": "",
+      "imageUrl": "https://www.radio.at/images/broadcasts/20/43/36450/4/c300.png"
+    },
+    {
+      "id": "DE13",
+      "name": "WDR 4",
+      "country": "Deutschland",
+      "description": "Schönes bleibt",
+      "genre": "Pop",
+      "frequency": 100.0,
+      "mp3Stream": "http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
+      "aacStream": "",
+      "imageUrl": "https://img.ardmediathek.de/standard/00/42/92/13/80/-295433861/1x1/448?mandant=ard"
+    },
+    {
+      "id": "DE14",
+      "name": "RADIO RST",
+      "country": "Deutschland",
+      "description": "Beste Unterhaltung für Rheine, Steinfurt, Tecklenburg",
+      "genre": "Pop",
+      "frequency": 105.2,
+      "mp3Stream": "https://www.radiorst.de/service/radioplayer.html?radiochannel=live#",
+      "aacStream": "",
+      "imageUrl": "https://www.radio.de/images/broadcasts/e0/30/6929/2/c300.png"
+    }
   ]
 }
