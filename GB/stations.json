@@ -40,7 +40,7 @@
       "country": "United Kingdom",
       "description": "Spoken word programmes",
       "genre": "News, Talk, Comedy, Drama",
-      "frequency":92,
+      "frequency": 92.0,
       "mp3Stream": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p",
       "aacStream": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB4.png"
