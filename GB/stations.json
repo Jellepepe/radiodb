@@ -8,8 +8,8 @@
       "description": "Contemporary hit radio",
       "genre": "Pop",
       "frequency": 97.1,
-      "mp3Stream": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p",
-      "aacStream": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8",
+      "mp3Stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
+      "aacStream": "",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB1.png"
     },
     {
@@ -19,8 +19,8 @@
       "description": "Adult contemporary music",
       "genre": "Contemporary",
       "frequency": 88.1,
-      "mp3Stream": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p",
-      "aacStream": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8",
+      "mp3Stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two",
+      "aacStream": "",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB2.png"
     }, 
     {
@@ -30,8 +30,8 @@
       "description": "The world's most significant commissioner of new music",
       "genre": "Classical, Opera, Jazz",
       "frequency": 90.2,
-      "mp3Stream": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p",
-      "aacStream": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8",
+      "mp3Stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three",
+      "aacStream": "",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB3.png"
     },
     {
@@ -41,8 +41,8 @@
       "description": "Spoken word programmes",
       "genre": "News, Talk, Comedy, Drama",
       "frequency": 92.0,
-      "mp3Stream": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p",
-      "aacStream": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8",
+      "mp3Stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm",
+      "aacStream": "",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB4.png"
     },
     {
@@ -52,8 +52,8 @@
       "description": "The sound of Northern Lincolnshire and East Yorkshire, and all the music you love",
       "genre": "Local news, talk and music",
       "frequency": 95.9,
-      "mp3Stream": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_humberside/format/pls.pls",
-      "aacStream": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_humberside.m3u8",
+      "mp3Stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_humberside",
+      "aacStream": "",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB5.png"
     },
     {
@@ -63,8 +63,8 @@
       "description": "Listen in Colour",
       "genre": "Jazz, Soul, Blues",
       "frequency": 102.2,
-      "mp3Stream": "http://www.radiofeeds.co.uk/bauer.pls?station=jazz.mp3.m3u",
-      "aacStream": "http://www.radiofeeds.co.uk/bauer.pls?station=jazzhigh.aac.m3u",
+      "mp3Stream": "https://stream-al.planetradio.co.uk/jazz.mp3",
+      "aacStream": "https://stream-al.planetradio.co.uk/jazzhigh.aac",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB6.png"
     },
     {
@@ -74,8 +74,8 @@
       "description": "Non-stop music from the 1980s",
       "genre": "Pop",
       "frequency": 0.0,
-      "mp3Stream": "http://www.radiofeeds.net/bauerflash.pls?station=absolute80s.mp3.m3u",
-      "aacStream": "http://www.radiofeeds.net/bauerflash.pls?station=absolute80shigh.aac.m3u",
+      "mp3Stream": "https://stream-ar.planetradio.co.uk/absolute80s.mp3",
+      "aacStream": "https://stream-ar.planetradio.co.uk/absolute80shigh.aac",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB7.png"
     },
     {
@@ -85,8 +85,8 @@
       "description": "Non-stop music from the 1990s",
       "genre": "Pop",
       "frequency": 0.0,
-      "mp3Stream": "http://www.radiofeeds.net/bauerflash.pls?station=absolute90s.mp3.m3u",
-      "aacStream": "http://www.radiofeeds.net/bauerflash.pls?station=absolute90shigh.aac.m3u",
+      "mp3Stream": "https://stream-ar.planetradio.co.uk/absolute90s.mp3",
+      "aacStream": "https://stream-ar.planetradio.co.uk/absolute90shigh.aac",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB8.png"
     }, 
     {
@@ -96,8 +96,8 @@
       "description": "Mellow and calm music",
       "genre": "Chill",
       "frequency": 0.0,
-      "mp3Stream": "http://www.radiofeeds.co.uk/bauer.pls?station=magicmellow.mp3.m3u",
-      "aacStream": "http://www.radiofeeds.co.uk/bauer.pls?station=magicmellow.aac.m3u",
+      "mp3Stream": "https://stream-mz.planetradio.co.uk/magicmellow.mp3",
+      "aacStream": "https://stream-mz.planetradio.co.uk/magicmellow.aac",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB9.png"
     },
     {
@@ -107,8 +107,8 @@
       "description": "Music from the 1980s",
       "genre": "Pop",
       "frequency": 0.0,
-      "mp3Stream": "http://icecast.thisisdax.com/Heart80sMP3.m3u",
-      "aacStream": "http://icecast.thisisdax.com/Heart80s.m3u",
+      "mp3Stream": "https://media-ice.musicradio.com/Heart80sMP3",
+      "aacStream": "https://media-ice.musicradio.com/Heart80s",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB10.png"
     },
     {
@@ -118,8 +118,8 @@
       "description": "Music from the 1990s",
       "genre": "Pop",
       "frequency": 0.0,
-      "mp3Stream": "http://icecast.thisisdax.com/Heart90sMP3.m3u",
-      "aacStream": "http://icecast.thisisdax.com/Heart90s.m3u",
+      "mp3Stream": "https://media-ssl.musicradio.com/Heart90sMP3",
+      "aacStream": "https://media-ssl.musicradio.com/Heart90s",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB11.png"
     },
     {
@@ -129,8 +129,8 @@
       "description": "Classic Dance Music",
       "genre": "Dance",
       "frequency": 0.0,
-      "mp3Stream": "http://icecast.thisisdax.com/HeartDanceMP3.m3u",
-      "aacStream": "http://icecast.thisisdax.com/HeartDance.m3u",
+      "mp3Stream": "https://media-ssl.musicradio.com/HeartDanceMP3",
+      "aacStream": "https://media-ssl.musicradio.com/HeartDance",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB12.png"
     },
     {
@@ -140,8 +140,8 @@
       "description": "Current affairs, phone in and talk",
       "genre": "Talk",
       "frequency": 97.3,
-      "mp3Stream": "http://icecast.thisisdax.com/LBCGBMP3Low.m3u",
-      "aacStream": "http://icecast.thisisdax.com/LBCGB.m3u",
+      "mp3Stream": "https://media-ssl.musicradio.com/LBCLondonMP3",
+      "aacStream": "https://media-ssl.musicradio.com/LBCLondon",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB13.png"
     },
     {
@@ -151,8 +151,8 @@
       "description": "The Greatest Hits for Hull & East Yorkshire",
       "genre": "Contemporary",
       "frequency": 99.8,
-      "mp3Stream": "http://www.radiofeeds.net/sharptemp.pls?station=hull.mp3",
-      "aacStream": "http://www.radiofeeds.net/sharptemp.pls?station=hulli.aac",
+      "mp3Stream": "https://stream-mz.planetradio.co.uk/net2national.mp3",
+      "aacStream": "https://stream-mz.planetradio.co.uk/net2national.aac",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB14.png"
     },
     {
@@ -162,8 +162,8 @@
       "description": "The Biggest Hits, The Biggest Throwbacks",
       "genre": "Pop",
       "frequency": 96.9,
-      "mp3Stream": "http://www.radiofeeds.co.uk/bauer.pls?station=viking.mp3.m3u",
-      "aacStream": "http://www.radiofeeds.co.uk/bauer.pls?station=viking.aac.m3u",
+      "mp3Stream": "http://icy-e-bz-07-boh.sharp-stream.com/viking.mp3",
+      "aacStream": "http://icy-e-bz-07-boh.sharp-stream.com/viking.aac",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB15.png"
     },
     {
@@ -173,8 +173,8 @@
       "description": "Old Skool, Dance Anthems, Garage",
       "genre": "Dance",
       "frequency": 96.9,
-      "mp3Stream": "http://www.radiofeeds.co.uk/bauer.pls?station=kisstory.mp3.m3u",
-      "aacStream": "http://www.radiofeeds.co.uk/bauer.pls?station=kisstory.aac.m3u",
+      "mp3Stream": "https://stream-kiss.planetradio.co.uk/kisstory.mp3",
+      "aacStream": "https://stream-kiss.planetradio.co.uk/kisstory.aac",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB16.png"
     }
   ]
