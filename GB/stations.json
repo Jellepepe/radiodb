@@ -1,0 +1,181 @@
+
+{
+  "stations": [
+    {
+      "id": "GB1",
+      "name": "BBC Radio 1",
+      "country": "United Kingdom",
+      "description": "Contemporary hit radio",
+      "genre": "Pop",
+      "frequency": 97.1,
+      "mp3Stream": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p",
+      "aacStream": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB1.png"
+    },
+    {
+      "id": "GB2",
+      "name": "BBC Radio 2",
+      "country": "United Kingdom",
+      "description": "Adult contemporary music",
+      "genre": "Contemporary",
+      "frequency": 88.1,
+      "mp3Stream": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p",
+      "aacStream": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB2.png"
+    }, 
+    {
+      "id": "GB3",
+      "name": "BBC Radio 3",
+      "country": "United Kingdom",
+      "description": "The world's most significant commissioner of new music",
+      "genre": "Classical, Opera, Jazz",
+      "frequency": 90.2,
+      "mp3Stream": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p",
+      "aacStream": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB3.png"
+    },
+    {
+      "id": "GB4",
+      "name": "BBC Radio 4",
+      "country": "United Kingdom",
+      "description": "Spoken word programmes",
+      "genre": "News, Talk, Comedy, Drama",
+      "frequency":92,
+      "mp3Stream": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p",
+      "aacStream": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB4.png"
+    },
+    {
+      "id": "GB5",
+      "name": "BBC Radio Humberside",
+      "country": "United Kingdom",
+      "description": "The sound of Northern Lincolnshire and East Yorkshire, and all the music you love",
+      "genre": "Local news, talk and music",
+      "frequency": 95.9,
+      "mp3Stream": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_humberside/format/pls.pls",
+      "aacStream": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_humberside.m3u8",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB5.png"
+    },
+    {
+      "id": "GB6",
+      "name": "Jazz FM",
+      "country": "United Kingdom",
+      "description": "Listen in Colour",
+      "genre": "Jazz, Soul, Blues",
+      "frequency": 102.2,
+      "mp3Stream": "http://www.radiofeeds.co.uk/bauer.pls?station=jazz.mp3.m3u",
+      "aacStream": "http://www.radiofeeds.co.uk/bauer.pls?station=jazzhigh.aac.m3u",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB6.png"
+    },
+    {
+      "id": "GB7",
+      "name": "Absolute Radio 80s",
+      "country": "United Kingdom",
+      "description": "Non-stop music from the 1980s",
+      "genre": "Pop",
+      "frequency": 0.0,
+      "mp3Stream": "http://www.radiofeeds.net/bauerflash.pls?station=absolute80s.mp3.m3u",
+      "aacStream": "http://www.radiofeeds.net/bauerflash.pls?station=absolute80shigh.aac.m3u",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB7.png"
+    },
+    {
+      "id": "GB8",
+      "name": "Absolute Radio 90s",
+      "country": "United Kingdom",
+      "description": "Non-stop music from the 1990s",
+      "genre": "Pop",
+      "frequency": 0.0,
+      "mp3Stream": "http://www.radiofeeds.net/bauerflash.pls?station=absolute90s.mp3.m3u",
+      "aacStream": "http://www.radiofeeds.net/bauerflash.pls?station=absolute90shigh.aac.m3u",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB8.png"
+    }, 
+    {
+      "id": "GB9",
+      "name": "Mellow Magic",
+      "country": "United Kingdom",
+      "description": "Mellow and calm music",
+      "genre": "Chill",
+      "frequency": 0.0,
+      "mp3Stream": "http://www.radiofeeds.co.uk/bauer.pls?station=magicmellow.mp3.m3u",
+      "aacStream": "http://www.radiofeeds.co.uk/bauer.pls?station=magicmellow.aac.m3u",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB9.png"
+    },
+    {
+      "id": "GB10",
+      "name": "Heart 80s",
+      "country": "United Kingdom",
+      "description": "Music from the 1980s",
+      "genre": "Pop",
+      "frequency": 0.0,
+      "mp3Stream": "http://icecast.thisisdax.com/Heart80sMP3.m3u",
+      "aacStream": "http://icecast.thisisdax.com/Heart80s.m3u",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB10.png"
+    },
+    {
+      "id": "GB11",
+      "name": "Heart 90s",
+      "country": "United Kingdom",
+      "description": "Music from the 1990s",
+      "genre": "Pop",
+      "frequency": 0.0,
+      "mp3Stream": "http://icecast.thisisdax.com/Heart90sMP3.m3u",
+      "aacStream": "http://icecast.thisisdax.com/Heart90s.m3u",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB11.png"
+    },
+    {
+      "id": "GB12",
+      "name": "Heart Dance",
+      "country": "United Kingdom",
+      "description": "Classic Dance Music",
+      "genre": "Dance",
+      "frequency": 0.0,
+      "mp3Stream": "http://icecast.thisisdax.com/HeartDanceMP3.m3u",
+      "aacStream": "http://icecast.thisisdax.com/HeartDance.m3u",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB12.png"
+    },
+    {
+      "id": "GB13",
+      "name": "LBC",
+      "country": "United Kingdom",
+      "description": "Current affairs, phone in and talk",
+      "genre": "Talk",
+      "frequency": 97.3,
+      "mp3Stream": "http://icecast.thisisdax.com/LBCGBMP3Low.m3u",
+      "aacStream": "http://icecast.thisisdax.com/LBCGB.m3u",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB13.png"
+    },
+    {
+      "id": "GB14",
+      "name": "Greatest Hits Radio (Yorkshire)",
+      "country": "United Kingdom",
+      "description": "The Greatest Hits for Hull & East Yorkshire",
+      "genre": "Contemporary",
+      "frequency": 99.8,
+      "mp3Stream": "http://www.radiofeeds.net/sharptemp.pls?station=hull.mp3",
+      "aacStream": "http://www.radiofeeds.net/sharptemp.pls?station=hulli.aac",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB14.png"
+    },
+    {
+      "id": "GB15",
+      "name": "Viking FM",
+      "country": "United Kingdom",
+      "description": "The Biggest Hits, The Biggest Throwbacks",
+      "genre": "Pop",
+      "frequency": 96.9,
+      "mp3Stream": "http://www.radiofeeds.co.uk/bauer.pls?station=viking.mp3.m3u",
+      "aacStream": "http://www.radiofeeds.co.uk/bauer.pls?station=viking.aac.m3u",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB15.png"
+    },
+    {
+      "id": "GB16",
+      "name": "Kisstory",
+      "country": "United Kingdom",
+      "description": "Old Skool, Dance Anthems, Garage",
+      "genre": "Dance",
+      "frequency": 96.9,
+      "mp3Stream": "http://www.radiofeeds.co.uk/bauer.pls?station=kisstory.mp3.m3u",
+      "aacStream": "http://www.radiofeeds.co.uk/bauer.pls?station=kisstory.aac.m3u",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB16.png"
+    }
+  ]
+}
