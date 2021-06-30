@@ -1,0 +1,15 @@
+{
+  "stations": [
+    {
+      "id": "IE1",
+      "name": "Deep House Radio",
+      "country": "Ireland",
+      "description": "Deep house, techno, disco, funky",
+      "genre": "Dance",
+      "frequency": 104.9,
+      "mp3Stream": "https://deephouseradio.radioca.st/stream/1/",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IE/IMG/IE1.png"
+    }
+  ]
+}

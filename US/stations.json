@@ -1,0 +1,15 @@
+{
+  "stations": [
+    {
+      "id": "US1",
+      "name": "Deep House Lounge",
+      "country": "United States",
+      "description": "Deep house, techno, disco, funky",
+      "genre": "Dance",
+      "frequency": 0.0,
+      "mp3Stream": "http://198.15.94.34:8006/stream",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/US/IMG/US1.png"
+    }
+  ]
+}

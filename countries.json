@@ -16,6 +16,10 @@
       "name": "United Kingdom",
       "code": "GB"
     },
+    { 
+      "name" : "Ireland",
+      "code" : "IE"
+    },
     {
       "name": "Italia",
       "code": "IT"
@@ -39,6 +43,10 @@
     {
       "name": "Sverige",
       "code": "SE"
+    },
+    {
+      "name": "United States",
+      "code": "US"
     }
   ]
 }
