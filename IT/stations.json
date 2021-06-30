@@ -98,6 +98,105 @@
       "mp3Stream": "https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8",
       "aacStream": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1280px-Radio_m2o_-_Logo_2019.svg.png"
+    },
+    {
+      "id": "IT10",
+      "name": "Radio Subasio",
+      "country": "Italia",
+      "description": "Radio Subasio",
+      "genre": "Pop",
+      "frequency": 106.2,
+      "mp3Stream": "https://icy.unitedradio.it/Subasio.mp3",
+      "aacStream": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/it/1/10/Logo-RSubasio.png"
+    },
+    {
+      "id": "IT11",
+      "name": "RDS",
+      "country": "Italia",
+      "description": "RDS 100% grandi successi",
+      "genre": "Pop",
+      "frequency": 93.6,
+      "mp3Stream": "https://icstream.rds.radio/rds",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT11.png"
+    },
+    {
+      "id": "IT12",
+      "name": "R101",
+      "country": "Italia",
+      "description": "R101 Enjoy the music",
+      "genre": "Pop",
+      "frequency": 105.2,
+      "mp3Stream": "https://icecast.unitedradio.it/r101",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT12.png"
+    },
+    {
+      "id": "IT13",
+      "name": "Virgin Radio",
+      "country": "Italia",
+      "description": "Virgin Radio Rock",
+      "genre": "Rock",
+      "frequency": 104.7,
+      "mp3Stream": "https://icecast.unitedradio.it/Virgin.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT13.png"
+    },
+    {
+      "id": "IT14",
+      "name": "Rai Isoradio",
+      "country": "Italia",
+      "description": "Rai Info",
+      "genre": "Pop",
+      "frequency": 103.3,
+      "mp3Stream": "https://icestreaming.rai.it/6.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT14.png"
+    },
+    {
+      "id": "IT15",
+      "name": "Lattemiele",
+      "country": "Italia",
+      "description": "Lattemiele",
+      "genre": "Pop",
+      "frequency": 99.1,
+      "mp3Stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LATTEMIELE.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT15.png"
+    },
+    {
+      "id": "IT16",
+      "name": "Radionorba",
+      "country": "Italia",
+      "description": "Radionorba",
+      "genre": "Pop",
+      "frequency": 106.8,
+      "mp3Stream": "http://onair11.xdevel.com:9990/;",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT16.png"
+    },
+    {
+      "id": "IT17",
+      "name": "Radio Cuore",
+      "country": "Italia",
+      "description": "Radio Cuore",
+      "genre": "Pop",
+      "frequency": 101.7,
+      "mp3Stream": "http://46.105.114.57:8001/stream2",
+      "aacStream": "",
+      "imageUrl": "https://www.laboo.biz/radio/radio-cuore-streaming.png"
+    },
+    {
+      "id": "IT18",
+      "name": "Radio Studio Pi�",
+      "country": "Italia",
+      "description": "Radio Studio Pi�",
+      "genre": "Pop",
+      "frequency": 95.5,
+      "mp3Stream": "",
+      "aacStream": "https://ice.studiopiu.net/rete.aac",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT18.png"
     }
   ]
 }
