@@ -176,6 +176,39 @@
       "mp3Stream": "https://stream-kiss.planetradio.co.uk/kisstory.mp3",
       "aacStream": "https://stream-kiss.planetradio.co.uk/kisstory.aac",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB16.png"
+    },
+    {
+      "id": "GB17",
+      "name": "Capital FM",
+      "country": "UK",
+      "description": "The UK's No.1 hit music station",
+      "genre": "Pop",
+      "frequency": 106.0,
+      "mp3Stream": "",
+      "aacStream": "https://media-ssl.musicradio.com/Capital",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB17.png"
+    },
+    {
+      "id": "GB18",
+      "name": "Capital Dance",
+      "country": "UK",
+      "description": "The UK's official dance station",
+      "genre": "Dance",
+      "frequency": 0.0,
+      "mp3Stream": "https://media-ssl.musicradio.com/CapitalDance",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB18.png"
+    },
+    {
+      "id": "GB19",
+      "name": "Deep Vibes Radio",
+      "country": "UK",
+      "description": "Deep house & techno",
+      "genre": "Dance",
+      "frequency": 0.0,
+      "mp3Stream": "http://deepvibes.co.uk:9106/stream/1/",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB19.png"
     }
   ]
 }
