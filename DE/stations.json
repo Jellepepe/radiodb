@@ -164,6 +164,17 @@
       "mp3Stream": "https://addrad.io/4459gxr",
       "aacStream": "",
       "imageUrl": "https://www.radio.de/images/broadcasts/e0/30/6929/2/c300.png"
+    },
+    {
+      "id": "DE16",
+      "name": "Metropol FM",
+      "country": "Deutschland",
+      "description": "Deutschlands erstes türkischsprachiges Radio.",
+      "genre": "Adult Contemporary",
+      "frequency": 97.1,
+      "mp3Stream": "",
+      "aacStream": "https://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE16.png"
     }
   ]
 }
