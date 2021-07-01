@@ -54,6 +54,28 @@
         "mp3Stream": "https://play.adtonos.com/vox-warszawa",
         "aacStream": "",
         "imageUrl": "https://radio.byme.dev/PL/IMG/PL5.png"
+      },
+      {
+        "id": "PL6",
+        "name": "Radio ZET",
+        "country": "Polska",
+        "description": "Najświeższe informacje",
+        "genre": "Muzyka, Wiadomości",
+        "frequency": 102.2,
+        "mp3Stream": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
+        "aacStream": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Radio_ZET_logo.png"
+      },
+      {
+        "id": "PL7",
+        "name": "RMF FM",
+        "country": "Polska",
+        "description": "Radio, Muzyka, Fakty",
+        "genre": "Muzyka, Wiadomości",
+        "frequency": 91.0,
+        "mp3Stream": "https://rs203-krk.rmfstream.pl/rmf_fm",
+        "aacStream": "https://rs203-krk.rmfstream.pl/RMFFM48",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/RMF_FM_logo.svg/1200px-RMF_FM_logo.svg.png"
       }
     ]
   }
