@@ -9,7 +9,7 @@
       "frequency": 90.8,
       "mp3Stream": "https://live-icy.dr.dk/A/A03H.mp3",
       "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p1/masterab.m3u8",
-      "imageUrl": "https://radio.byme.dev/DK/IMG/DRP1_logo_primaer_RGB.png"
+      "imageUrl": "https://radio.byme.dev/DK/IMG/DK1.png"
     },
     {
       "id": "DK2",
@@ -20,7 +20,7 @@
       "frequency": 0.0,
       "mp3Stream": "https://live-icy.dr.dk/A/A04H.mp3",
       "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p2/masterab.m3u8",
-      "imageUrl": "https://radio.byme.dev/DK/IMG/DRP2_logo_primaer_RGB.png"
+      "imageUrl": "https://radio.byme.dev/DK/IMG/DK2.png"
     },
     {
       "id": "DK3",
@@ -31,7 +31,7 @@
       "frequency": 93.9,
       "mp3Stream": "https://live-icy.dr.dk/A/A05H.mp3",
       "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p3/masterab.m3u8",
-      "imageUrl": "https://radio.byme.dev/DK/IMG/DRP3_logo_primaer_RGB.png"
+      "imageUrl": "https://radio.byme.dev/DK/IMG/DK3.png"
     },
     {
       "id": "DK4",
@@ -42,7 +42,7 @@
       "frequency": 96.5,
       "mp3Stream": "https://live-icy.dr.dk/A/A08H.mp3",
       "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p4kobenhavn/masterab.m3u8",
-      "imageUrl": "https://radio.byme.dev/DK/IMG/DRP4_logo_primaer_RGB.png"
+      "imageUrl": "https://radio.byme.dev/DK/IMG/DK4.png"
     },
     {
       "id": "DK5",
@@ -53,7 +53,7 @@
       "frequency": 0.0,
       "mp3Stream": "https://live-icy.dr.dk/A/A28H.mp3",
       "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p5kobenhavn/masterab.m3u8",
-      "imageUrl": "https://radio.byme.dev/DK/IMG/DRP5_logo_primaer_RGB.png"
+      "imageUrl": "https://radio.byme.dev/DK/IMG/DK5.png"
     },
     {
       "id": "DK6",
@@ -64,7 +64,7 @@
       "frequency": 0.0,
       "mp3Stream": "https://live-icy.dr.dk/A/A29H.mp3",
       "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p6beat/masterab.m3u8",
-      "imageUrl": "https://radio.byme.dev/DK/IMG/DRP6_logo_primaer_RGB.png"
+      "imageUrl": "https://radio.byme.dev/DK/IMG/DK6.png"
     },
     {
       "id": "DK7",
@@ -75,7 +75,7 @@
       "frequency": 0.0,
       "mp3Stream": "https://live-icy.dr.dk/A/A22H.mp3",
       "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p8jazz.m3u8",
-      "imageUrl": "https://radio.byme.dev/DK/IMG/DRP8_logo_primaer_RGB.png"
+      "imageUrl": "https://radio.byme.dev/DK/IMG/DK7.png"
     }
   ]
 }
