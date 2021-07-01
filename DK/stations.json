@@ -7,7 +7,7 @@
       "description": "Tankevækkende radio",
       "genre": "News",
       "frequency": 90.8,
-      "mp3Stream": "http://live-icy.dr.dk/A/A03H.mp3",
+      "mp3Stream": "https://live-icy.dr.dk/A/A03H.mp3",
       "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p1/masterab.m3u8",
       "imageUrl": "https://radio.byme.dev/DK/IMG/DRP1_logo_primaer_RGB.png"
     },
@@ -18,7 +18,7 @@
       "description": "Klassisk musik",
       "genre": "Classical",
       "frequency": 0.0,
-      "mp3Stream": "http://live-icy.dr.dk/A/A04H.mp3",
+      "mp3Stream": "https://live-icy.dr.dk/A/A04H.mp3",
       "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p2/masterab.m3u8",
       "imageUrl": "https://radio.byme.dev/DK/IMG/DRP2_logo_primaer_RGB.png"
     },
@@ -29,7 +29,7 @@
       "description": "Det Du Hører - Er Du Selv",
       "genre": "Hits",
       "frequency": 93.9,
-      "mp3Stream": "http://live-icy.dr.dk/A/A05H.mp3",
+      "mp3Stream": "https://live-icy.dr.dk/A/A05H.mp3",
       "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p3/masterab.m3u8",
       "imageUrl": "https://radio.byme.dev/DK/IMG/DRP3_logo_primaer_RGB.png"
     },
@@ -40,7 +40,7 @@
       "description": "DR P4 København",
       "genre": "",
       "frequency": 96.5,
-      "mp3Stream": "http://live-icy.dr.dk/A/A08H.mp3",
+      "mp3Stream": "https://live-icy.dr.dk/A/A08H.mp3",
       "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p4kobenhavn/masterab.m3u8",
       "imageUrl": "https://radio.byme.dev/DK/IMG/DRP4_logo_primaer_RGB.png"
     },
@@ -51,7 +51,7 @@
       "description": "DR P5",
       "genre": "",
       "frequency": 0.0,
-      "mp3Stream": "http://live-icy.dr.dk/A/A28H.mp3",
+      "mp3Stream": "https://live-icy.dr.dk/A/A28H.mp3",
       "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p5kobenhavn/masterab.m3u8",
       "imageUrl": "https://radio.byme.dev/DK/IMG/DRP5_logo_primaer_RGB.png"
     },
@@ -62,7 +62,7 @@
       "description": "DR P6 BEAT",
       "genre": "",
       "frequency": 0.0,
-      "mp3Stream": "http://live-icy.dr.dk/A/A28H.mp3",
+      "mp3Stream": "https://live-icy.dr.dk/A/A28H.mp3",
       "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p6beat/masterab.m3u8",
       "imageUrl": "https://radio.byme.dev/DK/IMG/DRP6_logo_primaer_RGB.png"
     },
@@ -73,7 +73,7 @@
       "description": "DR P8 JAZZ",
       "genre": "Jazz",
       "frequency": 0.0,
-      "mp3Stream": "http://live-icy.dr.dk/A/A28H.mp3",
+      "mp3Stream": "https://live-icy.dr.dk/A/A28H.mp3",
       "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p8jazz.m3u8",
       "imageUrl": "https://radio.byme.dev/DK/IMG/DRP8_logo_primaer_RGB.png"
     }
