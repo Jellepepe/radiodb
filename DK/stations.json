@@ -1,0 +1,81 @@
+{
+  "stations": [
+    {
+      "id": "DK1",
+      "name": "DR P1",
+      "country": "Danmark",
+      "description": "Tankevækkende radio",
+      "genre": "News",
+      "frequency": 90.8,
+      "mp3Stream": "http://live-icy.dr.dk/A/A03H.mp3",
+      "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p1/masterab.m3u8",
+      "imageUrl": "https://radio.byme.dev/DK/IMG/DRP1_logo_primaer_RGB.png"
+    },
+    {
+      "id": "DK2",
+      "name": "DR P2",
+      "country": "Danmark",
+      "description": "Klassisk musik",
+      "genre": "Classical",
+      "frequency": 0.0,
+      "mp3Stream": "http://live-icy.dr.dk/A/A04H.mp3",
+      "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p2/masterab.m3u8",
+      "imageUrl": "https://radio.byme.dev/DK/IMG/DRP2_logo_primaer_RGB.png"
+    },
+    {
+      "id": "DK3",
+      "name": "DR P3",
+      "country": "Danmark",
+      "description": "Det Du Hører - Er Du Selv",
+      "genre": "Hits",
+      "frequency": 93.9,
+      "mp3Stream": "http://live-icy.dr.dk/A/A05H.mp3",
+      "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p3/masterab.m3u8",
+      "imageUrl": "https://radio.byme.dev/DK/IMG/DRP3_logo_primaer_RGB.png"
+    },
+    {
+      "id": "DK4",
+      "name": "DR P4 Kbh",
+      "country": "Danmark",
+      "description": "DR P4 København",
+      "genre": "",
+      "frequency": 96,5,
+      "mp3Stream": "http://live-icy.dr.dk/A/A08H.mp3",
+      "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p4kobenhavn/masterab.m3u8",
+      "imageUrl": "https://radio.byme.dev/DK/IMG/DRP4_logo_primaer_RGB.png"
+    },
+    {
+      "id": "DK5",
+      "name": "DR P5",
+      "country": "Danmark",
+      "description": "DR P5",
+      "genre": "",
+      "frequency": 0,0,
+      "mp3Stream": "http://live-icy.dr.dk/A/A28H.mp3",
+      "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p5kobenhavn/masterab.m3u8",
+      "imageUrl": "https://radio.byme.dev/DK/IMG/DRP5_logo_primaer_RGB.png"
+    },
+    {
+      "id": "DK6",
+      "name": "DR P6",
+      "country": "Danmark",
+      "description": "DR P6 BEAT",
+      "genre": "",
+      "frequency": 0,0,
+      "mp3Stream": "http://live-icy.dr.dk/A/A28H.mp3",
+      "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p6beat/masterab.m3u8",
+      "imageUrl": "https://radio.byme.dev/DK/IMG/DRP6_logo_primaer_RGB.png"
+    },
+    {
+      "id": "DK7",
+      "name": "DR P8",
+      "country": "Danmark",
+      "description": "DR P8 JAZZ",
+      "genre": "Jazz",
+      "frequency": 0,0,
+      "mp3Stream": "http://live-icy.dr.dk/A/A28H.mp3",
+      "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p8jazz.m3u8",
+      "imageUrl": "https://radio.byme.dev/DK/IMG/DRP8_logo_primaer_RGB.png"
+    }
+  ]
+}
