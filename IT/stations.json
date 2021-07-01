@@ -189,14 +189,25 @@
     },
     {
       "id": "IT18",
-      "name": "Radio Studio Pi�",
+      "name": "Radio Studio Più",
       "country": "Italia",
-      "description": "Radio Studio Pi�",
+      "description": "Radio Studio Più",
       "genre": "Pop",
       "frequency": 95.5,
       "mp3Stream": "",
       "aacStream": "https://ice.studiopiu.net/rete.aac",
       "imageUrl": "https://radio.byme.dev/IT/IMG/IT18.png"
+    },
+    {
+      "id": "IT19",
+      "name": "Ibiza",
+      "country": "Italia",
+      "description": "DanceStation",
+      "genre": "Pop, Electro",
+      "frequency": 91.0,
+      "mp3Stream": "",
+      "aacStream": "https://ice02.fluidstream.net/ibiza.aac",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT19.png"
     }
   ]
 }
