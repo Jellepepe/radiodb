@@ -209,6 +209,17 @@
       "mp3Stream": "http://deepvibes.co.uk:9106/stream/1/",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB19.png"
+    },
+    {
+      "id": "GB20",
+      "name": "TalkSport",
+      "country": "UK",
+      "description": "The world's biggest sports radio station",
+      "genre": "Sport",
+      "frequency": 0.0,
+      "mp3Stream": "http://radio.talksport.com/stream?aisGetOriginalStream=true",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB20.png"
     }
   ]
 }
