@@ -217,7 +217,7 @@
       "description": "The world's biggest sports radio station",
       "genre": "Sport",
       "frequency": 0.0,
-      "mp3Stream": "http://radio.talksport.com/stream?aisGetOriginalStream=true",
+      "mp3Stream": "https://radio.talksport.com/stream",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB20.png"
     }
