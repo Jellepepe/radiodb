@@ -208,6 +208,17 @@
       "mp3Stream": "",
       "aacStream": "https://ice02.fluidstream.net/ibiza.aac",
       "imageUrl": "https://radio.byme.dev/IT/IMG/IT19.png"
+    },
+    {
+      "id": "IT20",
+      "name": "Disco Radio",
+      "country": "Italia",
+      "description": "Ilritmo della tua citt\u00e0",
+      "genre": "Classic Hits",
+      "frequency": 96.5,
+      "mp3Stream": "https://icstream.rds.radio/disco",
+      "aacStream": "https://stream.discoradio.radio/audio/disco.stream_aac64/playlist.m3u8",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT20.png"
     }
   ]
 }
