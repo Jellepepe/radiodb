@@ -219,6 +219,39 @@
       "mp3Stream": "https://icstream.rds.radio/disco",
       "aacStream": "https://stream.discoradio.radio/audio/disco.stream_aac64/playlist.m3u8",
       "imageUrl": "https://radio.byme.dev/IT/IMG/IT20.png"
+    },
+    {
+      "id": "IT21",
+      "name": "Radio80",
+      "country": "Italia",
+      "description": "Se \u00e8 nuovo non suona",
+      "genre": "Pop, Rock",
+      "frequency": 100.8,
+      "mp3Stream": "",
+      "aacStream": "https://sphera.fluidstream.eu/radio80.aac",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT21.png"
+    },
+    {
+      "id": "IT22",
+      "name": "Radio Italia",
+      "country": "Italia",
+      "description": "SoloMusica Italiana",
+      "genre": "Pop, Rock",
+      "frequency": 105.6,
+      "mp3Stream": "https://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/master.m3u8",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT22.png"
+    },
+    {
+      "id": "IT23",
+      "name": "Radio Monte Carlo",
+      "country": "Italia",
+      "description": "Musica di Gran Classe",
+      "genre": "Pop, Rock",
+      "frequency": 105.3,
+      "mp3Stream": "https://icy.unitedradio.it/RMC.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT23.png"
     }
   ]
 }
