@@ -220,6 +220,17 @@
       "mp3Stream": "https://radio.talksport.com/stream",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB20.png"
-    }
+    },
+    {
+      "id": "GB21",
+      "name": "Heart London",
+      "country": "United Kingdom",
+      "description": "Adult contemporary",
+      "genre": "Pop",
+      "frequency": 106.2,
+      "mp3Stream": "https://media-ice.musicradio.com/HeartLondonMP3",
+      "aacStream": "https://media-ssl.musicradio.com/HeartLondon",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB21.png"
+    }    
   ]
 }
