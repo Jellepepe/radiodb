@@ -153,6 +153,28 @@
       "mp3Stream": "",
       "aacStream": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP20.aac",
       "imageUrl": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/428.jpg"
+    },
+    {
+      "id": "DK15",
+      "name": "Radio Nordjyske",
+      "country": "Danmark",
+      "description": "Seneste nyheder fra Nordjylland",
+      "genre": "Pop, Hits, News",
+      "frequency": 97.1,
+      "mp3Stream": "https://stream.anr.dk/aura",
+      "aacStream": "",
+      "imageUrl": "https://nordjyske.dk/Content/images/logos/radionordjyske_applogo.svg"
+    },
+    {
+      "id": "DK16",
+      "name": "ANR",
+      "country": "Danmark",
+      "description": "Sjov og udfordrende radio til unge nordjyder",
+      "genre": "Pop, Hits",
+      "frequency": 87.6,
+      "mp3Stream": "https://stream.anr.dk/anr",
+      "aacStream": "",
+      "imageUrl": "https://anr.dk/img/anr_logo.png"
     }
   ]
 }
