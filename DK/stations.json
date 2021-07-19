@@ -82,22 +82,99 @@
       "name": "NOVA",
       "country": "Danmark",
       "description": "Lyden af i dag",
-      "genre": "Pop, Rock, Contemporary",
+      "genre": "Pop, Rock, Contemporary”,
       "frequency": 91.4,
       "mp3Stream": "https://live-bauerdk.sharp-stream.com/nova128.mp3",
       "aacStream": "",
       "imageUrl": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/174.jpg"
     },
     {
-      "id": "DK8",
-      "name": "NOVA",
+      "id": "DK9",
+      "name": "The Voice",
       "country": "Danmark",
-      "description": "Lyden af i dag",
-      "genre": "Pop, Rock, Contemporary”,
-      "frequency": 91.4,
-      "mp3stream": "https://live-bauerdk.sharp-stream.com/nova128.mp3",
+      "description": "Danmarks hitstation",
+      "genre": "Pop, Rock",
+      "frequency": 104.9,
+      "mp3Stream": "https://live-bauerdk.sharp-stream.com/voice128.mp3",
       "aacStream": "",
-      "imageUrl": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/174.jpg"
+      "imageUrl": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/173.jpg"
+    },
+    {
+      "id": "DK10",
+      "name": "Radio 100",
+      "country": "Danmark",
+      "description": "100% god musik",
+      "genre": "Pop, Contemporary",
+      "frequency": 100.0,
+      "mp3Stream": "https://live-bauerdk.sharp-stream.com/100fm_live.mp3",
+      "aacStream": "",
+      "imageUrl": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/178.jpg"
+    },
+    {
+      "id": "DK11",
+      "name": "Pop FM",
+      "country": "Danmark",
+      "description": "Godt humør og mere variation",
+      "genre": "Pop",
+      "frequency": 97.2,
+      "mp3Stream": "https://live-bauerdk.sharp-stream.com/popfm128.mp3",
+      "aacStream": "",
+      "imageUrl": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/175.jpg"
+    },
+    {
+      "id": "DK12",
+      "name": "myRock",
+      "country": "Danmark",
+      "description": "Danmarks eneste rockradio",
+      "genre": "Rock",
+      "frequency": 105.6,
+      "mp3Stream": "https://live-bauerdk.sharp-stream.com/myrock.mp3",
+      "aacStream": "",
+      "imageUrl": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/176.jpg"
+    },
+    {
+      "id": "DK13",
+      "name": "Radio Soft",
+      "country": "Danmark",
+      "description": "De største ballader",
+      "genre": "Pop, Contemporary",
+      "frequency": 95.0,
+      "mp3Stream": "https://live-bauerdk.sharp-stream.com/soft_live.mp3",
+      "aacStream": "",
+      "imageUrl": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/212.jpg"
+    },
+    {
+      "id": "DK14",
+      "name": "mix 7",
+      "country": "Danmark",
+      "description": "Non stop music",
+      "genre": "Pop, Rock, Contemporary",
+      "frequency": 0.0,
+      "mp3Stream": "",
+      "aacStream": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP20.aac",
+      "imageUrl": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/428.jpg"
+    },
+    {
+      "id": "DK15",
+      "name": "Radio Nordjyske",
+      "country": "Danmark",
+      "description": "Seneste nyheder fra Nordjylland",
+      "genre": "Pop, News, Contemporary",
+      "frequency": 97.1,
+      "mp3Stream": "https://stream.anr.dk/aura",
+      "aacStream": "",
+      "imageUrl": "https://nordjyske.dk/Content/images/logos/radionordjyske_applogo.svg"
+    },
+    {
+      "id": "DK16",
+      "name": "ANR",
+      "country": "Danmark",
+      "description": "Sjov og udfordrende radio til unge nordjyder",
+      "genre": "Pop",
+      "frequency": 87.6,
+      "mp3Stream": "https://stream.anr.dk/anr",
+      "aacStream": "",
+      "imageUrl": "https://anr.dk/img/anr_logo.png"
     }
   ]
 }
