@@ -78,11 +78,11 @@
       "imageUrl": "https://radio.byme.dev/DK/IMG/DK7.png"
     },
     {
-      "id": "DK7",
-      "name": "DR P8",
+      "id": "DK8",
+      "name": "NOVA",
       "country": "Danmark",
-      "description": "DR P8 JAZZ",
-      "genre": "Jazz",
+      "description": "Lyden af i dag",
+      "genre": "Pop, Rock, Contemporary",
       "frequency": 0.0,
       "mp3Stream": "https://live-icy.dr.dk/A/A22H.mp3",
       "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p8jazz.m3u8",
