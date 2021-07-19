@@ -78,12 +78,12 @@
       "imageUrl": "https://radio.byme.dev/DK/IMG/DK7.png"
     },
     {
-      "id": "DK8",
+      "id": "DK9",
       "name": "NOVA",
       "country": "Danmark",
       "description": "Lyden af i dag",
-      "genre": "Pop, Rock, Contemporary”,
-      "frequency": 91.1,
+      "genre": "Pop, Rock, Contemporary",
+      "frequency": 91,4,
       "mp3Stream": "https://live-bauerdk.sharp-stream.com/nova128.mp3",
       "aacStream": "",
       "imageUrl": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/174.jpg"
