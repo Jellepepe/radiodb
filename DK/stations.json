@@ -83,8 +83,8 @@
       "country": "Danmark",
       "description": "Lyden af i dag",
       "genre": "Pop, Rock, Contemporary",
-      "frequency": 0.0,
-      "mp3Stream": "https://live-icy.dr.dk/A/A22H.mp3",
+      "frequency": 91.4,
+      "mp3Stream": "https://live-bauerdk.sharp-stream.com/nova128.mp3",
       "aacStream": "https://drliveradio.akamaized.net/hls/live/2022411/p8jazz.m3u8",
       "imageUrl": "https://radio.byme.dev/DK/IMG/DK7.png"
     },
