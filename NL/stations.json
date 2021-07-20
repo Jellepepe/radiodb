@@ -68,14 +68,14 @@
     },
     {
       "id": "NL7",
-      "name": "Qmusic",
+      "name": "Q music",
       "country": "Netherlands",
       "description": "Q sounds better with you",
       "genre": "Pop, Rock, Dance",
       "frequency": 100.7,
       "mp3Stream": "https://stream.qmusic.nl/qmusic/mp3",
       "aacStream": "",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Qmusiclogo2015red.jpg"
+      "imageUrl": "https://radio.byme.dev/NL/IMG/NL7.png"
     },
     {
       "id": "NL8",
@@ -108,7 +108,7 @@
       "frequency": 93.6,
       "mp3Stream": "https://stream.radiocorp.nl/web14_mp3",
       "aacStream": "https://stream.radiocorp.nl/web14_aac",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Slam%21FM.PNG"
+      "imageUrl": "https://radio.byme.dev/NL/IMG/NL10.png"
     }
   ]
 }
