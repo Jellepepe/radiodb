@@ -177,15 +177,15 @@
       "imageUrl": "https://anr.dk/img/anr_logo.png"
     },
     {
-      "id": "DK18"
-      "name": "Retro-Radio"
-      "country": "Danmark"
-      "description": "Vi er Deres Retro-Radio"
-      "genre": "Pop"
-      "frequency": ""
-      "mp3Stream": "http://streammp3.retro-radio.dk/retro-mp3"
-      "aacStream": "http://stream128.retro-radio.dk/retro"
-      "imageURL": "downloaded"
+      "id": "DK17",
+      "name": "Retro-Radio",
+      "country": "Danmark",
+      "description": "Vi er Deres Retro-Radio",
+      "genre": "Pop",
+      "frequency": "",
+      "mp3Stream": "http://streammp3.retro-radio.dk/retro-mp3",
+      "aacStream": "http://stream128.retro-radio.dk/retro",
+      "imageURL": "https://radio.byme.dev/DK/IMG/DK17.png"
     }
   ]
 }
