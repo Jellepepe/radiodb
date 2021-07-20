@@ -42,7 +42,7 @@
       "frequency": 0.0,
       "mp3Stream": "http://astreaming.europafm.ro:8000/europafm_mp3_64k",
       "aacStream": "http://astreaming.europafm.ro:8000/europafm_aacp48k",
-      "imageUrl": "https://www.europafm.ro/wp-content/themes/efm_v5/svg/logo.svg"
+      "imageUrl": "https://radio.byme.dev/RO/IMG/RO4.png"
     },
 	  {
       "id": "RO5",
@@ -53,7 +53,7 @@
       "frequency": 101.1,
       "mp3Stream": "http://edge76.rdsnet.ro:84/digifm/digifm.mp3",
       "aacStream": "",
-      "imageUrl": "https://ro.wikipedia.org/wiki/Digi_FM#/media/Fi%C8%99ier:Logo_Digi_FM_(2017).svg"
+      "imageUrl": "https://radio.byme.dev/RO/IMG/RO5.png"
     },
 	  {
       "id": "RO6",
@@ -64,7 +64,7 @@
       "frequency": 102.8,
       "mp3Stream": "http://edge126.rdsnet.ro:84/profm/profm.mp3",
       "aacStream": "",
-      "imageUrl": "https://www.profm.ro/static/theme-repo/bin/images/profm-logo.svg"
+      "imageUrl": "https://radio.byme.dev/RO/IMG/RO6.png"
     },
 	  {
       "id": "RO7",
@@ -75,7 +75,7 @@
       "frequency": 92.1,
       "mp3Stream": "",
       "aacStream": "http://astreaming.edi.ro:8000/VibeFM_aac",
-      "imageUrl": ""
+      "imageUrl": "https://radio.byme.dev/RO/IMG/RO7.png"
     },
 	  {
       "id": "RO8",
