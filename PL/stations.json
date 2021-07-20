@@ -20,7 +20,7 @@
         "frequency": 0.0,
         "mp3Stream": "https://stream.rcs.revma.com/an1ugyygzk8uv",
         "aacStream": "https://stream.rcs.revma.com/ye5kghkgcm0uv",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Radio357_logotype.jpg"
+        "imageUrl": "https://radio.byme.dev/PL/IMG/PL2.png"
       },
       {
         "id": "PL3",
@@ -64,7 +64,7 @@
         "frequency": 102.2,
         "mp3Stream": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
         "aacStream": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Radio_ZET_logo.png"
+        "imageUrl": "https://radio.byme.dev/PL/IMG/PL6.png"
       },
       {
         "id": "PL7",
