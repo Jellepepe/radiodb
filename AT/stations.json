@@ -2,6 +2,17 @@
   "stations": [
     {
       "id": "AT1",
+      "name": "Ö1",
+      "country": "Österreich 1",
+      "description": "Das Leben ist ein Hit",
+      "genre": "Kultur",
+      "frequency": 87.8,
+      "mp3Stream": "https://orf-live.ors-shoutcast.at/oe1-q2a",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AT/IMG/oe1.png"
+    },
+    {
+      "id": "AT2",
       "name": "Hitradio Ö3",
       "country": "Österreich",
       "description": "Das Leben ist ein Hit",
@@ -9,10 +20,164 @@
       "frequency": 88.8,
       "mp3Stream": "https://orf-live.ors-shoutcast.at/oe3-q2a",
       "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/AT1.png"
+      "imageUrl": "https://radio.byme.dev/AT/IMG/oe3.png"
     },
     {
-      "id": "AT2",
+      "id": "AT3",
+      "name": "Radio Oberösterreich",
+      "country": "Österreich",
+      "description": "Regionalradio",
+      "genre": "Regional",
+      "frequency": 95.2,
+      "mp3Stream": "https://orf-live.ors-shoutcast.at/ooe-q2a",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AT/IMG/oe2oe.png"
+    },
+    {
+      "id": "AT4",
+      "name": "Radio Niederösterreich",
+      "country": "Österreich",
+      "description": "Regionalradio",
+      "genre": "Regional",
+      "frequency": 90.2,
+      "mp3Stream": "https://orf-live.ors-shoutcast.at/noe-q2a",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AT/IMG/oe2noe.png"
+    },
+    {
+      "id": "AT5",
+      "name": "Radio Kärnten",
+      "country": "Österreich",
+      "description": "Regionalradio",
+      "genre": "Regional",
+      "frequency": 93.5,
+      "mp3Stream": "https://orf-live.ors-shoutcast.at/ktn-q2a",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AT/IMG/oe2ktn.png"
+    },
+    {
+      "id": "AT6",
+      "name": "Radio Salzburg",
+      "country": "Österreich",
+      "description": "Regionalradio",
+      "genre": "Regional",
+      "frequency": 94.8,
+      "mp3Stream": "https://orf-live.ors-shoutcast.at/sbg-q2a",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AT/IMG/oesbg.png"
+    },
+    {
+      "id": "AT7",
+      "name": "Radio Steiermark",
+      "country": "Österreich",
+      "description": "Regionalradio",
+      "genre": "Regional",
+      "frequency": 95.7,
+      "mp3Stream": "https://orf-live.ors-shoutcast.at/stm-q1a.m3u",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AT/IMG/oe2stm.png"
+    },
+    {
+      "id": "AT8",
+      "name": "Radio Tirol",
+      "country": "Österreich",
+      "description": "Regionalradio",
+      "genre": "Regional",
+      "frequency": 96,
+      "mp3Stream": "https://orf-live.ors-shoutcast.at/tir-q2a",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AT/IMG/oe2tir.png"
+    },
+    {
+      "id": "AT9",
+      "name": "Radio Vorarlberg",
+      "country": "Österreich",
+      "description": "Regionalradio",
+      "genre": "Regional",
+      "mp3Stream": "https://orf-live.ors-shoutcast.at/vbg-q2a",
+      "frequency": 90,
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AT/IMG/oe2vbg.png"
+    },
+    {
+      "id": "AT10",
+      "name": "Radio Wien",
+      "country": "Österreich",
+      "description": "Regionalradio",
+      "genre": "Regional",
+      "frequency": 89.9,
+      "mp3Stream": "https://orf-live.ors-shoutcast.at/wie-q2a",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AT/IMG/oe2wie.png"
+    },
+    {
+      "id": "AT11",
+      "name": "Radio Burgenland",
+      "country": "Österreich",
+      "description": "Regionalradio",
+      "genre": "Regional",
+      "frequency": 93.5,
+      "mp3Stream": "https://orf-live.ors-shoutcast.at/bgl-q2a",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AT/IMG/oe2bgl.png"
+    },
+    {
+      "id": "AT12",
+      "name": "FM 4",
+      "country": "Österreich",
+      "description": "Das Leben ist ein Hit",
+      "genre": "Jugendradio",
+      "frequency": 0,
+      "mp3Stream": "https://orf-live.ors-shoutcast.at/fm4-q2a",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AT/IMG/fm4.png"
+    },
+    {
+      "id": "AT13",
+      "name": "Radio Energy Wien",
+      "country": "Österreich",
+      "description": "HIT MUSIC ONLY!",
+      "genre": "Pop",
+      "frequency": 104.2,
+      "mp3Stream": "http://stream1.energy.at:8000/vie",
+      "aacStream": "http://stream1.energy.at:8000/aacplus",
+      "imageUrl": "https://radio.byme.dev/AT/IMG/energy.png"
+    },
+    {
+      "id": "AT14",
+      "name": "Liferadio",
+      "country": "Österreich",
+      "description": "Hier spielt mein Leben",
+      "genre": "Pop",
+      "frequency": 88.3,
+      "mp3Stream": "http://94.136.28.10:8000/liferadio",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AT/IMG/life.png"
+    },
+    {
+      "id": "AT15",
+      "name": "LoungeFM",
+      "country": "Österreich",
+      "description": "Listen & Relax",
+      "genre": "Pop",
+      "frequency": 90.6,
+      "mp3Stream": "http://stream.lounge.fm/loungefm128",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AT/IMG/lounge.png"
+    },
+    {
+      "id": "AT16",
+      "name": "Welle1",
+      "country": "Österreich",
+      "description": "MUSIC RADIO",
+      "genre": "Pop",
+      "frequency": 106.6,
+      "mp3Stream": "http://live.welle1.at:6128/listen.pls",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AT/IMG/welle1.png"
+    },
+    {
+      "id": "AT17",
       "name": "Kronehit",
       "country": "Österreich",
       "description": "Wir spielen die meiste Musik",
@@ -20,7 +185,7 @@
       "frequency":87.9,
       "mp3Stream": "https://secureonair.krone.at/kronehit.mp3",
       "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/AT2.png"
+      "imageUrl": "https://radio.byme.dev/AT/IMG/krhit.png"
     }
   ]
 }
