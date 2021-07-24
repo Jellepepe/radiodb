@@ -231,6 +231,105 @@
       "mp3Stream": "https://media-ice.musicradio.com/HeartLondonMP3",
       "aacStream": "https://media-ssl.musicradio.com/HeartLondon",
       "imageUrl": "https://herald.musicradio.com/media/49b9e8cb-15bf-4bf2-8c28-a4850cc6b0f3.png"
-    }    
+    },
+    {
+      "id": "GB22",
+      "name": "BBC Radio 5 Live",
+      "country": "UK",
+      "description": "Live news and sports reporting from the BBC",
+      "genre": "News, Sport",
+      "frequency": 0.0,
+      "mp3Stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB22.png"
+    },
+    {
+      "id": "GB23",
+      "name": "BBC Radio 5 Live Sports Extra",
+      "country": "UK",
+      "description": "Live sports commentary",
+      "genre": "Sport",
+      "frequency": 0.0,
+      "mp3Stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_sports_extra",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB23.png"
+    },
+    {
+      "id": "GB24",
+      "name": "BBC Radio 6",
+      "country": "UK",
+      "description": "The BBC's dedicated alternative music station",
+      "genre": "Alternative",
+      "frequency": 0.0,
+      "mp3Stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_six",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB24.png"
+    },
+    {
+      "id": "GB25",
+      "name": "Absolute Radio",
+      "country": "UK",
+      "description": "Real Music Matters",
+      "genre": "Rock",
+      "frequency": 0.0,
+      "mp3Stream": "https://stream-ar.planetradio.co.uk/absoluteradio.mp3",
+      "aacStream": "https://stream-ar.planetradio.co.uk/absoluteradiohigh.aac",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB25.png"
+    },
+    {
+      "id": "GB26",
+      "name": "Virgin Radio",
+      "country": "UK",
+      "description": "It's all about the music",
+      "genre": "Contemporary",
+      "frequency": 0.0,
+      "mp3Stream": "http://radio.virginradio.co.uk/stream?ref=rf",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB26.png"
+    },
+    {
+      "id": "GB27",
+      "name": "Smooth",
+      "country": "UK",
+      "description": "Your relaxing music mix",
+      "genre": "Chill, Contemporary",
+      "frequency": 0.0,
+      "mp3Stream": "https://icecast.thisisdax.com/SmoothUKMP3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB27.png"
+    },
+    {
+      "id": "GB28",
+      "name": "Scala",
+      "country": "UK",
+      "description": "Break the mould of classical music",
+      "genre": "Classical",
+      "frequency": 0.0,
+      "mp3Stream": "https://stream-mz.planetradio.co.uk/scala.mp3",
+      "aacStream": "https://stream-mz.planetradio.co.uk/scalahigh.aac",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB28.png"
+    },
+    {
+      "id": "GB29",
+      "name": "Magic",
+      "country": "UK",
+      "description": "More of the songs you love",
+      "genre": "Pop",
+      "frequency": 0.0,
+      "mp3Stream": "https://stream-mz.planetradio.co.uk/magicnational.mp3",
+      "aacStream": "https://stream-mz.planetradio.co.uk/magicnational.aac",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB29.png"
+    },
+    {
+      "id": "GB30",
+      "name": "Heart",
+      "country": "UK",
+      "description": "Turn up the feel good",
+      "genre": "Contemporary, Pop",
+      "frequency": 0.0,
+      "mp3Stream": "https://media-ice.musicradio.com/HeartUKMP3",
+      "aacStream": "https://media-ice.musicradio.com/HeartUK",
+      "imageUrl": "https://herald.musicradio.com/media/49b9e8cb-15bf-4bf2-8c28-a4850cc6b0f3.png"
+    }
   ]
 }
