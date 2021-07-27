@@ -1,0 +1,23 @@
+{
+      "id": "TR1",
+      "name": "Kral FM",
+      "country": "Türkiye",
+      "description": "Deutschlands erstes türkischsprachiges Radio.",
+      "genre": "",
+      "frequency": ,
+      "mp3Stream": "",
+      "aacStream": "http://46.20.3.204/",
+      "imageUrl": "https://cdn1.kralmuzik.com.tr/media/content/i/web/Assets/i/logolar/kral-fm-small.png"
+    }
+    {
+      "id": "TR2",
+      "name": "Kral POP",
+      "country": "Türkiye",
+      "description": "",
+      "genre": "Turkish POP",
+      "frequency": ,
+      "mp3Stream": "",
+      "aacStream": "http://46.20.3.201/",
+      "imageUrl": "https://cdn1.kralmuzik.com.tr/media/content/i/web/Assets/i/logolar/kral-pop-radyo-small.png"
+    }
+    
