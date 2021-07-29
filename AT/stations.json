@@ -2,17 +2,6 @@
   "stations": [
     {
       "id": "AT1",
-      "name": "Ö1",
-      "country": "Österreich 1",
-      "description": "Das Leben ist ein Hit",
-      "genre": "Kultur",
-      "frequency": 87.8,
-      "mp3Stream": "https://orf-live.ors-shoutcast.at/oe1-q2a",
-      "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/oe1.png"
-    },
-    {
-      "id": "AT2",
       "name": "Hitradio Ö3",
       "country": "Österreich",
       "description": "Das Leben ist ein Hit",
@@ -20,7 +9,18 @@
       "frequency": 88.8,
       "mp3Stream": "https://orf-live.ors-shoutcast.at/oe3-q2a",
       "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/oe3.png"
+      "imageUrl": "https://radio.byme.dev/AT/IMG/AT1.png"
+    },
+    {
+      "id": "AT2",
+      "name": "Kronehit",
+      "country": "Österreich",
+      "description": "Wir spielen die meiste Musik",
+      "genre": "Pop",
+      "frequency":87.9,
+      "mp3Stream": "https://secureonair.krone.at/kronehit.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AT/IMG/AT2.png"
     },
     {
       "id": "AT3",
@@ -31,7 +31,7 @@
       "frequency": 95.2,
       "mp3Stream": "https://orf-live.ors-shoutcast.at/ooe-q2a",
       "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/oe2oe.png"
+      "imageUrl": "https://radio.byme.dev/AT/IMG/AT3.png"
     },
     {
       "id": "AT4",
@@ -42,7 +42,7 @@
       "frequency": 90.2,
       "mp3Stream": "https://orf-live.ors-shoutcast.at/noe-q2a",
       "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/oe2noe.png"
+      "imageUrl": "https://radio.byme.dev/AT/IMG/AT4.png"
     },
     {
       "id": "AT5",
@@ -53,7 +53,7 @@
       "frequency": 93.5,
       "mp3Stream": "https://orf-live.ors-shoutcast.at/ktn-q2a",
       "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/oe2ktn.png"
+      "imageUrl": "https://radio.byme.dev/AT/IMG/AT5.png"
     },
     {
       "id": "AT6",
@@ -64,7 +64,7 @@
       "frequency": 94.8,
       "mp3Stream": "https://orf-live.ors-shoutcast.at/sbg-q2a",
       "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/oesbg.png"
+      "imageUrl": "https://radio.byme.dev/AT/IMG/AT6.png"
     },
     {
       "id": "AT7",
@@ -75,7 +75,7 @@
       "frequency": 95.7,
       "mp3Stream": "https://orf-live.ors-shoutcast.at/stm-q1a.m3u",
       "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/oe2stm.png"
+      "imageUrl": "https://radio.byme.dev/AT/IMG/AT7.png"
     },
     {
       "id": "AT8",
@@ -86,7 +86,7 @@
       "frequency": 96,
       "mp3Stream": "https://orf-live.ors-shoutcast.at/tir-q2a",
       "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/oe2tir.png"
+      "imageUrl": "https://radio.byme.dev/AT/IMG/AT8.png"
     },
     {
       "id": "AT9",
@@ -97,7 +97,7 @@
       "mp3Stream": "https://orf-live.ors-shoutcast.at/vbg-q2a",
       "frequency": 90,
       "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/oe2vbg.png"
+      "imageUrl": "https://radio.byme.dev/AT/IMG/AT9.png"
     },
     {
       "id": "AT10",
@@ -108,7 +108,7 @@
       "frequency": 89.9,
       "mp3Stream": "https://orf-live.ors-shoutcast.at/wie-q2a",
       "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/oe2wie.png"
+      "imageUrl": "https://radio.byme.dev/AT/IMG/AT10.png"
     },
     {
       "id": "AT11",
@@ -119,7 +119,7 @@
       "frequency": 93.5,
       "mp3Stream": "https://orf-live.ors-shoutcast.at/bgl-q2a",
       "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/oe2bgl.png"
+      "imageUrl": "https://radio.byme.dev/AT/IMG/AT11.png"
     },
     {
       "id": "AT12",
@@ -130,7 +130,7 @@
       "frequency": 0,
       "mp3Stream": "https://orf-live.ors-shoutcast.at/fm4-q2a",
       "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/fm4.png"
+      "imageUrl": "https://radio.byme.dev/AT/IMG/AT12.png"
     },
     {
       "id": "AT13",
@@ -141,7 +141,7 @@
       "frequency": 104.2,
       "mp3Stream": "http://stream1.energy.at:8000/vie",
       "aacStream": "http://stream1.energy.at:8000/aacplus",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/energy.png"
+      "imageUrl": "https://radio.byme.dev/AT/IMG/AT13.png"
     },
     {
       "id": "AT14",
@@ -152,7 +152,7 @@
       "frequency": 88.3,
       "mp3Stream": "http://94.136.28.10:8000/liferadio",
       "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/life.png"
+      "imageUrl": "https://radio.byme.dev/AT/IMG/AT14.png"
     },
     {
       "id": "AT15",
@@ -163,7 +163,7 @@
       "frequency": 90.6,
       "mp3Stream": "http://stream.lounge.fm/loungefm128",
       "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/lounge.png"
+      "imageUrl": "https://radio.byme.dev/AT/IMG/AT15.png"
     },
     {
       "id": "AT16",
@@ -174,18 +174,18 @@
       "frequency": 106.6,
       "mp3Stream": "http://live.welle1.at:6128/listen.pls",
       "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/welle1.png"
+      "imageUrl": "https://radio.byme.dev/AT/IMG/AT16.png"
     },
     {
       "id": "AT17",
-      "name": "Kronehit",
-      "country": "Österreich",
-      "description": "Wir spielen die meiste Musik",
-      "genre": "Pop",
-      "frequency":87.9,
-      "mp3Stream": "https://secureonair.krone.at/kronehit.mp3",
+      "name": "Ö1",
+      "country": "Österreich 1",
+      "description": "Das Leben ist ein Hit",
+      "genre": "Kultur",
+      "frequency": 87.8,
+      "mp3Stream": "https://orf-live.ors-shoutcast.at/oe1-q2a",
       "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AT/IMG/khit.png"
+      "imageUrl": "https://radio.byme.dev/AT/IMG/AT17.png"
     }
   ]
 }
