@@ -83,7 +83,7 @@
       "country": "Österreich",
       "description": "Regionalradio",
       "genre": "Regional",
-      "frequency": 96,
+      "frequency": 96.0,
       "mp3Stream": "https://orf-live.ors-shoutcast.at/tir-q2a",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/AT/IMG/AT8.png"
@@ -95,7 +95,7 @@
       "description": "Regionalradio",
       "genre": "Regional",
       "mp3Stream": "https://orf-live.ors-shoutcast.at/vbg-q2a",
-      "frequency": 90,
+      "frequency": 90.0,
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/AT/IMG/AT9.png"
     },
@@ -127,7 +127,7 @@
       "country": "Österreich",
       "description": "Das Leben ist ein Hit",
       "genre": "Jugendradio",
-      "frequency": 0,
+      "frequency": 0.0,
       "mp3Stream": "https://orf-live.ors-shoutcast.at/fm4-q2a",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/AT/IMG/AT12.png"
