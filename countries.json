@@ -21,8 +21,8 @@
       "code": "GB"
     },
     { 
-      "name" : "Ireland",
-      "code" : "IE"
+      "name": "Ireland",
+      "code": "IE"
     },
     {
       "name": "Italia",
@@ -47,6 +47,10 @@
     {
       "name": "Sverige",
       "code": "SE"
+    },
+    {
+      "name": "Turkey",
+      "code": "TR"
     },
     {
       "name": "United States",
