@@ -285,6 +285,17 @@
       "mp3Stream": "http://46.105.180.202:8053/live",
       "aacStream": "",
       "imageUrl": "http://www.lifechillmusic.com/wp-content/uploads/2019/12/Logo-original.png"  
+    },
+    {
+      "id": "LT27",
+      "name": "POWER GOLD",
+      "country": "Lithuania",
+      "description": "Power auksas!",
+      "genre": "dance",
+      "frequency": 0.0,
+      "mp3Stream": "",
+      "aacStream": "https://powerhit.ls.lv/PHR_GOLD_AAC",
+      "imageUrl": "https://i.ibb.co/6Hqvf54/PWR-logo-gold-left.png"   
     }
   ]
 }
