@@ -186,6 +186,28 @@
       "mp3Stream": "http://streammp3.retro-radio.dk/retro-mp3",
       "aacStream": "http://stream128.retro-radio.dk/retro",
       "imageURL": "https://radio.byme.dev/DK/IMG/DK17.png"
+    },
+    {
+      "id": "DK18",
+      "name": "Radio4",
+      "country": "Danmark",
+      "description": "Taler med Danmark",
+      "genre": "Pop, Rock, News",
+      "frequency": "102.3",
+      "mp3Stream": "",
+      "aacStream": "https://netradio.radio4.dk/radio4",
+      "imageURL": "https://radio.byme.dev/DK/IMG/DK18.png"
+    },
+    {
+      "id": "DK19",
+      "name": "skala.fm",
+      "country": "Danmark",
+      "description": "Mærk beatet - sammen",
+      "genre": "Pop, Rock",
+      "frequency": "0.0",
+      "mp3Stream": "",
+      "aacStream": "https://webradio.skala.fm/skala",
+      "imageURL": "https://radio.byme.dev/DK/IMG/DK19.png"
     }
   ]
 }
