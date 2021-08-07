@@ -76,6 +76,17 @@
         "mp3Stream": "https://rs203-krk.rmfstream.pl/rmf_fm",
         "aacStream": "https://rs203-krk.rmfstream.pl/RMFFM48",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/RMF_FM_logo.svg/1200px-RMF_FM_logo.svg.png"
+      },
+      {
+        "id": "PL8",
+        "name": "RMFMAXX",
+        "country": "Polska",
+        "description": "Radio, Muzyka, Fakty",
+        "genre": "Muzyka, Wiadomości",
+        "frequency": 95.8,
+        "mp3Stream": "https://rs203-krk.rmfstream.pl/rmf_maxxx",
+        "aacStream": "https://rs203-krk.rmfstream.pl/RMFMAXXX48",
+        "imageUrl": "https://pl.m.wikipedia.org/wiki/RMF_Maxxx#/media/Plik%3ARMF_Maxxx_logo.png"
       }
     ]
   }
