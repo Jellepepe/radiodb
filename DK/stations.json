@@ -175,6 +175,50 @@
       "mp3Stream": "https://stream.anr.dk/anr",
       "aacStream": "",
       "imageUrl": "https://anr.dk/img/anr_logo.png"
+    },
+    {
+      "id": "DK17",
+      "name": "Retro-Radio",
+      "country": "Danmark",
+      "description": "Vi er Deres Retro-Radio",
+      "genre": "Pop, Classic Hits",
+      "frequency": 0.0,
+      "mp3Stream": "http://streammp3.retro-radio.dk/retro-mp3",
+      "aacStream": "http://stream128.retro-radio.dk/retro",
+      "imageURL": "https://radio.byme.dev/DK/IMG/DK17.png"
+    },
+    {
+      "id": "DK18",
+      "name": "Radio4",
+      "country": "Danmark",
+      "description": "Taler med Danmark",
+      "genre": "Pop, Rock, News",
+      "frequency": 102.3,
+      "mp3Stream": "",
+      "aacStream": "https://netradio.radio4.dk/radio4",
+      "imageURL": "https://radio.byme.dev/DK/IMG/DK18.png"
+    },
+    {
+      "id": "DK19",
+      "name": "Skala FM",
+      "country": "Danmark",
+      "description": "Mærk beatet - sammen",
+      "genre": "Pop, Rock",
+      "frequency": 0.0,
+      "mp3Stream": "",
+      "aacStream": "https://webradio.skala.fm/skala",
+      "imageURL": "https://radio.byme.dev/DK/IMG/DK19.png"
+    },
+    {
+      "id": "DK20",
+      "name": "Classic FM",
+      "country": "Danmark",
+      "description": "Passion for Musik",
+      "genre": "Classic Hits",
+      "frequency": 0.0,
+      "mp3Stream": "",
+      "aacStream": "https://webradio.classicfm.dk/classic",
+      "imageURL": "https://classicfm.dk/wp-content/uploads/2017/11/ClassicFM_Android_status_icon_1024x1024_pos1-2.png"
     }
   ]
 }
