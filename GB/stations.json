@@ -352,6 +352,17 @@
       "mp3Stream": "https://stream.zeno.fm/ne6rm5h8hkeuv",
       "aacStream": "",
       "imageUrl": "https://www.prl24.co.uk/wp-content/uploads/2020/06/PRL-logo_600x600.png"
-    }
+    },
+    {
+      "id": "GB33",
+      "name": "Radio X",
+      "country": "UK",
+      "description": "Get Into The Music",
+      "genre": "Rock",
+      "frequency": 0.0,
+      "mp3Stream": "http://icecast.thisisdax.com/RadioXUKMP3",
+      "aacStream": "http://icecast.thisisdax.com/RadioXUK",
+      "imageUrl": "https://herald.musicradio.com/media/2e05011a-7517-435e-bac7-0f1cc979ee99.png"
+    }  
   ]
 }
