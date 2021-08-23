@@ -87,6 +87,39 @@
         "mp3Stream": "https://rs203-krk.rmfstream.pl/rmf_maxxx",
         "aacStream": "https://rs203-krk.rmfstream.pl/RMFMAXXX48",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/RMF_Maxxx_logo.png"
+      },
+      {
+        "id": "PL9",
+        "name": "AntyRadio",
+        "country": "Poland",
+        "description": "Najlepsza muzyka rockowa",
+        "genre": "Rock",
+        "frequency": 106.8,
+        "mp3Stream": "https://n-16-1.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
+        "aacStream": "",
+        "imageUrl": "https://radio.byme.dev/PL/IMG/PL9.png"
+      },
+      {
+        "id": "PL10",
+        "name": "Radio90",
+        "country": "Poland",
+        "description": "Gramy od 25 lat",
+        "genre": "",
+        "frequency": 93.8,
+        "mp3Stream": "http://stream0.radio90.pl:8000/radio90_96kbps_stereo.mp3",
+        "aacStream": "",
+        "imageUrl": "https://radio.byme.dev/PL/IMG/PL10.png"
+      },
+      {
+        "id": "PL11",
+        "name": "Z\u0142ote Przeboje",
+        "country": "Poland",
+        "description": "Najwieksze przeboje lat 80, 90, 00",
+        "genre": "",
+        "frequency": 100.1,
+        "mp3Stream": "https://pl2-play.adtonos.com/zote-przeboje",
+        "aacStream": "",
+        "imageUrl": "https://radio.byme.dev/PL/IMG/PL11.png"
       }
     ]
   }
