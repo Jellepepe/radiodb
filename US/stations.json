@@ -10,6 +10,28 @@
       "mp3Stream": "http://198.15.94.34:8006/stream",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/US/IMG/US1.png"
+    },
+    {
+      "id": "US2",
+      "name": "KEXP",
+      "country": "United States",
+      "description": "Where the music matters",
+      "genre": "Alternative",
+      "frequency": 90.3,
+      "mp3Stream": "https://kexp-mp3-128.streamguys1.com/kexp128.mp3",
+      "aacStream": "http://live-aacplus-64.kexp.org/kexp64.aac",
+      "imageUrl": "https://i.imgur.com/UUuI8tO.png"
+    },
+    {
+      "id": "US3",
+      "name": "dublab",
+      "country": "United States",
+      "description": "Dedicated to the growth of music, arts, and culture",
+      "genre": "Alternative",
+      "frequency": 0.0,
+      "mp3Stream": "https://dublab.out.airtime.pro/dublab_a",
+      "aacStream": "",
+      "imageUrl": "https://dublab-api-1.s3.amazonaws.com/uploads/2020/05/dublab-logo-large.png"
     }
   ]
 }
