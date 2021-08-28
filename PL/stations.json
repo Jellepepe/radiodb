@@ -120,6 +120,28 @@
         "mp3Stream": "https://pl2-play.adtonos.com/zote-przeboje",
         "aacStream": "",
         "imageUrl": "https://radio.byme.dev/PL/IMG/PL11.png"
+      },
+      {
+        "id": "PL12",
+        "name": "Radio Kampus",
+        "country": "Poland",
+        "description": "#SAMESZTOSY",
+        "genre": "Alternative, Pop",
+        "frequency": 97.1,
+        "mp3Stream": "https://stream.open.fm/337",
+        "aacStream": "",
+        "imageUrl": "https://radiokampus.home.pl/takbrzmi/kampus.png"
+      },
+      {
+        "id": "PL13",
+        "name": "Chillizet",
+        "country": "Poland",
+        "description": "Relaksująca muzyka",
+        "genre": "Soul, Jazz, Pop",
+        "frequency": 101.5,
+        "mp3Stream": "httpa://ch01.cdn.eurozet.pl/chi-net.mp3",
+        "aacStream": "",
+        "imageUrl": "https://i.imgur.com/bFO0NCE.png"
       }
     ]
   }
