@@ -252,6 +252,18 @@
       "mp3Stream": "https://icy.unitedradio.it/RMC.mp3",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/IT/IMG/IT23.png"
+    },
+    {
+      "id": "IT24",
+      "name": "RadioSei",
+      "country": "Italia",
+      "description": "RadioSei… e la Lazio sei tu",
+      "genre": "Sport",
+      "frequency": 98.1,
+      "mp3Stream": "https://radiosei.newradio.it/stream",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT24.png"
     }
+    
   ]
 }
