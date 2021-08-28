@@ -363,6 +363,17 @@
       "mp3Stream": "http://icecast.thisisdax.com/RadioXUKMP3",
       "aacStream": "http://icecast.thisisdax.com/RadioXUK",
       "imageUrl": "https://herald.musicradio.com/media/2e05011a-7517-435e-bac7-0f1cc979ee99.png"
-    }  
+    },
+    {
+      "id": "GB34",
+      "name": "NTS Radio",
+      "country": "UK",
+      "description": "Music discovery platform",
+      "genre": "Alternative",
+      "frequency": 0.0,
+      "mp3Stream": "https://stream-relay-geo.ntslive.net/stream",
+      "aacStream": "",
+      "imageUrl": "https://i.imgur.com/JZQ7MXG.png"
+    }
   ]
 }
