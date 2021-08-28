@@ -296,6 +296,17 @@
         "mp3Stream": "https://direct.mouv.fr/live/mouv-midfi.mp3",
         "aacStream": "",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Mouv.svg/langfr-220px-Mouv.svg.png"
+      },
+      {
+        "id": "FR28",
+        "name": "FIP",
+        "country": "France",
+        "description": "Radio musicale éclectique",
+        "genre": "Jazz, Rock, Classical",
+        "frequency": 105.1,
+        "mp3Stream": "https://icecast.radiofrance.fr/fipbordeaux-midfi.mp3",
+        "aacStream": "https://direct.fipradio.fr/live/fip-hifi.aac",
+        "imageUrl": "https://i.imgur.com/wOb1XSW.png"
       }
     ]
   }
