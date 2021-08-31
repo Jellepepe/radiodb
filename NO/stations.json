@@ -13,14 +13,14 @@
     },
     {
       "id": "NO2",
-      "name": "Slam!",
-      "country": "Netherlands",
+      "name": "NRK P13",
+      "country": "Norway",
       "description": "Play Music, Play Life",
-      "genre": "Pop, Rock",
-      "frequency": 93.6,
-      "mp3Stream": "https://stream.radiocorp.nl/web14_mp3",
-      "aacStream": "https://stream.radiocorp.nl/web14_aac",
-      "imageUrl": "https://radio.byme.dev/NL/IMG/NL10.png"
+      "genre": "Entertainment, Pop",
+      "frequency": 0.0,
+      "mp3Stream": "http://lyd.nrk.no/nrk_radio_p13_mp3_h",
+      "aacStream": "http://lyd.nrk.no/nrk_radio_p13_aac_h",
+      "imageUrl": "https://info.nrk.no/wp-content/uploads/2019/09/NRK_P13_rgb.png"
     }
   ]
 }
