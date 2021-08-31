@@ -21,6 +21,17 @@
       "mp3Stream": "http://lyd.nrk.no/nrk_radio_p13_mp3_h",
       "aacStream": "http://lyd.nrk.no/nrk_radio_p13_aac_h",
       "imageUrl": "https://info.nrk.no/wp-content/uploads/2019/09/NRK_P13_rgb.png"
-    }
+    },
+     {
+      "id": "NO3",
+      "name": "P4 ",
+      "country": "Norway",
+      "description": "P4 Lyden av Norge",
+      "genre": "Entertainment, Pop",
+      "frequency": 0.0,
+      "mp3Stream": "https://p4.p4groupaudio.com/P04_MH",
+      "aacStream": "https://p4.p4groupaudio.com/P04_AH",
+      "imageUrl": "https://ddjh0q34m0xak.cloudfront.net/mmo/channelimages/d097eb57-5842-4b20-a7ff-57850dcdb454.png?h=150"
+    } 
   ]
 }
