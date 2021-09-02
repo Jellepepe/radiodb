@@ -7,8 +7,8 @@
       "description": "NRK P1 Distriktsradio",
       "genre": "Various",
       "frequency": 0.0,
-      "mp3Stream": "http://lyd.nrk.no/nrk_radio_p1_nordland_mp3_h",
-      "aacStream": "http:///lyd.nrk.no/nrk_radio_p1_nordland_aac_h",
+      "mp3Stream": "https://lyd.nrk.no/nrk_radio_p1_nordland_mp3_h",
+      "aacStream": "https:///lyd.nrk.no/nrk_radio_p1_nordland_aac_h",
       "imageUrl": "https://info.nrk.no/wp-content/uploads/2020/01/NRK-Nordland-2.png"
     },
     {
@@ -18,8 +18,8 @@
       "description": "Play Music, Play Life",
       "genre": "Entertainment, Pop",
       "frequency": 0.0,
-      "mp3Stream": "http://lyd.nrk.no/nrk_radio_p13_mp3_h",
-      "aacStream": "http://lyd.nrk.no/nrk_radio_p13_aac_h",
+      "mp3Stream": "https://lyd.nrk.no/nrk_radio_p13_mp3_h",
+      "aacStream": "https://lyd.nrk.no/nrk_radio_p13_aac_h",
       "imageUrl": "https://info.nrk.no/wp-content/uploads/2019/09/NRK_P13_rgb.png"
     },
      {
