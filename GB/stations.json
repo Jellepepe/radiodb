@@ -374,6 +374,94 @@
       "mp3Stream": "https://stream-relay-geo.ntslive.net/stream",
       "aacStream": "",
       "imageUrl": "https://i.imgur.com/JZQ7MXG.png"
+    },
+    {
+      "id": "GB35",
+      "name": "Select Radio",
+      "country": "UK",
+      "description": "The UK's number 1 House & Elctronic Music station",
+      "genre": "Dance",
+      "frequency": 0.0,
+      "mp3Stream": "http://server2.unitystreams.com:8800/select.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB35.png"
+    },
+    {
+      "id": "GB36",
+      "name": "Decadance Radio",
+      "country": "UK",
+      "description": "Music is the answer",
+      "genre": "Dance",
+      "frequency": 0.0,
+      "mp3Stream": "http://cast.decadanceradio.net/live",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB36.png"
+    },
+    {
+      "id": "GB37",
+      "name": "Reprazent",
+      "country": "UK",
+      "description": "Youth led radio - Jungle, Drum and bass",
+      "genre": "Dance",
+      "frequency": 0.0,
+      "mp3Stream": "http://radio.canstream.co.uk:8022/live.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB37.png"
+    },
+    {
+      "id": "GB38",
+      "name": "Kool London",
+      "country": "UK",
+      "description": "The world's longest running underground station, live from London 24/7",
+      "genre": "Dance",
+      "frequency": 0.0,
+      "mp3Stream": "http://uk1-pn.mixstream.net:8698",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB38.png"
+    },
+    {
+      "id": "GB39",
+      "name": "Bassjunkees",
+      "country": "UK",
+      "description": "Injecting the drum & bass buzz 24 hours a day",
+      "genre": "Dance",
+      "frequency": 0.0,
+      "mp3Stream": "http://space.ducks.invasion.started.at.bassjunkees.com/bjr_192.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB39.png"
+    },
+    {
+      "id": "GB40",
+      "name": "Jazz London Radio",
+      "country": "UK",
+      "description": "London's Internet Jazz Radio Station",
+      "genre": "Jazz",
+      "frequency": 0.0,
+      "mp3Stream": "http://radio.canstream.co.uk:8075/live.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB40.png"
+    },
+    {
+      "id": "GB41",
+      "name": "BBC Radio 1 Dance",
+      "country": "UK",
+      "description": "Current, classic and future dance hits",
+      "genre": "Dance",
+      "frequency": 0.0,
+      "mp3Stream": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_one_dance.m3u8",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB41.png"
+    },
+    {
+      "id": "GB42",
+      "name": "Rude FM",
+      "country": "UK",
+      "description": "Drum and bass, jungle",
+      "genre": "Dance",
+      "frequency": 0.0,
+      "mp3Stream": "http://78.129.228.187:8034",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/GB/IMG/GB42.png"
     }
   ]
 }
