@@ -176,7 +176,7 @@
       "aacStream": "https://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE16.png"
     },
-	{
+	  {
       "id": "DE17",
       "name": "Deutschlandfunk",
       "country": "Deutschland",
@@ -186,6 +186,28 @@
       "mp3Stream": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
       "aacStream": "https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Deutschlandfunk_Logo_2017.svg/500px-Deutschlandfunk_Logo_2017.svg.png"
+    },
+    {
+      "id": "DE18",
+      "name": "Jam FM",
+      "country": "Deutschland",
+      "description": "Musik die dich bewegt",
+      "genre": "Pop, Rock",
+      "frequency": 93.6,
+      "mp3Stream": "https://jamfm.hoerradar.de/jamfm-mp3-128",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE18.png"
+    },
+    {
+      "id": "DE19",
+      "name": "Sunshine Live",
+      "country": "Deutschland",
+      "description": "Electronic Music Radio",
+      "genre": "Electronic",
+      "frequency": 104,
+      "mp3Stream": "https://sunshinelive.hoerradar.de/sunshinelive-mp3-128",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE19.png"
     }
   ]
 }
