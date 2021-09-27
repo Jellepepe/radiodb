@@ -208,6 +208,28 @@
       "mp3Stream": "https://sunshinelive.hoerradar.de/sunshinelive-mp3-128",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE19.png"
+    },
+    {
+      "id": "DE20",
+      "name": "ROCK ANTENNE Hamburg",
+      "country": "Deutschland",
+      "description": "The best Rock non stop!",
+      "genre": "Rock",
+      "frequency": 106.8,
+      "mp3Stream": "https://stream.rockantenne.hamburg/rockantenne-hamburg/stream/mp3",
+      "aacStream": "https://stream.rockantenne.hamburg/rockantenne-hamburg/stream/aacp",
+      "imageUrl": "https://www.radio.de/images/broadcasts/f5/16/2309/2/c175.png"
+    },
+	  {
+      "id": "DE21",
+      "name": "ROCK ANTENNE HEAVY METAL",
+      "country": "Deutschland",
+      "description": "Rock fuer Hamburg!",
+      "genre": "Heavy Metal",
+      "frequency": 106.8,
+      "mp3Stream": "https://stream.rockantenne.de/heavy-metal/stream/mp3",
+      "aacStream": "https://stream.rockantenne.de/heavy-metal/stream/aacp",
+      "imageUrl": "https://www.radio.de/images/broadcasts/aa/d5/9148/1/c175.png"
     }
   ]
 }
