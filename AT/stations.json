@@ -186,6 +186,17 @@
       "mp3Stream": "https://orf-live.ors-shoutcast.at/oe1-q2a",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/AT/IMG/AT17.png"
+    },
+    {
+      "id": "AT18",
+      "name": "88.6 On Air",
+      "country": "Österreich",
+      "description": "So rockt das Leben",
+      "genre": "Classic hits",
+      "frequency": 88.6,
+      "mp3Stream": "https://radio886.fluidstream.eu/886_live.mp3",
+      "aacStream": "https://radio886.fluidstream.eu/886_live.aac",
+      "imageUrl": "https://radio.byme.dev/AT/IMG/AT18.png"
     }
   ]
 }
