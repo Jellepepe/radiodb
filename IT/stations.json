@@ -263,7 +263,72 @@
       "mp3Stream": "https://radiosei.newradio.it/stream",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/IT/IMG/IT24.png"
+    },
+    {
+      "id": "IT25",
+      "name": "Company",
+      "country": "Italia",
+      "description": "Radio italiana",
+      "genre": "Pop, Rock",
+      "frequency": 88.4,
+      "mp3Stream": "",
+      "aacStream": "https://sphera.fluidstream.eu/company.aac",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT25.png"
+    },
+    {
+      "id": "IT26",
+      "name": "Company 90",
+      "country": "Italia",
+      "description": "Radio italiana",
+      "genre": "Classic Hits",
+      "frequency": 0,
+      "mp3Stream": "https://sphera.fluidstream.eu/company90.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT26.png"
+    },
+    {
+      "id": "IT27",
+      "name": "105 Dance 90",
+      "country": "Italia",
+      "description": "Radio italiana",
+      "genre": "Dance",
+      "frequency": 0,
+      "mp3Stream": "https://icy.unitedradio.it/105Dance90.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT27.png"
+    },
+    {
+      "id": "IT28",
+      "name": "105 HipHop & RnB",
+      "country": "Italia",
+      "description": "Radio italiana",
+      "genre": "HipHop,RnB",
+      "frequency": 0,
+      "mp3Stream": "https://icy.unitedradio.it/105HipHopRnB.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT28.png"
+    },
+    {
+      "id": "IT29",
+      "name": "Deejay Time",
+      "country": "Italia",
+      "description": "La musica del programma cult di Albertino.",
+      "genre": "",
+      "frequency": 0,
+      "mp3Stream": "https://deejay-wr-02-lh.akamaized.net/i/WebRadio2_1@315978/master.m3u8",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT29.png"
+    },
+    {
+      "id": "IT30",
+      "name": "Deejay One Two One Two",
+      "country": "Italia",
+      "description": "La webradio trap, rap e hip hop.",
+      "genre": "Trap, Rap, Hip Hop",
+      "frequency": 0,
+      "mp3Stream": "https://deejay-wr-04-lh.akamaized.net/i/WebRadio4_1@315980/master.m3u8",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT30.png"
     }
-    
   ]
 }
