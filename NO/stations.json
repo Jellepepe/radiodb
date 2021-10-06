@@ -32,6 +32,17 @@
       "mp3Stream": "https://p4.p4groupaudio.com/P04_MH",
       "aacStream": "https://p4.p4groupaudio.com/P04_AH",
       "imageUrl": "https://ddjh0q34m0xak.cloudfront.net/mmo/channelimages/d097eb57-5842-4b20-a7ff-57850dcdb454.png?h=150"
+    },
+     {
+      "id": "NO4",
+      "name": "Radio Rock ",
+      "country": "Norway",
+      "description": "Bare Ekte Rock",
+      "genre": "Entertainment, Rock",
+      "frequency": 0.0,
+      "mp3Stream": "https://live-bauerno.sharp-stream.com/radiorock_no_mp3",
+      "aacStream": "https://live-bauerno.sharp-stream.com/radiorock_no_aac",
+      "imageUrl": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/166.jpg?ver=1490605035"
     } 
   ]
 }
