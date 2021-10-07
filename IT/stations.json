@@ -281,7 +281,7 @@
       "country": "Italia",
       "description": "Radio italiana",
       "genre": "Classic Hits",
-      "frequency": 0,
+      "frequency": 0.0,
       "mp3Stream": "https://sphera.fluidstream.eu/company90.mp3",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/IT/IMG/IT26.png"
@@ -292,7 +292,7 @@
       "country": "Italia",
       "description": "Radio italiana",
       "genre": "Dance",
-      "frequency": 0,
+      "frequency": 0.0,
       "mp3Stream": "https://icy.unitedradio.it/105Dance90.mp3",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/IT/IMG/IT27.png"
@@ -303,7 +303,7 @@
       "country": "Italia",
       "description": "Radio italiana",
       "genre": "HipHop,RnB",
-      "frequency": 0,
+      "frequency": 0.0,
       "mp3Stream": "https://icy.unitedradio.it/105HipHopRnB.mp3",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/IT/IMG/IT28.png"
@@ -314,7 +314,7 @@
       "country": "Italia",
       "description": "La musica del programma cult di Albertino.",
       "genre": "",
-      "frequency": 0,
+      "frequency": 0.0,
       "mp3Stream": "https://deejay-wr-02-lh.akamaized.net/i/WebRadio2_1@315978/master.m3u8",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/IT/IMG/IT29.png"
@@ -325,7 +325,7 @@
       "country": "Italia",
       "description": "La webradio trap, rap e hip hop.",
       "genre": "Trap, Rap, Hip Hop",
-      "frequency": 0,
+      "frequency": 0.0,
       "mp3Stream": "https://deejay-wr-04-lh.akamaized.net/i/WebRadio4_1@315980/master.m3u8",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/IT/IMG/IT30.png"
