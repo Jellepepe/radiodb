@@ -230,7 +230,7 @@
       "mp3Stream": "https://stream.rockantenne.de/heavy-metal/stream/mp3",
       "aacStream": "https://stream.rockantenne.de/heavy-metal/stream/aacp",
       "imageUrl": "https://www.radio.de/images/broadcasts/aa/d5/9148/1/c175.png"
-    }
+    },
     {
       "id": "DE22",
       "name": "NDR 2",
@@ -263,6 +263,6 @@
       "mp3Stream": "http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE24.png"
-    },
+    }
   ]
 }
