@@ -230,6 +230,39 @@
       "mp3Stream": "https://stream.rockantenne.de/heavy-metal/stream/mp3",
       "aacStream": "https://stream.rockantenne.de/heavy-metal/stream/aacp",
       "imageUrl": "https://www.radio.de/images/broadcasts/aa/d5/9148/1/c175.png"
+    },
+    {
+      "id": "DE22",
+      "name": "NDR 2",
+      "country": "Deutschland",
+      "description": "Der Sound der 80er und die beste Musik von heute",
+      "genre": "Pop, Rock",
+      "frequency": 96.2,
+      "mp3Stream": "https://www.ndr.de/resources/metadaten/audio/m3u/ndr2.m3u",
+      "aacStream": "https://www.ndr.de/resources/metadaten/audio/aac/ndr2.m3u",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE22.png"
+    },
+    {
+      "id": "DE23",
+      "name": "N-JOY",
+      "country": "Deutschland",
+      "description": "Enjoy the Music!",
+      "genre": "Charts",
+      "frequency": 92.6,
+      "mp3Stream": "https://www.ndr.de/resources/metadaten/audio/m3u/n-joy.m3u",
+      "aacStream": "https://www.ndr.de/resources/metadaten/audio/aac/n-joy.m3u",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE23.png"
+    },
+    {
+      "id": "DE24",
+      "name": "MDR Sputnik",
+      "country": "Deutschland",
+      "description": "Einfach die beste Musik. Deine Lieblingsmusik und Sputnik ist bei dir.",
+      "genre": "Rock, Pop, Elektropop",
+      "frequency": 104.4,
+      "mp3Stream": "http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE24.png"
     }
   ]
 }
