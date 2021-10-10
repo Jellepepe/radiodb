@@ -238,8 +238,8 @@
       "description": "Der Sound der 80er und die beste Musik von heute",
       "genre": "Pop, Rock",
       "frequency": 96.2,
-      "mp3Stream": "https://www.ndr.de/resources/metadaten/audio/m3u/ndr2.m3u",
-      "aacStream": "https://www.ndr.de/resources/metadaten/audio/aac/ndr2.m3u",
+      "mp3Stream": "https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3",
+      "aacStream": "https://icecast.ndr.de/ndr/ndr2/niedersachsen/aac/low",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE22.png"
     },
     {
@@ -249,8 +249,8 @@
       "description": "Enjoy the Music!",
       "genre": "Charts",
       "frequency": 92.6,
-      "mp3Stream": "https://www.ndr.de/resources/metadaten/audio/m3u/n-joy.m3u",
-      "aacStream": "https://www.ndr.de/resources/metadaten/audio/aac/n-joy.m3u",
+      "mp3Stream": "https://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3",
+      "aacStream": "https://icecast.ndr.de/ndr/njoy/live/aac/low",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE23.png"
     },
     {
