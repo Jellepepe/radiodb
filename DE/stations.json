@@ -204,7 +204,7 @@
       "country": "Deutschland",
       "description": "Electronic Music Radio",
       "genre": "Electronic",
-      "frequency": 104,
+      "frequency": 104.0,
       "mp3Stream": "https://sunshinelive.hoerradar.de/sunshinelive-mp3-128",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE19.png"
