@@ -8,7 +8,7 @@
       "genre": "News, Sport",
       "frequency": 98.6,
       "mp3Stream": "https://icecast.omroep.nl/radio1-bb-mp3",
-      "aacStream": "https://icescast.omroep.nl/radio1-bb-aac",
+      "aacStream": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/NPO_Radio_1_logo_2014.svg/200px-NPO_Radio_1_logo_2014.svg.png"
     },
     {
@@ -19,7 +19,7 @@
       "genre": "News, Talk",
       "frequency": 92.6,
       "mp3Stream": "https://icecast.omroep.nl/radio2-bb-mp3",
-      "aacStream": "https://icescast.omroep.nl/radio2-bb-aac",
+      "aacStream": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NPO_Radio_2_logo.svg/200px-NPO_Radio_2_logo.svg.png"
     },
     {
@@ -30,7 +30,7 @@
       "genre": "CHR, Alternative",
       "frequency": 96.8,
       "mp3Stream": "https://icecast.omroep.nl/3fm-bb-mp3",
-      "aacStream": "https://icescast.omroep.nl/3fm-bb-aac",
+      "aacStream": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/NPO_3FM_logo_2020.svg/220px-NPO_3FM_logo_2020.svg.png"
     },
     {
@@ -41,7 +41,7 @@
       "genre": "Classical, Culture",
       "frequency": 87.6,
       "mp3Stream": "https://icecast.omroep.nl/radio4-bb-mp3",
-      "aacStream": "https://icescast.omroep.nl/radio4-bb-aac",
+      "aacStream": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NPO_Radio_4_logo_2014.svg/200px-NPO_Radio_4_logo_2014.svg.png"
     },
     {
@@ -52,7 +52,7 @@
       "genre": "Classical, Hits",
       "frequency": 0.0,
       "mp3Stream": "https://icecast.omroep.nl/radio5-bb-mp3",
-      "aacStream": "https://icescast.omroep.nl/radio5-bb-aac",
+      "aacStream": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NPO_Radio_5_logo_2016.svg/200px-NPO_Radio_5_logo_2016.svg.png"
     },
     {

@@ -41,7 +41,7 @@
       "genre": "electronic",
       "frequency": 104.1,
       "mp3Stream": "http://84.46.205.13/zipfm128.mp3",
-      "aacStream": "http://84.46.205.13:80/zipfm64.aac",
+      "aacStream": "",
       "imageUrl": "https://radio.byme.dev/LT/IMG/LT4.png"
     },
     {
