@@ -1,0 +1,59 @@
+{
+  "stations": [
+    {
+      "id": "RU1",
+      "name": "Europa Plus",
+      "country": "Russia",
+      "description": "Party, light, disco",
+      "genre": "Dance",
+      "frequency": 0.0,
+      "mp3Stream": "http://ep256.streamr.ru",
+      "aacStream": "http://ep128.streamr.ru",
+      "imageUrl": "https://i.imgur.com/nrzGin8.png"
+    },
+    {
+      "id": "RU2",
+      "name": "Record Dance",
+      "country": "Russia",
+      "description": "Party, light, disco",
+      "genre": "Record all",
+      "frequency": 0.0,
+      "mp3Stream": "http://radio-srv1.11one.ru/record192k.mp3",
+      "aacStream": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
+      "imageUrl": "https://i.imgur.com/ZHq5XEw.png"
+    },
+    {
+      "id": "RU3",
+      "name": "Record Ambient",
+      "country": "Russia",
+      "description": "Relax, Space",
+      "genre": "Ambient",
+      "frequency": 0.0,
+      "mp3Stream": "",
+      "aacStream": "https://radiorecord.hostingradio.ru/ambient96.aacp",
+      "imageUrl": "https://i.imgur.com/fOangId.png"
+    },
+    {
+      "id": "RU4",
+      "name": "Energy",
+      "country": "Russia",
+      "description": "Party, light, disco",
+      "genre": "Dance",
+      "frequency": 91.0,
+      "mp3Stream": "https://pub0102.101.ru:8443/stream/reg/mp3/128/region_energy_95?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjkyLjM3LjEyOS4yMTEiLCJ1c2VyYWdlbnQiOiJNb3ppbGxhXC81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXRcLzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZVwvOTQuMC40NjA2LjgxIFNhZmFyaVwvNTM3LjM2IiwidWlkX2NoYW5uZWwiOiI5OSIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MzQ1NjcxMDd9.PNlraa__C-Jd3V-Uq_ubZNBLS7Zcg03bi3-qHhPNsSU",
+      "aacStream": "",
+      "imageUrl": "https://i.imgur.com/yOaV8z7.png"
+    },
+    {
+      "id": "RU5",
+      "name": "Auto Radio",
+      "country": "Russia",
+      "description": "Party, light, disco",
+      "genre": "Dance",
+      "frequency": 88.7,
+      "mp3Stream": "https://pub0201.101.ru/stream/reg/mp3/128/region_avto_202?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjkyLjM3LjEyOS4yMTEiLCJ1c2VyYWdlbnQiOiJNb3ppbGxhXC81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXRcLzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZVwvOTQuMC40NjA2LjgxIFNhZmFyaVwvNTM3LjM2IiwidWlkX2NoYW5uZWwiOiIxMDAiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwiZXhwIjoxNjM0NTY4MDg4fQ.B78CUaPFQGaBGEyk8tXn5V-auuuoXmuhmxY8VBneKsE",
+      "aacStream": "",
+      "imageUrl": "https://i.imgur.com/dPxKWcZ.png"
+    }
+  ]
+}
