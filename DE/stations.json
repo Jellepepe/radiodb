@@ -73,7 +73,7 @@
       "description": "Hit Music Only",
       "genre": "Hits",
       "frequency": 100.7,
-      "mp3Stream": "https://edge06.streamonkey.net/energy-digital/stream/mp3?aggregator=Shorty",
+      "mp3Stream": "https://edge01.streamonkey.net/energy-digital/stream/mp3",
       "aacStream": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Energy_Z%C3%BCrich_Logo.png"
     },
@@ -194,7 +194,7 @@
       "description": "Musik die dich bewegt",
       "genre": "Pop, Rock",
       "frequency": 93.6,
-      "mp3Stream": "https://jamfm.hoerradar.de/jamfm-mp3-128",
+      "mp3Stream": "http://stream.jam.fm/jamfm-live/mp3-128",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE18.png"
     },
@@ -257,7 +257,7 @@
       "id": "DE24",
       "name": "MDR Sputnik",
       "country": "Deutschland",
-      "description": "Einfach die beste Musik. Deine Lieblingsmusik und Sputnik ist bei dir.",
+      "description": "Deine Lieblingsmusik und Sputnik ist bei dir",
       "genre": "Rock, Pop, Elektropop",
       "frequency": 104.4,
       "mp3Stream": "http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3",
