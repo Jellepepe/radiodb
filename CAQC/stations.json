@@ -1,0 +1,81 @@
+{
+  "stations": [
+    {
+      "id": "CAQC1",
+      "name": "The Beat 92.5",
+      "country": "Canada: Quebec",
+      "description": "Montreal's Perfect Mix",
+      "genre": "Pop",
+      "frequency": 92.5,
+      "mp3Stream": "https://cogecomedia.leanstream.co/CKBEFM-MP3",
+      "aacStream": "",
+      "imageUrl": "https://static.wixstatic.com/media/0ee373_a83cbd9dccd044b5adfc4431d82c42bd~mv2.jpg"
+    },
+	  {
+      "id": "CAQC2",
+      "name": "Energie 94.3",
+      "country": "Canada: Quebec",
+      "description": "Plus de classics. Plus de fun",
+      "genre": "Pop & Rock",
+      "frequency": 94.3,
+      "mp3Stream": "",
+      "aacStream": "https://16923.live.streamtheworld.com/CKMFFMAAC_SC",
+      "imageUrl": "https://static.wixstatic.com/media/0ee373_3dfdd9a4edcf425e99eee4f93f99a7ff~mv2.jpg"
+    },
+	  {
+      "id": "CAQC3",
+      "name": "Virgin Radio MTL",
+      "country": "Canada: Quebec",
+      "description": "Montreal's #1 Hit",
+      "genre": "Pop",
+      "frequency": 95.9,
+      "mp3Stream": "",
+      "aacStream": "http://18123.live.streamtheworld.com/CJFMFMAAC.aac",
+      "imageUrl": "https://static.wixstatic.com/media/0ee373_c50ef40072b941ef8f7de7b5a9c78f0c~mv2.jpg"
+    },
+	  {
+      "id": "CAQC4",
+      "name": "Ckoi",
+      "country": "Canada: Quebec",
+      "description": "L'ultime radio",
+      "genre": "CHR/Top40",
+      "frequency": 96.9,
+      "mp3Stream": "https://cogecomedia.leanstream.co/CKOIFM-MP3",
+      "aacStream": "",
+      "imageUrl": "https://en.wikipedia.org/wiki/CKOI-FM#/media/File:CKOI_Montreal_2011.png"
+    },
+	  {
+      "id": "CAQC5",
+      "name": "Chom",
+      "country": "Canada: Quebec",
+      "description": "The spirit of rock",
+      "genre": "Rock",
+      "frequency": 97.7,
+      "mp3Stream": "",
+      "aacStream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CHOMFMAAC.aac",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/CHOM_2010.png"
+    },
+	  {
+      "id": "CAQC6",
+      "name": "Rythme FM",
+      "country": "Canada: Quebec",
+      "description": "Montreal contemporary",
+      "genre": "Adult contemporary",
+      "frequency": 105.7,
+      "mp3Stream": "",
+      "aacStream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CHOMFMAAC.aac",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Rythme_FM_Logo.svg/640px-Rythme_FM_Logo.svg.png"
+    },
+	  {
+      "id": "CAQC7",
+      "name": "Rouge FM",
+      "country": "Canada: Quebec",
+      "description": "Toujours Fantastique",
+      "genre": "Adulte Contemporain",
+      "frequency": 107.3,
+      "mp3Stream": "",
+      "aacStream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CHOMFMAAC.aac",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/9/92/Rouge_FM_2011_logo.png"
+    }
+  ]
+}
