@@ -194,7 +194,7 @@
       "description": "Musik die dich bewegt",
       "genre": "Pop, Rock",
       "frequency": 93.6,
-      "mp3Stream": "http://stream.jam.fm/jamfm-live/mp3-128",
+      "mp3Stream": "https://stream.jam.fm/jamfm-live/mp3-128",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE18.png"
     },
