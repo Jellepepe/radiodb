@@ -109,6 +109,50 @@
       "mp3Stream": "https://stream.radiocorp.nl/web14_mp3",
       "aacStream": "https://stream.radiocorp.nl/web14_aac",
       "imageUrl": "https://radio.byme.dev/NL/IMG/NL10.png"
+    },
+      {
+      "id": "NL11",
+      "name": "Radio 10",
+      "country": "Netherlands",
+      "description": "De Grootste Hits Aller Tijden",
+      "genre": "Pop, Rock",
+      "frequency": 103.8,
+      "mp3Stream": "http://stream.radio10.nl/radio10",
+      "aacStream": "",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Radio_10_logo_2017.png"
+    },
+      {
+      "id": "NL12",
+      "name": "Sublime FM",
+      "country": "Netherlands",
+      "description": "Let's Get It On!",
+      "genre": "Funk, Soul, Jazz",
+      "frequency": 90.7,
+      "mp3Stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME.mp3",
+      "aacStream": "",
+      "imageUrl": "https://en.wikipedia.org/wiki/File:Sublime_FM_logo_2018.png"
+    },
+      {
+      "id": "NL13",
+      "name": "Arrow Classic Rock",
+      "country": "Netherlands",
+      "description": "",
+      "genre": "Classic Rock",
+      "frequency": 98.7,
+      "mp3Stream": "https://stream.gal.io/arrow",
+      "aacStream": "",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Radio_10_logo_2017.png"
+    },
+      {
+      "id": "NL14",
+      "name": "BNR Nieuwsradio",
+      "country": "Netherlands",
+      "description": "20 Jaar in Business",
+      "genre": "Nieuws",
+      "frequency": 91.3,
+      "mp3Stream": "https://stream.bnr.nl/bnr_mp3_128_20",
+      "aacStream": "https://stream.bnr.nl/bnr_aac_96_20",
+      "imageUrl": "https://fr.wikipedia.org/wiki/Fichier:BNR_Nieuwsradio_logo.png"
     }
   ]
 }
