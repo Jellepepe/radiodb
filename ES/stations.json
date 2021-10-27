@@ -1,0 +1,125 @@
+{
+  "stations": [
+    {
+      "id": "ES1",
+      "name": "Los40",
+      "country": "España",
+      "description": "Todos Los \u00c9xitos",
+      "genre": "Pop, Rock",
+      "frequency": 93.9,
+      "mp3Stream": "",
+      "aacStream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC.aac",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES1.png"
+    },
+    {
+      "id": "ES2",
+      "name": "Los40 Urban",
+      "country": "España",
+      "description": "El ritmo de la calle",
+      "genre": "Dance, Pop",
+      "frequency": 97.1,
+      "mp3Stream": "",
+      "aacStream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBANAAC.aac",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES2.png"
+    },
+    {
+      "id": "ES3",
+      "name": "Los40 Dance",
+      "country": "España",
+      "description": "Puro Dance Radio",
+      "genre": "Electronic, Dance",
+      "frequency": 104.3,
+      "mp3Stream": "",
+      "aacStream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC.aac",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES3.png"
+    },
+    {
+      "id": "ES4",
+      "name": "Los40 Classic",
+      "country": "España",
+      "description": "La emisora con todos los n\u00ba1 de tu vida",
+      "genre": "Classic Hits",
+      "frequency": 89.0,
+      "mp3Stream": "",
+      "aacStream": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSICAAC.aac",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES4.png"
+    },
+    {
+      "id": "ES5",
+      "name": "Europa FM",
+      "country": "España",
+      "description": "El mejor pop-rock del 2000 hasta hoy",
+      "genre": "Pop, Rock",
+      "frequency": 91.0,
+      "mp3Stream": "",
+      "aacStream": "https://livefastly-webs.europafm.com/europafm/audio/master.m3u8",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES5.png"
+    },
+    {
+      "id": "ES6",
+      "name": "Kiss FM",
+      "country": "España",
+      "description": "La mejor de los 80 y los 90 hasta hoy",
+      "genre": "Pop, Rock",
+      "frequency": 101.7,
+      "mp3Stream": "https://kissfm.kissfmradio.cires21.com/kissfm.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES6.png"
+    },
+    {
+      "id": "ES7",
+      "name": "Cadena 100",
+      "country": "España",
+      "description": "La mejor variedad musical",
+      "genre": "Pop, Rock",
+      "frequency": 0.0,
+      "mp3Stream": "https://cadena100-cope-rrcast.flumotion.com/cope/cadena100-low.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES7.png"
+    },
+    {
+      "id": "ES8",
+      "name": "MegaStar FM",
+      "country": "España",
+      "description": "Solo temazos",
+      "genre": "Pop, Rock",
+      "frequency": 100.7,
+      "mp3Stream": "https://megastar-cope.flumotion.com/playlist.m3u8",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES8.png"
+    },
+    {
+      "id": "ES9",
+      "name": "Hit FM",
+      "country": "España",
+      "description": "HITS y sol\u00f3 HITS",
+      "genre": "Pop, Rock",
+      "frequency": 89.9,
+      "mp3Stream": "https://hitfm.kissfmradio.cires21.com/hitfm.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES9.png"
+    },
+    {
+      "id": "ES10",
+      "name": "Rock FM",
+      "country": "España",
+      "description": "Radio en Espa\u00f1ol",
+      "genre": "Rock",
+      "frequency": 101.6,
+      "mp3Stream": "https://rockfm-cope.flumotion.com/playlist.m3u8",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES10.png"
+    },
+    {
+      "id": "ES11",
+      "name": "Marca Nacional",
+      "country": "España",
+      "description": "La r\u00e0dio dels esports",
+      "genre": "Sport, Talk",
+      "frequency": 103.5,
+      "mp3Stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3",
+      "aacStream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONALAAC.aac",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES11.png"
+    }
+  ]
+}
