@@ -329,6 +329,17 @@
       "mp3Stream": "https://deejay-wr-04-lh.akamaized.net/i/WebRadio4_1@315980/master.m3u8",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/IT/IMG/IT30.png"
+    },
+    {
+      "id": "IT31",
+      "name": "RMC2",
+      "country": "Italia",
+      "description": "Something different",
+      "genre": "Chillout, Ballads",
+      "frequency": 101.6,
+      "mp3Stream": "https://edge.singsingmusic.net/MC2.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT31.png"
     }
   ]
 }
