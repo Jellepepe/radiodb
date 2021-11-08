@@ -263,6 +263,28 @@
       "mp3Stream": "http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE24.png"
+    },
+    {
+      "id": "DE25",
+      "name": "die neue welle",
+      "country": "Deutschland",
+      "description": "Der beste Musikmix aus 4 Jahrzehnten",
+      "genre": "Rock, Pop",
+      "frequency": 101.8,
+      "mp3Stream": "https://dieneuewelle.cast.addradio.de/dieneuewelle/simulcast/high/stream.mp3",
+      "aacStream": "",
+      "imageUrl": "https://www.die-neue-welle.de/wp-content/uploads/2019/07/dnw-logo.png"
+    },
+    {
+      "id": "DE26",
+      "name": "Regenbogen",
+      "country": "Deutschland",
+      "description": "Wir sind von Hier",
+      "genre": "Rock, Pop",
+      "frequency": 100.4,
+      "mp3Stream": "http://streams.regenbogen.de/rr-freiburg-128-mp3",
+      "aacStream": "https://streams.regenbogen.de/rr-mannheim-128-aac",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE26.png"
     }
   ]
 }
