@@ -1,0 +1,15 @@
+{
+  "stations": [
+    {
+      "id": "GR1",
+      "name": "DeeJay 97.5",
+      "country": "Ελλάδα",
+      "description": "No.1 Hit Music Station in Corfu Greece",
+      "genre": "Pop, Hits",
+      "frequency": 97.5,
+      "mp3Stream": "https://sh.onweb.gr:7083/stream",
+      "aacStream": "",
+      "imageUrl": "https://djradio.gr/wp-content/uploads/2016/01/DJLOGO.png"
+    }
+  ]
+}
