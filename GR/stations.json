@@ -10,6 +10,17 @@
       "mp3Stream": "https://sh.onweb.gr:7083/stream",
       "aacStream": "",
       "imageUrl": "https://djradio.gr/wp-content/uploads/2016/01/DJLOGO.png"
+    },
+    {
+      "id": "GR2",
+      "name": "MAD RADIO",
+      "country": "Ελλάδα",
+      "description": "Athens (Mainstream House, Pop)",
+      "genre": "Contemporary",
+      "frequency": 106.20,
+      "mp3Stream": "http://mediaserver.mad.tv/stream",
+      "aacStream": "",
+      "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/madradio1.png"
     }
   ]
 }
