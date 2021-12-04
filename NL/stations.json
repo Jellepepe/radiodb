@@ -175,6 +175,17 @@
       "mp3Stream": "",
       "aacStream": "https://stream.radionl.fm/radionl",
       "imageUrl": "https://www.radionl.fm/wp-content/uploads/2021/04/radionl_logo.png"
+    },
+    {
+      "id": "NL17",
+      "name": "Joy Radio",
+      "country": "Netherlands",
+      "description": "Hits only!",
+      "genre": "Dance, 90's Hits",
+      "frequency": 0.0,
+      "mp3Stream": "",
+      "aacStream": "https://stream.joyradio.nl/joyradio",
+      "imageUrl": "https://nl.radio.net/images/broadcasts/5d/89/110487/1/c300.png"
     }
   ]
 }
