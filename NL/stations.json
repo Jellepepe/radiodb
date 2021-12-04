@@ -143,7 +143,7 @@
       "aacStream": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Radio_10_logo_2017.png"
     },
-      {
+    {
       "id": "NL14",
       "name": "BNR Nieuwsradio",
       "country": "Netherlands",
@@ -153,6 +153,28 @@
       "mp3Stream": "https://stream.bnr.nl/bnr_mp3_128_20",
       "aacStream": "https://stream.bnr.nl/bnr_aac_96_20",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/4/4e/BNR_Nieuwsradio_logo.png"
+    },
+    {
+      "id": "NL15",
+      "name": "Continu",
+      "country": "Netherlands",
+      "description": "Altijd gezellig!",
+      "genre": "Schlager, Country",
+      "frequency": 97.9,
+      "mp3Stream": "",
+      "aacStream": "https://stream.gal.io/radio-continu",
+      "imageUrl": "https://radio.byme.dev/NL/IMG/NL15.png"
+    },
+    {
+      "id": "NL16",
+      "name": "RadioNL",
+      "country": "Netherlands",
+      "description": "altijd AAN!",
+      "genre": "Dutch music",
+      "frequency": 104.4,
+      "mp3Stream": "",
+      "aacStream": "https://stream.radionl.fm/radionl",
+      "imageUrl": "https://www.radionl.fm/wp-content/uploads/2021/04/radionl_logo.png"
     }
   ]
 }
