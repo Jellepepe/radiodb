@@ -1,0 +1,71 @@
+{
+  "stations": [
+    {
+      "id": "ZA1",
+      "name": "5FM",
+      "country": "South Africa",
+      "description": "Music, Traffic, News",
+      "genre": "POP",
+      "frequency": 89.0,
+      "mp3Stream": "",
+      "aacStream": "https://playerservices.streamtheworld.com/api/livestream-redirect/5FMAAC.aac?dist=onlineradiobox",
+      "imageUrl": "https://radio.byme.dev/ZA/IMG/ZA1.png"
+    },
+    {
+      "id": "ZA2",
+      "name": "Bush Radio",
+      "country": "South Africa",
+      "description": "Cape Town Local Community",
+      "genre": "Various",
+      "frequency": 89.5,
+      "mp3Stream": "",
+      "aacStream": "http://zas4.ndx.co.za/proxy/bushradio?mp=/stream",
+      "imageUrl": "https://radio.byme.dev/ZA/IMG/ZA2.png"
+    },
+    {
+      "id": "ZA3",
+      "name": "Good Hope FM",
+      "country": "South Africa",
+      "description": "Cape Town's leading music focused interactive lifestyle radio station",
+      "genre": "Various",
+      "frequency": 96.2,
+      "mp3Stream": "",
+      "aacStream": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOODHOPEFMAAC.aac?dist=onlineradiobox",
+      "imageUrl": "https://radio.byme.dev/ZA/IMG/ZA3.png"
+    },
+    {
+      "id": "ZA4",
+      "name": "Heart FM",
+      "country": "South Africa",
+      "description": "Heart and Soul of the Music",
+      "genre": "Various",
+      "frequency": 104.9,
+      "mp3Stream": "",
+      "aacStream": "http://capeant.antfarm.co.za:8000/HeartFM",
+      "imageUrl": "https://radio.byme.dev/ZA/IMG/ZA4.png"
+    },
+    {
+      "id": "ZA5",
+      "name": "KFM",
+      "country": "South Africa",
+      "description": "Adult contemporary radio station based in Cape Town",
+      "genre": "Various",
+      "frequency": 94.5,
+      "mp3Stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ZA/IMG/ZA5.png"
+    },
+    {
+      "id": "ZA6",
+      "name": "Metro FM",
+      "country": "South Africa",
+      "description": "South Africa's No1 Urban radio station",
+      "genre": "Various",
+      "frequency": 91.7,
+      "mp3Stream": "",
+      "aacStream": "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac?dist=onlineradiobox",
+      "imageUrl": "https://radio.byme.dev/ZA/IMG/ZA6.png"
+    }
+	
+  ]
+}
