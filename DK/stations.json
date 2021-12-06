@@ -219,6 +219,17 @@
       "mp3Stream": "",
       "aacStream": "https://webradio.classicfm.dk/classic",
       "imageURL": "https://classicfm.dk/wp-content/uploads/2017/11/ClassicFM_Android_status_icon_1024x1024_pos1-2.png"
+    },
+    {
+      "id": "DK21",
+      "name": "902FM",
+      "country": "Danmark",
+      "description": "Den mest alsidige radiostation i hovedstaden",
+      "genre": "Pop, Classic Hits, Hits",
+      "frequency": 90.2,
+      "mp3Stream": "http://stream.wlmm.dk/902fmmp3",
+      " ": "",
+      "imageURL": "https://radio.byme.dev/DK/IMG/DK21.png"
     }
   ]
 }
