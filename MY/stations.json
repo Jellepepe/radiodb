@@ -1,0 +1,92 @@
+{
+  "stations": [
+    {
+      "id": "MY1",
+      "name": "FlyFM",
+      "country": "Malaysia",
+      "description": "Today's hottest music",
+      "genre": "Pop, Rock",
+      "frequency": 95.8,
+      "mp3Stream": "",
+      "aacStream": "https://mediaprima.rastream.com/mediaprima-flyfm",
+      "imageUrl": "https://radio.byme.dev/MY/IMG/MY1.png"
+    },
+    {
+      "id": "MY2",
+      "name": "Hitz FM",
+      "country": "Malaysia",
+      "description": "Malaysia's #1 Hit Station",
+      "genre": "Pop, Rock",
+      "frequency": 92.9,
+      "mp3Stream": "",
+      "aacStream": "https://astro1.rastream.com/hitz",
+      "imageUrl": "https://radio.byme.dev/MY/IMG/MY2.png"
+    },
+    {
+      "id": "MY3",
+      "name": "Lite FM",
+      "country": "Malaysia",
+      "description": "Relaxing Favourites",
+      "genre": "Relax",
+      "frequency": 105.7,
+      "mp3Stream": "",
+      "aacStream": "https://ingest2.astro1.rastream.com/lite",
+      "imageUrl": "https://radio.byme.dev/MY/IMG/MY3.png"
+    },
+    {
+      "id": "MY4",
+      "name": "Mix FM",
+      "country": "Malaysia",
+      "description": "Todays Beat Music",
+      "genre": "Pop, Beat",
+      "frequency": 94.5,
+      "mp3Stream": "",
+      "aacStream": "https://astro2.rastream.com/mix",
+      "imageUrl": "https://radio.byme.dev/MY/IMG/MY4.png"
+    },
+    {
+      "id": "MY5",
+      "name": "Era FM",
+      "country": "Malaysia",
+      "description": "Muzik Hit Terbaik",
+      "genre": "Relax",
+      "frequency": 102.4,
+      "mp3Stream": "",
+      "aacStream": "https://astro2.rastream.com/era",
+      "imageUrl": "https://radio.byme.dev/MY/IMG/MY5.png"
+    },
+    {
+      "id": "MY6",
+      "name": "Hot FM",
+      "country": "Malaysia",
+      "description": "Muzik Paling Hangat",
+      "genre": "Pop, Rock",
+      "frequency": 97.6,
+      "mp3Stream": "",
+      "aacStream": "https://astro2.rastream.com/mediaprima-hotfm",
+      "imageUrl": "https://radio.byme.dev/MY/IMG/MY6.png"
+    },
+    {
+      "id": "MY7",
+      "name": "Sinar",
+      "country": "Malaysia",
+      "description": "Menyinari Hidupmu",
+      "genre": "Classic Hits",
+      "frequency": 96.7,
+      "mp3Stream": "",
+      "aacStream": "https://astro2.rastream.com/sinar",
+      "imageUrl": "https://radio.byme.dev/MY/IMG/MY7.png"
+    },
+    {
+      "id": "MY8",
+      "name": "Suria",
+      "country": "Malaysia",
+      "description": "Segalanya Hiburan",
+      "genre": "Pop, Rock",
+      "frequency": 105.3,
+      "mp3Stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FM.mp3",
+      "aacStream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac",
+      "imageUrl": "https://radio.byme.dev/MY/IMG/MY8.png"
+    }
+  ]
+}
