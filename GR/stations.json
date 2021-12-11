@@ -23,7 +23,7 @@
       "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/madradio1.png"
     },
     {
-      "frequency": 889,
+      "frequency": 0.0,
       "country": "Ελλάδα",
       "id": "GR3",
       "aacStream": "",
@@ -34,7 +34,7 @@
       "name": "HIT 889"
     },
     {
-      "frequency": 92.599999999999994,
+      "frequency": 92.6,
       "country": "Ελλάδα",
       "id": "GR4",
       "aacStream": "",
@@ -45,7 +45,7 @@
       "name": "BEST 92,6"
     },
     {
-      "frequency": 94.299999999999997,
+      "frequency": 94.3,
       "country": "Ελλάδα",
       "id": "GR5",
       "aacStream": "",
@@ -56,7 +56,7 @@
       "name": "Ellada FM 94,3"
     },
     {
-      "frequency": 87.700000000000003,
+      "frequency": 87.7,
       "country": "Ελλάδα",
       "id": "GR6",
       "aacStream": "",
@@ -67,7 +67,7 @@
       "name": "En Lefko 87.70"
     },
     {
-      "frequency": 96.599999999999994,
+      "frequency": 96.6,
       "country": "Ελλάδα",
       "id": "GR7",
       "aacStream": "",
@@ -78,7 +78,7 @@
       "name": "Pepper 96,6"
     },
     {
-      "frequency": 96.599999999999994,
+      "frequency": 96.6,
       "country": "Ελλάδα",
       "id": "GR8",
       "aacStream": "",
@@ -89,7 +89,7 @@
       "name": "Pepper 96,6"
     },
     {
-      "frequency": 92.900000000000006,
+      "frequency": 92.9,
       "country": "Ελλάδα",
       "id": "GR9",
       "aacStream": "",
@@ -100,7 +100,7 @@
       "name": "Kiss Fm 92.9"
     },
     {
-      "frequency": 97.200000000000003,
+      "frequency": 97.2,
       "country": "Ελλάδα",
       "id": "GR10",
       "aacStream": "",
@@ -111,7 +111,7 @@
       "name": "Easy 97.2"
     },
     {
-      "frequency": 92,
+      "frequency": 92.0,
       "country": "Ελλάδα",
       "id": "GR11",
       "aacStream": "",
@@ -122,7 +122,7 @@
       "name": "Galaxy 92"
     },
     {
-      "frequency": 100.59999999999999,
+      "frequency": 100.6,
       "country": "Ελλάδα",
       "id": "GR12",
       "aacStream": "",
@@ -133,7 +133,7 @@
       "name": "Nostos 100,6 Fm"
     },
     {
-      "frequency": 96.299999999999997,
+      "frequency": 96.3,
       "country": "Ελλάδα",
       "id": "GR13",
       "aacStream": "",
@@ -144,7 +144,7 @@
       "name": "RED 96.3 "
     },
     {
-      "frequency": 96.900000000000006,
+      "frequency": 96.9,
       "country": "Ελλάδα",
       "id": "GR14",
       "aacStream": "",
@@ -166,7 +166,7 @@
       "name": "Rebel 105,2 FM"
     },
     {
-      "frequency": 89.799999999999997,
+      "frequency": 89.8,
       "country": "Ελλάδα",
       "id": "GR16",
       "aacStream": "",
@@ -188,7 +188,7 @@
       "name": "Sfera FM"
     },
     {
-      "frequency": 92.299999999999997,
+      "frequency": 92.3,
       "country": "Ελλάδα",
       "id": "GR18",
       "aacStream": "",
@@ -199,7 +199,7 @@
       "name": "Lampsi 92.3"
     },
     {
-      "frequency": 94.900000000000006,
+      "frequency": 94.9,
       "country": "Ελλάδα",
       "id": "GR19",
       "aacStream": "",
@@ -210,7 +210,7 @@
       "name": "Rythmos 94.9"
     },
     {
-      "frequency": 98.599999999999994,
+      "frequency": 98.6,
       "country": "Ελλάδα",
       "id": "GR20",
       "aacStream": "",
@@ -221,7 +221,7 @@
       "name": "Derti 98,6"
     },
     {
-      "frequency": 93.200000000000003,
+      "frequency": 93.2,
       "country": "Ελλάδα",
       "id": "GR21",
       "aacStream": "",
@@ -243,7 +243,7 @@
       "name": "DIESI FM"
     },
     {
-      "frequency": 99.200000000000003,
+      "frequency": 99.2,
       "country": "Ελλάδα",
       "id": "GR23",
       "aacStream": "",
@@ -254,7 +254,7 @@
       "name": "Melodia FM"
     },
     {
-      "frequency": 88,
+      "frequency": 88.0,
       "country": "Ελλάδα",
       "id": "GR24",
       "aacStream": "",
@@ -276,7 +276,7 @@
       "name": "Love FM"
     },
     {
-      "frequency": 989,
+      "frequency": 0.0,
       "country": "Ελλάδα",
       "id": "GR26",
       "aacStream": "",
@@ -287,7 +287,7 @@
       "name": "Alpha 989"
     },
     {
-      "frequency": 97.799999999999997,
+      "frequency": 97.8,
       "country": "Ελλάδα",
       "id": "GR27",
       "aacStream": "",
@@ -298,7 +298,7 @@
       "name": "Real FM"
     },
     {
-      "frequency": 90.099999999999994,
+      "frequency": 90.1,
       "country": "Ελλάδα",
       "id": "GR28",
       "aacStream": "",
@@ -309,7 +309,7 @@
       "name": "Parapolitika FM"
     },
     {
-      "frequency": 98.400000000000006,
+      "frequency": 98.4,
       "country": "Ελλάδα",
       "id": "GR29",
       "aacStream": "",
