@@ -21,6 +21,7 @@
       "mp3Stream": "http://mediaserver.mad.tv/stream",
       "aacStream": "",
       "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/madradio1.png"
+    },
     {
       "frequency": 889,
       "country": "Ελλάδα",
