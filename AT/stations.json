@@ -194,8 +194,8 @@
       "description": "So rockt das Leben",
       "genre": "Classic hits",
       "frequency": 88.6,
-      "mp3Stream": "https://radio886.fluidstream.eu/886_live.mp3",
-      "aacStream": "https://radio886.fluidstream.eu/886_live.aac",
+      "mp3Stream": "https://edge51.streamonkey.net/radio886-onair/stream/mp3",
+      "aacStream": "",
       "imageUrl": "https://radio.byme.dev/AT/IMG/AT18.png"
     }
   ]
