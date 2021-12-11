@@ -2264,6 +2264,17 @@
       "mp3Stream": "http://91.121.202.224:4986/listen.pls?sid=1",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB206.png"
+    },
+    {
+      "id": "GB207",
+      "name": "BBC Scotland",
+      "country": "UK",
+      "description": "UK Radio",
+      "genre": "Pop",
+      "frequency": 0.0,
+      "mp3Stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_fm",
+      "aacStream": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BBC_Scotland_corporate_logo.svg/200px-BBC_Scotland_corporate_logo.svg.png"
     }
   ]
 }
