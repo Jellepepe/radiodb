@@ -49,33 +49,33 @@
       "country": "Ελλάδα",
       "id": "GR5",
       "aacStream": "",
-      "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/bestradio.png",
+      "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/ellada943.jpg",
       "mp3Stream": "https://cdn.e-radio.gr/logos/gr/big/ellada943.jpg",
       "description": "Athens ",
       "genre": "News",
       "name": "Ellada FM 94,3"
     },
     {
-      "frequency": 87.7,
+      "frequency": 98.6,
       "country": "Ελλάδα",
       "id": "GR6",
       "aacStream": "",
-      "imageUrl": "https://mm.aiircdn.com/630/5dd2b1d909000.png",
-      "mp3Stream": "https://stream.radiojar.com/enlefko877\n",
+      "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/mousikos_986.png",
+      "mp3Stream": "http://netradio.live24.gr/mousikos986",
       "description": "Athens ",
-      "genre": "Electronic ,House",
-      "name": "En Lefko 87.70"
+      "genre": "Art Music,Folk,Greek",
+      "name": "Mousikos FM 98.6"
     },
     {
-      "frequency": 96.6,
+      "frequency": 87.7,
       "country": "Ελλάδα",
       "id": "GR7",
       "aacStream": "",
       "imageUrl": "https://mm.aiircdn.com/630/5dd2b1d909000.png",
-      "mp3Stream": "https://stream.radiojar.com/enlefko877\n",
+      "mp3Stream": "stream.radiojar.com:80/enlefko877",
       "description": "Athens ",
       "genre": "Easy Listening",
-      "name": "Pepper 96,6"
+      "name": "En Lefko 87.70"
     },
     {
       "frequency": 96.6,
@@ -94,7 +94,7 @@
       "id": "GR9",
       "aacStream": "",
       "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/kissfmathens.png",
-      "mp3Stream": "http://kissfm.live24.gr/kiss2111\n",
+      "mp3Stream": "http://kissfm.live24.gr/kiss2111",
       "description": "Athens ",
       "genre": "Adult Contemponary",
       "name": "Kiss Fm 92.9"
@@ -204,7 +204,7 @@
       "id": "GR19",
       "aacStream": "",
       "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/rythmos-web.png",
-      "mp3Stream": "https://stream.radiojar.com/g4tyehk5yvduv\n",
+      "mp3Stream": "https://stream.radiojar.com/g4tyehk5yvduv",
       "description": "Athens ",
       "genre": "Greek Mainstream",
       "name": "Rythmos 94.9"
@@ -215,7 +215,7 @@
       "id": "GR20",
       "aacStream": "",
       "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/dertiwebradio.png",
-      "mp3Stream": "http://derti.live24.gr/derty1000\n",
+      "mp3Stream": "http://derti.live24.gr/derty1000",
       "description": "Athens ",
       "genre": "Greek, Folk",
       "name": "Derti 98,6"
@@ -228,7 +228,7 @@
       "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/ellinikos932.png",
       "mp3Stream": "http://orange.live24.gr/orange9320",
       "description": "Athens ",
-      "genre": "Art Music, Folk, Greek",
+      "genre": "Art Music,Folk,Greek",
       "name": "Ellinikos FM"
     },
     {
@@ -237,9 +237,9 @@
       "id": "GR22",
       "aacStream": "",
       "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/diesi.png",
-      "mp3Stream": "http://orange.live24.gr/orange9320",
+      "mp3Stream": "http://diesi.live24.gr/diesi1013",
       "description": "Athens ",
-      "genre": "Art Music, Folk, Greek",
+      "genre": "Art Music,Folk,Greek",
       "name": "DIESI FM"
     },
     {
@@ -269,7 +269,7 @@
       "country": "Ελλάδα",
       "id": "GR25",
       "aacStream": "",
-      "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/mentafm.png",
+      "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/loveradio2018.png",
       "mp3Stream": "http://loveradio.live24.gr/loveradio-1000",
       "description": "Athens ",
       "genre": "Easy Listening, Greek",
@@ -292,7 +292,7 @@
       "id": "GR27",
       "aacStream": "",
       "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/realfm.png",
-      "mp3Stream": "http://realfm2.live24.gr:80/realfm\n",
+      "mp3Stream": "http://realfm2.live24.gr:80/realfm",
       "description": "Athens ",
       "genre": "News",
       "name": "Real FM"
@@ -325,21 +325,64 @@
       "id": "GR30",
       "aacStream": "",
       "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/skai1003.png",
-      "mp3Stream": "http://netradio.live24.gr/skai1003\n",
+      "mp3Stream": "http://netradio.live24.gr/skai1003",
       "description": "Athens ",
       "genre": "News",
       "name": "Skai 100,3"
     },
     {
-      "frequency": 100.3,
+      "frequency": 100.6,
       "country": "Ελλάδα",
-      "id": "GR30",
+      "id": "GR31",
       "aacStream": "",
-      "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/skai1003.png",
-      "mp3Stream": "http://netradio.live24.gr/skai1003\n",
+      "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/nostosradio.png",
+      "mp3Stream": "https://neos.win:37878/stream",
+      "description": "Athens ",
+      "genre": "Easy ,Adult ,Blues",
+      "name": "Nostos 100.6"
+    },
+    {
+      "frequency": 89,2,
+      "country": "Ελλάδα",
+      "id": "GR32",
+      "aacStream": "",
+      "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/music892-athens.png",
+      "mp3Stream": "http://stream.radiojar.com/k0hua7u1yk5tv",
       "description": "Athens ",
       "genre": "News",
-      "name": "Skai 100,3"
-    }
+      "name": "Music 89.2"
+    },
+    {
+      "frequency": 102,7,
+      "country": "Ελλάδα",
+      "id": "GR33",
+      "aacStream": "",
+      "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/palmosradio1027.jpg",
+      "mp3Stream": "http://s6.onweb.gr:8010/;",
+      "description": "Athens ",
+      "genre": "Greek Music",
+      "name": "Palmos 102,7"
+    },
+    {
+      "frequency": 102,5,
+      "country": "Ελλάδα",
+      "id": "GR34",
+      "aacStream": "",
+      "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/athensvoicefm.png",
+      "mp3Stream": "http://nitro.live24.gr/nitro4555",
+      "description": "Athens ",
+      "genre": "Blues,Funk",
+      "name": "Athens Voice 102,5"
+    },
+    {
+      "frequency": 105,5,
+      "country": "Ελλάδα",
+      "id": "GR35",
+      "aacStream": "",
+      "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/stokokkino1055.png",
+      "mp3Stream": "http://stream.radiojar.com/kokkino-ath.mp3",
+      "description": "Athens ",
+      "genre": "Music",
+      "name": "Sto Kokkino 105,5"
   ]
 }
