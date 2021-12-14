@@ -342,7 +342,7 @@
       "name": "Nostos 100.6"
     },
     {
-      "frequency": 89,2,
+      "frequency": 89.2,
       "country": "Ελλάδα",
       "id": "GR32",
       "aacStream": "",
@@ -353,7 +353,7 @@
       "name": "Music 89.2"
     },
     {
-      "frequency": 102,7,
+      "frequency": 102.7,
       "country": "Ελλάδα",
       "id": "GR33",
       "aacStream": "",
@@ -364,7 +364,7 @@
       "name": "Palmos 102,7"
     },
     {
-      "frequency": 102,5,
+      "frequency": 102.5,
       "country": "Ελλάδα",
       "id": "GR34",
       "aacStream": "",
@@ -375,7 +375,7 @@
       "name": "Athens Voice 102,5"
     },
     {
-      "frequency": 105,5,
+      "frequency": 105.5,
       "country": "Ελλάδα",
       "id": "GR35",
       "aacStream": "",
@@ -384,5 +384,6 @@
       "description": "Athens ",
       "genre": "Music",
       "name": "Sto Kokkino 105,5"
+    }
   ]
 }
