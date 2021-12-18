@@ -185,7 +185,7 @@
       "frequency": 0.0,
       "mp3Stream": "http://streammp3.retro-radio.dk/retro-mp3",
       "aacStream": "http://stream128.retro-radio.dk/retro",
-      "imageURL": "https://radio.byme.dev/DK/IMG/DK17.png"
+      "imageUrl": "https://radio.byme.dev/DK/IMG/DK17.png"
     },
     {
       "id": "DK18",
@@ -196,7 +196,7 @@
       "frequency": 102.3,
       "mp3Stream": "",
       "aacStream": "https://netradio.radio4.dk/radio4",
-      "imageURL": "https://radio.byme.dev/DK/IMG/DK18.png"
+      "imageUrl": "https://radio.byme.dev/DK/IMG/DK18.png"
     },
     {
       "id": "DK19",
@@ -207,7 +207,7 @@
       "frequency": 0.0,
       "mp3Stream": "",
       "aacStream": "https://webradio.skala.fm/skala",
-      "imageURL": "https://radio.byme.dev/DK/IMG/DK19.png"
+      "imageUrl": "https://radio.byme.dev/DK/IMG/DK19.png"
     },
     {
       "id": "DK20",
@@ -218,7 +218,7 @@
       "frequency": 0.0,
       "mp3Stream": "",
       "aacStream": "https://webradio.classicfm.dk/classic",
-      "imageURL": "https://classicfm.dk/wp-content/uploads/2017/11/ClassicFM_Android_status_icon_1024x1024_pos1-2.png"
+      "imageUrl": "https://classicfm.dk/wp-content/uploads/2017/11/ClassicFM_Android_status_icon_1024x1024_pos1-2.png"
     },
     {
       "id": "DK21",
@@ -229,7 +229,7 @@
       "frequency": 90.2,
       "mp3Stream": "http://stream.wlmm.dk/902fmmp3",
       "aacStream": "",
-      "imageURL": "https://radio.byme.dev/DK/IMG/DK21.png"
+      "imageUrl": "https://radio.byme.dev/DK/IMG/DK21.png"
     }
   ]
 }
