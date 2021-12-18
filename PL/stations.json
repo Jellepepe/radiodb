@@ -139,7 +139,7 @@
         "description": "Relaksująca muzyka",
         "genre": "Soul, Jazz, Pop",
         "frequency": 101.5,
-        "mp3Stream": "httpa://ch01.cdn.eurozet.pl/chi-net.mp3",
+        "mp3Stream": "https://ch01.cdn.eurozet.pl/chi-net.mp3",
         "aacStream": "",
         "imageUrl": "https://i.imgur.com/bFO0NCE.png"
       }
