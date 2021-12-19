@@ -40,7 +40,7 @@
         "description": "Hity na czasie!",
         "genre": "Pop, Rock",
         "frequency": 105.6,
-        "mp3Stream": "https://play.adtonos.com/eska-warszawa",
+        "mp3Stream": "https://ext03.ic.smcdn.pl/6130-1.mp3",
         "aacStream": "",
         "imageUrl": "https://radio.byme.dev/PL/IMG/PL4.png"
       },
@@ -51,7 +51,7 @@
         "description": "W Rytmie Hit\u00f3w",
         "genre": "Pop, Rock",
         "frequency": 106.4,
-        "mp3Stream": "https://play.adtonos.com/vox-warszawa",
+        "mp3Stream": "http://hd.digitalradio.mx:5906/;",
         "aacStream": "",
         "imageUrl": "https://radio.byme.dev/PL/IMG/PL5.png"
       },
@@ -139,7 +139,7 @@
         "description": "Relaksująca muzyka",
         "genre": "Soul, Jazz, Pop",
         "frequency": 101.5,
-        "mp3Stream": "httpa://ch01.cdn.eurozet.pl/chi-net.mp3",
+        "mp3Stream": "https://ch01.cdn.eurozet.pl/chi-net.mp3",
         "aacStream": "",
         "imageUrl": "https://i.imgur.com/bFO0NCE.png"
       }
