@@ -35,7 +35,7 @@
       },
       {
         "id": "PL4",
-        "name": "Eska",
+        "name": "Radio Eska",
         "country": "Polska",
         "description": "Hity na czasie!",
         "genre": "Pop, Rock",
@@ -46,7 +46,7 @@
       },
       {
         "id": "PL5",
-        "name": "VOX FM",
+        "name": "Radio VOX FM",
         "country": "Polska",
         "description": "W Rytmie Hit\u00f3w",
         "genre": "Pop, Rock",
@@ -91,7 +91,7 @@
       {
         "id": "PL9",
         "name": "AntyRadio",
-        "country": "Poland",
+        "country": "Polska",
         "description": "Najlepsza muzyka rockowa",
         "genre": "Rock",
         "frequency": 106.8,
@@ -102,7 +102,7 @@
       {
         "id": "PL10",
         "name": "Radio90",
-        "country": "Poland",
+        "country": "Polska",
         "description": "Gramy od 25 lat",
         "genre": "",
         "frequency": 93.8,
@@ -112,8 +112,8 @@
       },
       {
         "id": "PL11",
-        "name": "Z\u0142ote Przeboje",
-        "country": "Poland",
+        "name": "Radio Złote Przeboje",
+        "country": "Polska",
         "description": "Najwieksze przeboje lat 80, 90, 00",
         "genre": "",
         "frequency": 100.1,
@@ -124,7 +124,7 @@
       {
         "id": "PL12",
         "name": "Radio Kampus",
-        "country": "Poland",
+        "country": "Polska",
         "description": "#SAMESZTOSY",
         "genre": "Alternative, Pop",
         "frequency": 97.1,
@@ -135,7 +135,7 @@
       {
         "id": "PL13",
         "name": "Chillizet",
-        "country": "Poland",
+        "country": "Polska",
         "description": "Relaksująca muzyka",
         "genre": "Soul, Jazz, Pop",
         "frequency": 101.5,
