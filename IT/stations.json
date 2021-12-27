@@ -340,6 +340,39 @@
       "mp3Stream": "https://edge.singsingmusic.net/MC2.mp3",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/IT/IMG/IT31.png"
+    },
+    {
+      "id": "IT32",
+      "name": "Radio Voce nel Deserto",
+      "country": "Italia",
+      "description": "Religione",
+      "genre": "Religione",
+      "frequency": 92.1,
+      "mp3Stream": "http://94.23.66.155/proxy/costella?mp=/stream&1593240596954",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT32.jpg"
+    },
+    {
+      "id": "IT33",
+      "name": "Radio Maria",
+      "country": "Italia",
+      "description": "una voce cristiana in Italia e nel mondo",
+      "genre": "Religione",
+      "frequency": 106.5,
+      "mp3Stream": "http://dreamsiteradiocp.com:8092/",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT33.png"
+    },
+    {
+      "id": "IT34",
+      "name": "Radio 24",
+      "country": "Italia",
+      "description": "Sole 24 ore",
+      "genre": "Notizie",
+      "frequency": 92.1,
+      "mp3Stream": "https://radio24-lh.akamaihd.net/i/radio24_1@99307/master.m3u8",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/IT/IMG/IT34.png"
     }
   ]
 }
