@@ -51,8 +51,8 @@
         "description": "W Rytmie Hit\u00f3w",
         "genre": "Pop, Rock",
         "frequency": 106.4,
-        "mp3Stream": "http://hd.digitalradio.mx:5906/;",
-        "aacStream": "",
+        "mp3Stream": "waw01-01.ic.smcdn.pl:8000/3990-1.mp3.m3u",
+        "aacStream": "waw01-01.ic.smcdn.pl:8000/3990-1.aac.m3u",
         "imageUrl": "https://radio.byme.dev/PL/IMG/PL5.png"
       },
       {
