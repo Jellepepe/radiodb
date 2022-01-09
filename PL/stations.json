@@ -48,11 +48,11 @@
         "id": "PL5",
         "name": "Radio VOX FM",
         "country": "Polska",
-        "description": "W Rytmie Hit\u00f3w",
+        "description": "W Rytmie Hitów",
         "genre": "Pop, Rock",
         "frequency": 106.4,
-        "mp3Stream": "waw01-01.ic.smcdn.pl:8000/3990-1.mp3.m3u",
-        "aacStream": "waw01-01.ic.smcdn.pl:8000/3990-1.aac.m3u",
+        "mp3Stream": "https://waw01-01.ic.smcdn.pl:8000/3990-1.mp3",
+        "aacStream": "https://waw01-01.ic.smcdn.pl:8000/3990-1.aac",
         "imageUrl": "https://radio.byme.dev/PL/IMG/PL5.png"
       },
       {
