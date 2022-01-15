@@ -142,6 +142,28 @@
         "mp3Stream": "https://ch01.cdn.eurozet.pl/chi-net.mp3",
         "aacStream": "",
         "imageUrl": "https://i.imgur.com/bFO0NCE.png"
+      },
+      {
+        "id": "PL14",
+        "name": "Freee",
+        "country": "Polska",
+        "description": "Hity Non Stop",
+        "genre": "Pop, Rock",
+        "frequency": 89.9,
+        "mp3Stream": "https://streaming.radio.lublin.pl:8843/radiofreee",
+        "aacStream": "",
+        "imageUrl": "https://radio.byme.dev/PL/IMG/PL14.png"
+      },
+      {
+        "id": "PL15",
+        "name": "Supernova",
+        "country": "Polska",
+        "description": "Zawsze Polska Muzyka",
+        "genre": "Top 40, World music",
+        "frequency": 89.8,
+        "mp3Stream": "https://radio.stream.smcdn.pl/icradio-p/1380-1.aac/playlist.m3u8",
+        "aacStream": "",
+        "imageUrl": "https://cdn.radios.smcloud.net/t/plugs/Super-Logo_rg-cyD9-BU7v-os5Q_500x500.jpg"
       }
     ]
   }
