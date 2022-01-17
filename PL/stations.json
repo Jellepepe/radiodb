@@ -40,8 +40,8 @@
         "description": "Hity na czasie!",
         "genre": "Pop, Rock",
         "frequency": 105.6,
-        "mp3Stream": "https://ext03.ic.smcdn.pl/6130-1.mp3",
-        "aacStream": "",
+        "mp3Stream": "https://radio.stream.smcdn.pl/icradio-p/2380-1.mp3/playlist.m3u8",
+        "aacStream": "https://radio.stream.smcdn.pl/icradio-p/2380-1.aac/playlist.m3u8",
         "imageUrl": "https://radio.byme.dev/PL/IMG/PL4.png"
       },
       {
@@ -51,8 +51,8 @@
         "description": "W Rytmie Hitów",
         "genre": "Pop, Rock",
         "frequency": 106.4,
-        "mp3Stream": "http://waw01-01.ic.smcdn.pl:8000/3990-1.mp3",
-        "aacStream": "http://waw01-01.ic.smcdn.pl:8000/3990-1.aac",
+        "mp3Stream": "https://radio.stream.smcdn.pl/icradio-p/3990-1.mp3/playlist.m3u8",
+        "aacStream": "https://radio.stream.smcdn.pl/icradio-p/3990-1.aac/playlist.m3u8",
         "imageUrl": "https://radio.byme.dev/PL/IMG/PL5.png"
       },
       {
