@@ -29,8 +29,8 @@
       "description": "Euer Radio Nummer 1",
       "genre": " Pop",
       "frequency": 92.2,
-      "mp3Stream": "https://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3",
-      "aacStream": "https://swr-swr3-live.cast.addradio.de/swr/swr3/live/aac/96/stream.aac",
+      "mp3Stream": "https://dispatcher.rndfnk.com/swr/swr3/live/mp3/128/stream.mp3",
+      "aacStream": "https://dispatcher.rndfnk.com/swr/swr3/live/aac/96/stream.aac",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SWR3_Logo.svg/2880px-SWR3_Logo.svg.png" 
     },
     {
