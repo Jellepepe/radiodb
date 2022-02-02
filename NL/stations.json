@@ -186,6 +186,17 @@
       "mp3Stream": "",
       "aacStream": "https://stream.joyradio.nl/joyradio",
       "imageUrl": "https://nl.radio.net/images/broadcasts/5d/89/110487/1/c300.png"
+    },
+    {
+      "id": "NL18",
+      "name": "Hete Hits",
+      "country": "Netherlands",
+      "description": "De grootste en heetste hits hoor je alleen hier!",
+      "genre": "Hits",
+      "frequency": 0.0,
+      "mp3Stream": "http://mcp-2.mm-stream.nl:8029",
+      "aacStream": "",
+      "imageUrl": "https://cdn-profiles.tunein.com/s260759/images/logod.png"
     }
   ]
 }
