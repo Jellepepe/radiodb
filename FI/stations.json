@@ -1,0 +1,103 @@
+{
+  "stations": [
+    {
+      "id": "FI1",
+      "name": "Yle Radio 1",
+      "country": "Finland",
+      "description": "Vapaus ajatella",
+      "genre": "Ajankohtaista",
+      "frequency": 90.7,
+      "mp3Stream": "http://icecast.live.yle.fi/radio/YleRadio1/icecast.audio",
+      "aacStream": "",
+      "imageUrl": "https://images.cdn.yle.fi/image/upload/ar_1:1,c_fill,f_auto,q_auto:eco,w_687/v0/13-57-1574340043858.png"
+    },
+    {
+      "id": "FI2",
+      "name": "Yle Radio Suomi",
+      "country": "Finland",
+      "description": "Aina suorana, aina läsnä",
+      "genre": "Ajankohtaista",
+      "frequency": 94.0,
+      "mp3Stream": "http://icecast.live.yle.fi/radio/YleRS/icecast.audio",
+      "aacStream": "",
+      "imageUrl": "https://images.cdn.yle.fi/image/upload/ar_1:1,c_fill,f_auto,q_auto:eco,w_687/v0/13-57-1574340303647.png"
+    },
+    {
+      "id": "FI3",
+      "name": "Yle Radio Suomi Tampere",
+      "country": "Finland",
+      "description": "Aina suorana, aina läsnä",
+      "genre": "Ajankohtaista",
+      "frequency": 99.9,
+      "mp3Stream": "http://icecast.live.yle.fi/radio/YleTampere/icecast.audio",
+      "aacStream": "",
+      "imageUrl": "https://images.cdn.yle.fi/image/upload/ar_1:1,c_fill,f_auto,q_auto:eco,w_687/v0/13-57-1574340303647.png"
+    },
+    {
+      "id": "FI4",
+      "name": "Yle Radio Suomi Mikkeli",
+      "country": "Finland",
+      "description": "Aina suorana, aina läsnä",
+      "genre": "Ajankohtaista",
+      "frequency": 94.6,
+      "mp3Stream": "http://icecast.live.yle.fi/radio/YleMikkeli/icecast.audio",
+      "aacStream": "",
+      "imageUrl": "https://images.cdn.yle.fi/image/upload/ar_1:1,c_fill,f_auto,q_auto:eco,w_687/v0/13-57-1574340303647.png"
+    },
+    {
+      "id": "FI5",
+      "name": "Yle Puhe",
+      "country": "Finland",
+      "description": "Maailma paranee puhumalla",
+      "genre": "Ajankohtaista",
+      "frequency": 103.7,
+      "mp3Stream": "http://icecast.live.yle.fi/radio/YlePuhe/icecast.audio",
+      "aacStream": "",
+      "imageUrl": "https://images.cdn.yle.fi/image/upload/ar_1:1,c_fill,f_auto,q_auto:eco,w_687/v0/13-57-1575451856418.png"
+    },
+    {
+      "id": "FI6",
+      "name": "Yle Klassinen",
+      "country": "Finland",
+      "description": "Yle Klassinen soi klassista tauotta",
+      "genre": "Musiikki",
+      "frequency": 0.0,
+      "mp3Stream": "http://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio",
+      "aacStream": "",
+      "imageUrl": "https://images.cdn.yle.fi/image/upload/ar_1:1,c_fill,f_auto,q_auto:eco,w_687/v0/13-57-1574340112124.png"
+    },
+    {
+      "id": "FI7",
+      "name": "YleX",
+      "country": "Finland",
+      "description": "Kuuluu sulle",
+      "genre": "Pop",
+      "frequency": 91.9,
+      "mp3Stream": "http://icecast.live.yle.fi/radio/YleX/icecast.audio",
+      "aacStream": "",
+      "imageUrl": "https://images.cdn.yle.fi/image/upload/ar_1:1,c_fill,f_auto,q_auto:eco,w_687/v0/13-57-1574406855224.png"
+    },
+    {
+      "id": "FI8",
+      "name": "Yle Vega",
+      "country": "Finland",
+      "description": "Aktuellt och musik",
+      "genre": "Aktuellt",
+      "frequency": 101.1,
+      "mp3Stream": "http://icecast.live.yle.fi/radio/YleVega/icecast.audio",
+      "aacStream": "",
+      "imageUrl": "https://images.cdn.yle.fi/image/upload/ar_1:1,c_fill,f_auto,q_auto:eco,w_687/v0/13-57-1618406052925.png"
+    },
+    {
+      "id": "FI9",
+      "name": "Yle X3M",
+      "country": "Finland",
+      "description": "Kanalen son vågar",
+      "genre": "Pop",
+      "frequency": 98.9,
+      "mp3Stream": "http://icecast.live.yle.fi/radio/YleX3M/icecast.audio",
+      "aacStream": "",
+      "imageUrl": "https://images.cdn.yle.fi/image/upload/ar_1:1,c_fill,f_auto,q_auto:eco,w_687/v0/13-57-1618406213893.png"
+    }
+  ]
+}
