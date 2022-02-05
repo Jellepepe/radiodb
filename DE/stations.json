@@ -128,9 +128,9 @@
       "description": "Nur wir sind so",
       "genre": "Pop, Dance, House, Hip-Hop",
       "frequency": 107.9,
-      "mp3Stream": "https://addrad.io/4WRMN2",
+      "mp3Stream": "http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
       "aacStream": "",
-      "imageUrl": "https://www.radio.at/images/broadcasts/20/43/36450/4/c300.png"
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE12.png"
     },
     {
       "id": "DE13",
@@ -139,9 +139,9 @@
       "description": "Nur wir sind so",
       "genre": "Pop, Dance, House, Hip-Hop",
       "frequency": 0.0,
-      "mp3Stream": "https://addrad.io/4WRP76",
+      "mp3Stream": "http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3",
       "aacStream": "",
-      "imageUrl": "https://www.radio.at/images/broadcasts/cd/0d/1383/4/c300.png"
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE13.png"
     },
     {
       "id": "DE14",
@@ -285,6 +285,17 @@
       "mp3Stream": "http://streams.regenbogen.de/rr-freiburg-128-mp3",
       "aacStream": "https://streams.regenbogen.de/rr-mannheim-128-aac",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE26.png"
+    },
+	  {
+      "id": "DE27",
+      "name": "WDR 2 (Rheinland)",
+      "country": "Deutschland",
+      "description": "Wir sind der Westen",
+      "genre": "Info, Rock, Pop",
+      "frequency": 100.4,
+      "mp3Stream": "http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE27.png"
     }
   ]
 }
