@@ -143,8 +143,52 @@
       "aacStream": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Radio_10_logo_2017.png"
     },
-    {
+      {
       "id": "NL14",
+      "name": "KINK",
+      "country": "Netherlands",
+      "description": "No Alternative",
+      "genre": "Alternative",
+      "frequency": 107.1,
+      "mp3Stream": "https://22543.live.streamtheworld.com:443/KINK_SC",
+      "aacStream": "https://25333.live.streamtheworld.com:443/KINKAAC_SC",
+      "imageUrl": "https://cdn-profiles.tunein.com/s210430/images/logod.png"
+    },
+    {
+      "id": "NL15",
+      "name": "Kink CLASSICS",
+      "country": "Netherlands",
+      "description": "Het themakanaal KINK CLASSICS, met nonstop de beste alternative classics",
+      "genre": "Alternative classics",
+      "frequency": 107.2,
+      "mp3Stream": "http://22553.live.streamtheworld.com:3690/KINK_DNA_SC",
+      "aacStream": "http://25353.live.streamtheworld.com:80/KINK_DNAAAC_SC",
+      "imageUrl": "https://cdn-profiles.tunein.com/s194478/images/logod.png"
+    },
+      {
+      "id": "NL16",
+      "name": "Kink Distortion",
+      "country": "Netherlands",
+      "description": "Het themakanaal KINK DISTORTION met non-stop de beste metal, hardrock en metalcore",
+      "genre": "metal, hardrock en metalcore",
+      "frequency": 107.3,
+      "mp3Stream": "https://25253.live.streamtheworld.com:443/KINK_DISTORTION_SC",
+      "aacStream": "https://25353.live.streamtheworld.com:443/KINK_DISTORTIONAAC_SC",
+      "imageUrl": "https://cdn-profiles.tunein.com/s276282/images/logod.png"
+    },
+    {
+      "id": "NL17",
+      "name": "Kink Indi",
+      "country": "Netherlands",
+      "description": "Het themakanaal KINK INDIE met non-stop de beste alternatieve indie",
+      "genre": "Indie",
+      "frequency": 107.4,
+      "mp3Stream": "https://22553.live.streamtheworld.com:443/KINKINDIE_SC",
+      "aacStream": "https://22723.live.streamtheworld.com:443/KINKINDIEAAC_SC",
+      "imageUrl": "https://cdn-profiles.tunein.com/s287077/images/logod.png"
+    },
+    {
+      "id": "NL18",
       "name": "BNR Nieuwsradio",
       "country": "Netherlands",
       "description": "20 Jaar in Business",
@@ -155,7 +199,7 @@
       "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/4/4e/BNR_Nieuwsradio_logo.png"
     },
     {
-      "id": "NL15",
+      "id": "NL19",
       "name": "Continu",
       "country": "Netherlands",
       "description": "Altijd gezellig!",
@@ -166,7 +210,7 @@
       "imageUrl": "https://radio.byme.dev/NL/IMG/NL15.png"
     },
     {
-      "id": "NL16",
+      "id": "NL20",
       "name": "RadioNL",
       "country": "Netherlands",
       "description": "altijd AAN!",
@@ -177,7 +221,7 @@
       "imageUrl": "https://www.radionl.fm/wp-content/uploads/2021/04/radionl_logo.png"
     },
     {
-      "id": "NL17",
+      "id": "NL21",
       "name": "Joy Radio",
       "country": "Netherlands",
       "description": "Hits only!",
@@ -188,7 +232,7 @@
       "imageUrl": "https://nl.radio.net/images/broadcasts/5d/89/110487/1/c300.png"
     },
     {
-      "id": "NL18",
+      "id": "NL22",
       "name": "Hete Hits",
       "country": "Netherlands",
       "description": "De grootste en heetste hits hoor je alleen hier!",
