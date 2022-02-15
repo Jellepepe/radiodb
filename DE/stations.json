@@ -296,6 +296,39 @@
       "mp3Stream": "http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE27.png"
+    },
+	  {
+      "id": "DE28",
+      "name": "Hit Radio N1",
+      "country": "Deutschland",
+      "description": "Die Besten aktuellen Hits",
+      "genre": "Info, Pop",
+      "frequency": 92,9,
+      "mp3Stream": "https://hitradion1--di--nacs-ais-lgc--09--cdn.cast.addradio.de/hitradion1/live/mp3/high/stream.mp3",
+      "aacStream": "",
+      "imageUrl": "https://www.hitradion1.de/images/system/N1.png"
+    },
+	  {
+      "id": "DE29",
+      "name": "STAR FM Nürnberg",
+      "country": "Deutschland",
+      "description": "Maximum Rock",
+      "genre": "Rock",
+      "frequency": 107,8, 99,0,
+      "mp3Stream": "https://starfm-4.explodio.com/nuernberg.mp3",
+      "aacStream": "",
+      "imageUrl": "https://cdn-profiles.tunein.com/s75755/images/logod.png"
+    },
+	  {
+      "id": "DE30",
+      "name": "ROCK ANTENNE Bayern",
+      "country": "Deutschland",
+      "description": "Rock nonstop!",
+      "genre": "Rock",
+      "frequency": ,
+      "mp3Stream": "http://mp3channels.webradio.antenne.de/rockantenne",
+      "aacStream": "",
+      "imageUrl": "https://cdn-profiles.tunein.com/s25217/images/logod.jpg"
     }
   ]
 }
