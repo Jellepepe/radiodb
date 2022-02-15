@@ -106,7 +106,7 @@
       "description": "Hits, Hits, Hits",
       "genre": "Hits",
       "frequency": 94.4,
-      "mp3Stream": "https://br-br3-live.cast.addradio.de/br/br3/live/mp3/128/stream.mp3",
+      "mp3Stream": "https://dispatcher.rndfnk.com/br/br3/live/mp3/mid",
       "aacStream": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bayern3_logo_2015.svg/640px-Bayern3_logo_2015.svg.png"
     },
