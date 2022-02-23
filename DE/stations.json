@@ -329,6 +329,28 @@
       "mp3Stream": "http://mp3channels.webradio.antenne.de/rockantenne",
       "aacStream": "",
       "imageUrl": "imageUrl": "https://radio.byme.dev/DE/IMG/DE30.png"
+    },
+	  {
+      "id": "DE31",
+      "name": "GONG 97,1 Nürnberg",
+      "country": "Deutschland",
+      "description": "Rock Classics",
+      "genre": "Rock",
+      "frequency": 97,1,
+      "mp3Stream": "https://gong971-live.cast.addradio.de/gong971/live/mp3/high",
+      "aacStream": "",
+      "imageUrl": "imageUrl": "https://radio.byme.dev/DE/IMG/DE31.png"
+    },
+	  {
+      "id": "DE32",
+      "name": "rm.fm main",
+      "country": "Deutschland",
+      "description": "main by rautemusik",
+      "genre": "Rock",
+      "frequency": ,
+      "mp3Stream": "https://main-high.rautemusik.fm",
+      "aacStream": "",
+      "imageUrl": "imageUrl": "https://radio.byme.dev/DE/IMG/DE32.png"
     }
   ]
 }
