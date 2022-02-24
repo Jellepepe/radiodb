@@ -351,6 +351,39 @@
       "mp3Stream": "https://main-high.rautemusik.fm",
       "aacStream": "",
       "imageUrl": "imageUrl": "https://radio.byme.dev/DE/IMG/DE32.png"
+    },
+	  {
+      "id": "DE33",
+      "name": "Energy Berlin",
+      "country": "Deutschland",
+      "description": "Hit music only",
+      "genre": "Pop, main",
+      "frequency": 103,4,
+      "mp3Stream": "https://f5-pa6.nrjaudio.fm/de/33001/mp3_128.mp3?origine=wlan&cdn_path=adswizz_lbs10&adws_out_b1",
+      "aacStream": "",
+      "imageUrl": "imageUrl": "https://radio.byme.dev/DE/IMG/DE33.png"
+    },
+	  {
+      "id": "DE34",
+      "name": "Star FM Berlin",
+      "country": "Deutschland",
+      "description": "Maximum Rock",
+      "genre": "Rock",
+      "frequency": 87,9,
+      "mp3Stream": "https://starfm-5.explodio.com/berlin.mp3",
+      "aacStream": "",
+      "imageUrl": "imageUrl": "https://radio.byme.dev/DE/IMG/DE34.png"
+    },
+	  {
+      "id": "DE35",
+      "name": "Kiss FM",
+      "country": "Deutschland",
+      "description": "Der Beat von Berlin",
+      "genre": "Pop, main",
+      "frequency": 98,8,
+      "mp3Stream": "https://topradio-de-hz-fal-stream05-cluster01.radiohost.de/kissfm_128",
+      "aacStream": "",
+      "imageUrl": "imageUrl": "https://radio.byme.dev/DE/IMG/DE35.png"
     }
   ]
 }
