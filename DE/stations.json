@@ -98,15 +98,15 @@
       "mp3Stream": "http://webstream.charivari986.de/charivari986",
       "aacStream": "",
       "imageUrl": "https://www.986charivari.de/images/system/charilogo_diversity.jpg"
-    },		
-	{
+    },
+    {
       "id": "DE10",
       "name": "Bayern 3",
       "country": "Deutschland",
       "description": "Hits, Hits, Hits",
       "genre": "Hits",
       "frequency": 94.4,
-      "mp3Stream": "https://br-br3-live.cast.addradio.de/br/br3/live/mp3/128/stream.mp3",
+      "mp3Stream": "https://dispatcher.rndfnk.com/br/br3/live/mp3/mid",
       "aacStream": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bayern3_logo_2015.svg/640px-Bayern3_logo_2015.svg.png"
     },
@@ -176,7 +176,7 @@
       "aacStream": "https://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE16.png"
     },
-	  {
+    {
       "id": "DE17",
       "name": "Deutschlandfunk",
       "country": "Deutschland",
@@ -220,7 +220,7 @@
       "aacStream": "https://stream.rockantenne.hamburg/rockantenne-hamburg/stream/aacp",
       "imageUrl": "https://www.radio.de/images/broadcasts/f5/16/2309/2/c175.png"
     },
-	  {
+    {
       "id": "DE21",
       "name": "ROCK ANTENNE HEAVY METAL",
       "country": "Deutschland",
@@ -286,7 +286,7 @@
       "aacStream": "https://streams.regenbogen.de/rr-mannheim-128-aac",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE26.png"
     },
-	  {
+    {
       "id": "DE27",
       "name": "WDR 2 (Rheinland)",
       "country": "Deutschland",
@@ -296,6 +296,94 @@
       "mp3Stream": "http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE27.png"
+    },
+    {
+      "id": "DE28",
+      "name": "Hit Radio N1",
+      "country": "Deutschland",
+      "description": "Die Besten aktuellen Hits",
+      "genre": "Info, Pop",
+      "frequency": 92.9,
+      "mp3Stream": "https://hitradion1--di--nacs-ais-lgc--09--cdn.cast.addradio.de/hitradion1/live/mp3/high/stream.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE28.png"
+    },
+    {
+      "id": "DE29",
+      "name": "STAR FM Nürnberg",
+      "country": "Deutschland",
+      "description": "Maximum Rock",
+      "genre": "Rock",
+      "frequency": 107.8,
+      "mp3Stream": "https://starfm-4.explodio.com/nuernberg.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE29.png"
+    },
+    {
+      "id": "DE30",
+      "name": "ROCK ANTENNE Bayern",
+      "country": "Deutschland",
+      "description": "Rock nonstop!",
+      "genre": "Rock",
+      "frequency": 0.0,
+      "mp3Stream": "http://mp3channels.webradio.antenne.de/rockantenne",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE30.png"
+    },
+    {
+      "id": "DE31",
+      "name": "GONG 97,1 Nürnberg",
+      "country": "Deutschland",
+      "description": "Rock Classics",
+      "genre": "Rock",
+      "frequency": 97.1,
+      "mp3Stream": "https://gong971-live.cast.addradio.de/gong971/live/mp3/high",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE31.png"
+    },
+    {
+      "id": "DE32",
+      "name": "rm.fm main",
+      "country": "Deutschland",
+      "description": "main by rautemusik",
+      "genre": "Pop",
+      "frequency": 0.0,
+      "mp3Stream": "https://main-high.rautemusik.fm",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE32.png"
+    },
+    {
+      "id": "DE33",
+      "name": "Energy Berlin",
+      "country": "Deutschland",
+      "description": "Hit music only",
+      "genre": "Pop, main",
+      "frequency": 103.4,
+      "mp3Stream": "https://f5-pa6.nrjaudio.fm/de/33001/mp3_128.mp3?origine=wlan&cdn_path=adswizz_lbs10&adws_out_b1",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE33.png"
+    },
+    {
+      "id": "DE34",
+      "name": "Star FM Berlin",
+      "country": "Deutschland",
+      "description": "Maximum Rock",
+      "genre": "Rock",
+      "frequency": 87.9,
+      "mp3Stream": "https://starfm-5.explodio.com/berlin.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE34.png"
+    },
+    {
+      "id": "DE35",
+      "name": "Kiss FM",
+      "country": "Deutschland",
+      "description": "Der Beat von Berlin",
+      "genre": "Pop, main",
+      "frequency": 98.8,
+      "mp3Stream": "https://topradio-de-hz-fal-stream05-cluster01.radiohost.de/kissfm_128",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE35.png"
     }
   ]
 }
