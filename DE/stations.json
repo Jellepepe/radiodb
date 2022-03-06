@@ -406,6 +406,50 @@
       "mp3Stream": "https://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_sh.m3u",
       "aacStream": "https://www.ndr.de/resources/metadaten/audio/aac/ndrinfo_sh.m3u",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/NDR_Info_Logo_2019.svg/2560px-NDR_Info_Logo_2019.svg.png"
+    },
+    {
+      "id": "DE38",
+      "name": "Radio 91.2",
+      "country": "Deutschland",
+      "description": "Mein Dortmund",
+      "genre": "Pop, main",
+      "frequency": 91.2,
+      "mp3Stream": "http://radio912--di--nacs-ais-lgc--07--cdn.cast.addradio.de/radio912/live/mp3/high",
+      "aacStream": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Radio_91.2_-_Mein_Dortmund_Logo.svg/375px-Radio_91.2_-_Mein_Dortmund_Logo.svg.png"
+    },
+    {
+      "id": "DE39",
+      "name": "WDR2 (Ruhrgebiet)",
+      "country": "Deutschland",
+      "description": "Wir sind der Westen",
+      "genre": "Info, Rock, Pop",
+      "frequency": 87.8,
+      "mp3Stream": "https://wdr-wdr2-ruhrgebiet.icecastssl.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3",
+      "aacStream": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WDR_2_logo_2012.svg/375px-WDR_2_logo_2012.svg.png"
+    },
+    {
+      "id": "DE40",
+      "name": "R.SH",
+      "country": "Deutschland",
+      "description": "Schleswig-Holsteins bester Musikmix",
+      "genre": "Pop, main",
+      "frequency": 102.4,
+      "mp3Stream": "http://streams.rsh.de/rsh-live/mp3-192/mediaplayer",
+      "aacStream": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2019_R.SH_Logo.jpg/375px-2019_R.SH_Logo.jpg"
+    },
+    {
+      "id": "DE41",
+      "name": "I LOVE RADIO",
+      "country": "Deutschland",
+      "description": "Das Beste aus I Love Music",
+      "genre": "Charts, Dance, Hip Hop",
+      "frequency": 69.0,
+      "mp3Stream": "https://streams.ilovemusic.de/iloveradio1.mp3",
+      "aacStream": "",
+      "imageUrl": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/69/83/36982/c300.png"
     }
   ]
 }
