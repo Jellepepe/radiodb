@@ -392,8 +392,8 @@
       "description": "Region Heide",
       "genre": "Oldies",
       "frequency": 90.5,
-      "mp3Stream": "https://www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord_hei.m3u",
-      "aacStream": "https://www.ndr.de/resources/metadaten/audio/aac/ndr1wellenord_hei.m3u",
+      "mp3Stream": "https://icecast.ndr.de/ndr/ndr1wellenord/heide/mp3/128/stream.mp3",
+      "aacStream": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/NDR_1_Welle_Nord_Logo.svg/1200px-NDR_1_Welle_Nord_Logo.svg.png"
     },
     {
@@ -403,8 +403,8 @@
       "description": "Die Nachrichten für den Norden",
       "genre": "News",
       "frequency": 87.9,
-      "mp3Stream": "https://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_sh.m3u",
-      "aacStream": "https://www.ndr.de/resources/metadaten/audio/aac/ndrinfo_sh.m3u",
+      "mp3Stream": "https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3",
+      "aacStream": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/NDR_Info_Logo_2019.svg/2560px-NDR_Info_Logo_2019.svg.png"
     }
   ]
