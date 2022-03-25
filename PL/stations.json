@@ -164,6 +164,72 @@
         "mp3Stream": "https://radio.stream.smcdn.pl/icradio-p/1380-1.aac/playlist.m3u8",
         "aacStream": "",
         "imageUrl": "https://cdn.radios.smcloud.net/t/plugs/Super-Logo_rg-cyD9-BU7v-os5Q_500x500.jpg"
+      },
+      {
+        "id": "PL16",
+        "name": "Eska Śląsk",
+        "country": "Polska",
+        "description": "Hity na czasie!",
+        "genre": "Pop, Rock",
+        "frequency": 99.1,
+        "mp3Stream": "https://radio.stream.smcdn.pl/icradio-p/2220-1.mp3/playlist.m3u8",
+        "aacStream": "https://radio.stream.smcdn.pl/icradio-p/2220-1.aac/playlist.m3u8",
+        "imageUrl": "https://radio.byme.dev/PL/IMG/PL4.png"
+      },
+      {
+        "id": "PL17",
+        "name": "RMF24",
+        "country": "Polska",
+        "description": "Najbliżej faktów",
+        "genre": "News, World",
+        "frequency": 0.0,
+        "mp3Stream": "https://rs203-krk-cyfronet.rmfstream.pl/RMF24",
+        "aacStream": "",
+        "imageUrl": "https://i.iplsc.com/0007T0Q8S45GRKJY-C0.png"
+      },
+      {
+        "id": "PL18",
+        "name": "Tok FM",
+        "country": "Polska",
+        "description": "Pierwsze Radio Informacyjne",
+        "genre": "News, Talk",
+        "frequency": 97.4,
+        "mp3Stream": "https://pl-play.adtonos.com/tok-fm",
+        "aacStream": "",
+        "imageUrl": "https://radio.byme.dev/PL/IMG/PL18.png"
+      },
+      {
+        "id": "PL19",
+        "name": "Pogoda",
+        "country": "Polska",
+        "description": "Najpi\u0119kniejsze melodie",
+        "genre": "Classic Hits",
+        "frequency": 88.4,
+        "mp3Stream": "http://stream10.radioagora.pl/tuba139-1.mp3",
+        "aacStream": "",
+        "imageUrl": "https://radio.byme.dev/PL/IMG/PL19.png"
+      },
+      {
+        "id": "PL20",
+        "name": "Piekary",
+        "country": "Polska",
+        "description": "Lokalna stacja muzyczno-informacyjna",
+        "genre": "Classic Hits",
+        "frequency": 88.7,
+        "mp3Stream": "https://stream.radiopiekary.pl/",
+        "aacStream": "",
+        "imageUrl": "https://radio.byme.dev/PL/IMG/PL20.png"
+      },
+      {
+        "id": "PL21",
+        "name": "Express FM",
+        "country": "Polska",
+        "description": "Prawdziwa lokalna stacja!",
+        "genre": "Pop, News",
+        "frequency": 92.3,
+        "mp3Stream": "https://stream.rcs.revma.com/yx6cub73kwzuv",
+        "aacStream": "",
+        "imageUrl": "https://www.radioexpress.pl/assets/images/logo_re.png"
       }
     ]
   }
