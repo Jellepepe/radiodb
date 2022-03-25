@@ -450,6 +450,61 @@
       "mp3Stream": "https://streams.ilovemusic.de/iloveradio1.mp3",
       "aacStream": "",
       "imageUrl": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/69/83/36982/c300.png"
+    },
+    {
+      "id": "DE42",
+      "name": "Antenne Bayern Top 40",
+      "country": "Deutschland",
+      "description": "Euere Lieblingshits der Woche",
+      "genre": "Pop, Rock",
+      "frequency": 0.0,
+      "mp3Stream": "https://s4-webradio.webradio.de/top-40",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE42.png"
+    },
+    {
+      "id": "DE43",
+      "name": "Big FM Charts",
+      "country": "Deutschland",
+      "description": "Die besten Hits aus den Top 100 in Deutschland",
+      "genre": "Pop, Rock",
+      "frequency": 0.0,
+      "mp3Stream": "",
+      "aacStream": "https://streams.bigfm.de/bigfm-charts-128-aac",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE43.png"
+    },
+    {
+      "id": "DE44",
+      "name": "FFN",
+      "country": "Deutschland",
+      "description": "Wir sind Niedersachsen",
+      "genre": "Pop, Rock",
+      "frequency": 101.9,
+      "mp3Stream": "https://stream.ffn.de/ffn/mp3-192/",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE44.png"
+    },
+    {
+      "id": "DE45",
+      "name": "Bremen Eins",
+      "country": "Deutschland",
+      "description": "Die gr\u00f6\u00dften Hits aller Zeiten",
+      "genre": "Pop, Rock",
+      "frequency": 93.8,
+      "mp3Stream": "https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE45.png"
+    },
+    {
+      "id": "DE46",
+      "name": "R.SA Maxis Maximal",
+      "country": "Deutschland",
+      "description": "Das ist 80er pur!",
+      "genre": "Pop, Rock",
+      "frequency": 0.0,
+      "mp3Stream": "https://rsa.hoerradar.de/rsasachsen-maxis-mp3-hq",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE46.png"
     }
   ]
 }
