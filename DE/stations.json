@@ -505,6 +505,17 @@
       "mp3Stream": "https://rsa.hoerradar.de/rsasachsen-maxis-mp3-hq",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE46.png"
+    },
+    {
+      "id": "DE47",
+      "name": "Radio PSR",
+      "country": "Deutschland",
+      "description": "Supermix für Sachsen",
+      "genre": "Pop, Rock",
+      "frequency": 102.4,
+      "mp3Stream": "http://streams.radiopsr.de/psr-live/mp3-192",
+      "aacStream": "http://streams.radiopsr.de/psr-live/aac-64",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE47.png"
     }
   ]
 }
