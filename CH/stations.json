@@ -1,0 +1,15 @@
+{
+  "stations": [
+    {
+      "id": "CH1",
+      "name": "Radio Swiss Jazz",
+      "country": "Suisse",
+      "description": "Radio Swiss Jazz is a music programme of the Swiss Broadcasting Corporation SRG SSR.",
+      "genre": "Jazz",
+      "frequency": 104.60,
+      "mp3Stream": "https://stream.srg-ssr.ch/m/rsj/mp3_128",
+      "aacStream": "https://stream.srg-ssr.ch/m/rsj/aacp_96",
+      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/AFTHp5jWeh.png"
+    }
+  ]
+}
