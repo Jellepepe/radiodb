@@ -1,0 +1,37 @@
+{
+  "stations": [
+    {
+      "id": "CZ1",
+      "name": "Evropa 2",
+      "country": "Czech Republic",
+      "description": "Maxximum Tvý Muziky!",
+      "genre": "Pop",
+      "frequency": 99.3,
+      "mp3Stream": "http://ice.actve.net/fm-evropa2-128",
+      "aacStream": "http://22333.live.streamtheworld.com/EVROPA2AAC_SC",
+      "imageUrl": "https://radio.byme.dev/CZ/IMG/CZ1.png"
+    },
+    {
+      "id": "CZ2",
+      "name": "Hitrádio Černá Hora",
+      "country": "Czech Republic",
+      "description": "Víc muziky!",
+      "genre": "Pop",
+      "frequency":90.6,
+      "mp3Stream": "https://20423.live.streamtheworld.com/HITRADIO_CERNAHORA_128.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/CZ/IMG/CZ2.png"
+    },
+    {
+      "id": "CZ3",
+      "name": "Kiss Radio",
+      "country": "Czech Republic",
+      "description": "To nejlepší od 90. let ...be happy",
+      "genre": "Pop",
+      "frequency":88.3,
+      "mp3Stream": "https://icecast4.play.cz/kissmoravaov128.mp3",
+      "aacStream": "https://n02a-eu.rcs.revma.com/asn0cmvb938uv",
+      "imageUrl": "https://radio.byme.dev/CZ/IMG/CZ3.png"
+    }
+  ]
+}
