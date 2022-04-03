@@ -40,7 +40,7 @@
       "description": "Radijas be kompleksų",
       "genre": "electronic",
       "frequency": 104.1,
-      "mp3Stream": "http://84.46.205.13/zipfm128.mp3",
+      "mp3Stream": "https://transliacija.zipfm.lt/zipfm64a.mp3",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/LT/IMG/LT4.png"
     },
@@ -84,7 +84,7 @@
       "description": "Visada tarp draugų",
       "genre": "pop,electronic",
       "frequency": 101.5,
-      "mp3Stream": "http://84.46.205.13/rc128.mp3",
+      "mp3Stream": "https://transliacija.rc.lt/rc64a.mp3",
       "aacStream": "",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/lt/8/85/RC-logo.png"
     },
