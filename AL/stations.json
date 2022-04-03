@@ -40,7 +40,7 @@
       "description": "Muzike shqip dhe nga bota",
       "genre": "Pop Music, World Music",
       "frequency": 92.0,
-      "mp3Stream": "https://shqipfm.al/wp-content/themes/shqipfm/img/logo-sh.png",
+      "mp3Stream": "https://cp1.sednastream.com/proxy/radioshqip?mp=%2F%3Bstream.mp3",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/LT/IMG/LT4.png"
     }  
