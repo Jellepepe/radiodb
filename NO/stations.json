@@ -43,6 +43,17 @@
       "mp3Stream": "https://live-bauerno.sharp-stream.com/radiorock_no_mp3",
       "aacStream": "https://live-bauerno.sharp-stream.com/radiorock_no_aac",
       "imageUrl": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/166.jpg?ver=1490605035"
-    } 
+    },
+    {
+      "id": "NO5",
+      "name": "P6 Rock",
+      "country": "Norway",
+      "description": "Radiokanalen for alle som elsker klassisk rock",
+      "genre": "Entertainment, Rock",
+      "frequency": 0.0,
+      "mp3Stream": "https://p6.p4groupaudio.com/P06_MM",
+      "aacStream": "",
+      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/PyrQ4RSMma.png"
+    }  
   ]
 }
