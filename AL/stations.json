@@ -9,7 +9,7 @@
       "frequency": 92.9,
       "mp3Stream": "https://live.top-media.al/tar",
       "aacStream": "",
-      "imageUrl": "https://www.topalbaniaradio.com/v7/wp-content/themes/topalbaniaradio/parts/tar.png"
+      "imageUrl": "https://radio.byme.dev/AL/IMG/AL1.png"
     },
     {
       "id": "AL2",
@@ -17,10 +17,10 @@
       "country": "Albania",
       "description": "Best Gold music through the years",
       "genre": "Classic Rock, Pop and R&B",
-      "frequency":100.8,
+      "frequency": 100.8,
       "mp3Stream": "https://live.topgold.al/topgold",
       "aacStream": "",
-      "imageUrl": "https://www.topalbaniaradio.com/v7/wp-content/themes/topalbaniaradio/parts/gold.png"
+      "imageUrl": "https://radio.byme.dev/AL/IMG/AL2.png"
     },
     {
       "id": "AL3",
@@ -31,7 +31,7 @@
       "frequency": 97.3,
       "mp3Stream": "https://live.top-media.al/mmr",
       "aacStream": "",
-      "imageUrl": "https://www.topalbaniaradio.com/v7/wp-content/themes/topalbaniaradio/parts/mmr.png" 
+      "imageUrl": "https://radio.byme.dev/AL/IMG/AL3.png" 
     },
     {
       "id": "AL4",
@@ -42,7 +42,7 @@
       "frequency": 92.0,
       "mp3Stream": "https://cp1.sednastream.com/proxy/radioshqip?mp=%2F%3Bstream.mp3",
       "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/LT/IMG/LT4.png"
+      "imageUrl": "https://radio.byme.dev/AL/IMG/AL4.png"
     }  
   ]
 }
