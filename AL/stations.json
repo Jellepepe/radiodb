@@ -1,0 +1,48 @@
+{
+  "stations": [
+    {
+      "id": "AL1",
+      "name": "Top Albania Radio",
+      "country": "Albania",
+      "description": "Degjo live. Top Albania Radio promovon muzikën më të zgjedhur",
+      "genre": "Dance, Pop Music",
+      "frequency": 92.9,
+      "mp3Stream": "https://live.top-media.al/tar",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AL/IMG/AL1.png"
+    },
+    {
+      "id": "AL2",
+      "name": "Top Gold",
+      "country": "Albania",
+      "description": "Best Gold music through the years",
+      "genre": "Classic Rock, Pop and R&B",
+      "frequency": 100.8,
+      "mp3Stream": "https://live.topgold.al/topgold",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AL/IMG/AL2.png"
+    },
+    {
+      "id": "AL3",
+      "name": "My Music Radio",
+      "country": "Albania",
+      "description": "Muzike shqip dhe nga bota",
+      "genre": "Pop Music, World Music",
+      "frequency": 97.3,
+      "mp3Stream": "https://live.top-media.al/mmr",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AL/IMG/AL3.png" 
+    },
+    {
+      "id": "AL4",
+      "name": "Radio Shqip",
+      "country": "Albania",
+      "description": "Muzike shqip dhe nga bota",
+      "genre": "Pop Music, World Music",
+      "frequency": 92.0,
+      "mp3Stream": "https://cp1.sednastream.com/proxy/radioshqip?mp=%2F%3Bstream.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/AL/IMG/AL4.png"
+    }  
+  ]
+}
