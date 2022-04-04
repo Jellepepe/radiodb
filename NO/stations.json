@@ -87,6 +87,17 @@
       "mp3Stream": "https://lyd.nrk.no/nrk_radio_p3_mp3_m",
       "aacStream": "",
       "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/RDAqLBkVn9.jpg"
-    }         
+    },
+    {
+      "id": "NO9",
+      "name": "NRK MP3",
+      "country": "Norway",
+      "description": "NRK mP3 - Alltid musikk",
+      "genre": "Entertainment, Pop",
+      "frequency": 0.0,
+      "mp3Stream": "https://lyd.nrk.no/nrk_radio_mp3_mp3_m",
+      "aacStream": "",
+      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/gNPZW9m5p9.jpg"
+    }             
   ]
 }
