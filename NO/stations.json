@@ -98,6 +98,17 @@
       "mp3Stream": "https://lyd.nrk.no/nrk_radio_mp3_mp3_m",
       "aacStream": "",
       "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/gNPZW9m5p9.jpg"
-    }             
+    },
+    {
+      "id": "N10",
+      "name": "P7 Klem",
+      "country": "Norway",
+      "description": "P7 Klem spiller bare rolige favoritter og har fokus på avslapping og god stemning",
+      "genre": "Entertainment, Pop",
+      "frequency": 0.0,
+      "mp3Stream": "https://p7.p4groupaudio.com/P07_MH",
+      "aacStream": "",
+      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/KeSnXdrauL.png"
+    }              
   ]
 }
