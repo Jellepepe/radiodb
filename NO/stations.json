@@ -54,6 +54,17 @@
       "mp3Stream": "https://p6.p4groupaudio.com/P06_MM",
       "aacStream": "",
       "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/PyrQ4RSMma.png"
-    }  
+    },
+    {
+      "id": "NO6",
+      "name": "Radio Folgefonn",
+      "country": "Norway",
+      "description": "Hardanger Lokalradio",
+      "genre": "Entertainment, News",
+      "frequency": 0.0,
+      "mp3Stream": "http://185.35.185.161:8000/radio",
+      "aacStream": "",
+      "imageUrl": "https://i0.wp.com/folgefonn.media/wp-content/uploads/2022/03/cropped-radioF-merged_golden_littleplanetSQUARED-1.png"
+    }    
   ]
 }
