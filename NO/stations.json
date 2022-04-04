@@ -24,7 +24,7 @@
     },
      {
       "id": "NO3",
-      "name": "P4 ",
+      "name": "P4",
       "country": "Norway",
       "description": "P4 Lyden av Norge",
       "genre": "Entertainment, Pop",
@@ -35,7 +35,7 @@
     },
      {
       "id": "NO4",
-      "name": "Radio Rock ",
+      "name": "Radio Rock",
       "country": "Norway",
       "description": "Bare Ekte Rock",
       "genre": "Entertainment, Rock",
@@ -65,6 +65,28 @@
       "mp3Stream": "http://185.35.185.161:8000/radio",
       "aacStream": "",
       "imageUrl": "https://i0.wp.com/folgefonn.media/wp-content/uploads/2022/03/cropped-radioF-merged_golden_littleplanetSQUARED-1.png"
-    }    
+    },
+    {
+      "id": "NO7",
+      "name": "Radio Vinyl",
+      "country": "Norway",
+      "description": "Her spilles tidenes største låter fra 50-, 60- og 70-tallet",
+      "genre": "Entertainment, Rock",
+      "frequency": 0.0,
+      "mp3Stream": "https://live-bauerno.sharp-stream.com/vinyl_no_mp3",
+      "aacStream": "",
+      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/nfubquuuw4gs.png"
+    },
+    {
+      "id": "NO8",
+      "name": "NRK P3",
+      "country": "Norway",
+      "description": "NRK P3 er musikkanalen som gir deg de beste nye låtene, humor og nyheter",
+      "genre": "Entertainment, Pop",
+      "frequency": 0.0,
+      "mp3Stream": "https://lyd.nrk.no/nrk_radio_p3_mp3_m",
+      "aacStream": "",
+      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/RDAqLBkVn9.jpg"
+    }         
   ]
 }
