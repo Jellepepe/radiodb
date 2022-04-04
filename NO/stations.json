@@ -142,6 +142,17 @@
       "mp3Stream": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3",
       "aacStream": "",
       "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/Lcu8GzPgMR.png"
+    },
+    {
+      "id": "N14",
+      "name": "NRK P1 Hordaland",
+      "country": "Norway",
+      "description": "NRK P1 Distriktsradio",
+      "genre": "Various",
+      "frequency": 0.0,
+      "mp3Stream": "https://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_h",
+      "aacStream": "https:///lyd.nrk.no/nrk_radio_p1_hordaland_aac_h",
+      "imageUrl": "https://static.mytuner.mobi/media/radios-150px/54RCkz5HUP.png"
     }                     
   ]
 }
