@@ -109,6 +109,17 @@
       "mp3Stream": "https://p7.p4groupaudio.com/P07_MH",
       "aacStream": "",
       "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/KeSnXdrauL.png"
-    }              
+    },
+    {
+      "id": "N11",
+      "name": "P5 Hits",
+      "country": "Norway",
+      "description": "Hit-musikk fra år 2000 til dagens dato",
+      "genre": "Entertainment, Pop",
+      "frequency": 0.0,
+      "mp3Stream": "https://p5.p4groupaudio.com/P05_MH",
+      "aacStream": "",
+      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/g2PukTXzMb.png"
+    }                
   ]
 }
