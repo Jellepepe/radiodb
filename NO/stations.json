@@ -131,6 +131,17 @@
       "mp3Stream": "https://p11.p4groupaudio.com/P11_MH",
       "aacStream": "",
       "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/pMARKYMq7X.png"
-    }                    
+    },
+    {
+      "id": "N13",
+      "name": "Radio Norge",
+      "country": "Norway",
+      "description": "Mer av musikken du liker",
+      "genre": "Entertainment, News, Pop",
+      "frequency": 0.0,
+      "mp3Stream": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3",
+      "aacStream": "",
+      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/Lcu8GzPgMR.png"
+    }                     
   ]
 }
