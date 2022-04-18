@@ -20,11 +20,11 @@
       "frequency": 0.0,
       "mp3Stream": "https://lyd.nrk.no/nrk_radio_p13_mp3_h",
       "aacStream": "https://lyd.nrk.no/nrk_radio_p13_aac_h",
-      "imageUrl": "https://info.nrk.no/wp-content/uploads/2019/09/NRK_P13_rgb.png"
+      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/T3rFHeYwqv.png"
     },
      {
       "id": "NO3",
-      "name": "P4 ",
+      "name": "P4",
       "country": "Norway",
       "description": "P4 Lyden av Norge",
       "genre": "Entertainment, Pop",
@@ -35,7 +35,7 @@
     },
      {
       "id": "NO4",
-      "name": "Radio Rock ",
+      "name": "Radio Rock",
       "country": "Norway",
       "description": "Bare Ekte Rock",
       "genre": "Entertainment, Rock",
@@ -43,6 +43,116 @@
       "mp3Stream": "https://live-bauerno.sharp-stream.com/radiorock_no_mp3",
       "aacStream": "https://live-bauerno.sharp-stream.com/radiorock_no_aac",
       "imageUrl": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/166.jpg?ver=1490605035"
-    } 
+    },
+    {
+      "id": "NO5",
+      "name": "P6 Rock",
+      "country": "Norway",
+      "description": "Radiokanalen for alle som elsker klassisk rock",
+      "genre": "Entertainment, Rock",
+      "frequency": 0.0,
+      "mp3Stream": "https://p6.p4groupaudio.com/P06_MM",
+      "aacStream": "",
+      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/PyrQ4RSMma.png"
+    },
+    {
+      "id": "NO6",
+      "name": "Radio Folgefonn",
+      "country": "Norway",
+      "description": "Hardanger Lokalradio",
+      "genre": "Entertainment, News",
+      "frequency": 0.0,
+      "mp3Stream": "http://185.35.185.161:8000/radio",
+      "aacStream": "",
+      "imageUrl": "https://i0.wp.com/folgefonn.media/wp-content/uploads/2022/03/cropped-radioF-merged_golden_littleplanetSQUARED-1.png"
+    },
+    {
+      "id": "NO7",
+      "name": "Radio Vinyl",
+      "country": "Norway",
+      "description": "Her spilles tidenes største låter fra 50-, 60- og 70-tallet",
+      "genre": "Entertainment, Rock",
+      "frequency": 0.0,
+      "mp3Stream": "https://live-bauerno.sharp-stream.com/vinyl_no_mp3",
+      "aacStream": "",
+      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/nfubquuuw4gs.png"
+    },
+    {
+      "id": "NO8",
+      "name": "NRK P3",
+      "country": "Norway",
+      "description": "NRK P3 er musikkanalen som gir deg de beste nye låtene, humor og nyheter",
+      "genre": "Entertainment, Pop",
+      "frequency": 0.0,
+      "mp3Stream": "https://lyd.nrk.no/nrk_radio_p3_mp3_m",
+      "aacStream": "",
+      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/RDAqLBkVn9.jpg"
+    },
+    {
+      "id": "NO9",
+      "name": "NRK MP3",
+      "country": "Norway",
+      "description": "NRK mP3 - Alltid musikk",
+      "genre": "Entertainment, Pop",
+      "frequency": 0.0,
+      "mp3Stream": "https://lyd.nrk.no/nrk_radio_mp3_mp3_m",
+      "aacStream": "",
+      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/gNPZW9m5p9.jpg"
+    },
+    {
+      "id": "N10",
+      "name": "P7 Klem",
+      "country": "Norway",
+      "description": "P7 Klem spiller bare rolige favoritter og har fokus på avslapping og god stemning",
+      "genre": "Entertainment, Pop",
+      "frequency": 0.0,
+      "mp3Stream": "https://p7.p4groupaudio.com/P07_MH",
+      "aacStream": "",
+      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/KeSnXdrauL.png"
+    },
+    {
+      "id": "N11",
+      "name": "P5 Hits",
+      "country": "Norway",
+      "description": "Hit-musikk fra år 2000 til dagens dato",
+      "genre": "Entertainment, Pop",
+      "frequency": 0.0,
+      "mp3Stream": "https://p5.p4groupaudio.com/P05_MH",
+      "aacStream": "",
+      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/g2PukTXzMb.png"
+    },
+    {
+      "id": "N12",
+      "name": "P11 Bandit",
+      "country": "Norway",
+      "description": "Hardslående rock døgnet rundt",
+      "genre": "Entertainment, Rock",
+      "frequency": 0.0,
+      "mp3Stream": "https://p11.p4groupaudio.com/P11_MH",
+      "aacStream": "",
+      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/pMARKYMq7X.png"
+    },
+    {
+      "id": "N13",
+      "name": "Radio Norge",
+      "country": "Norway",
+      "description": "Mer av musikken du liker",
+      "genre": "Entertainment, News, Pop",
+      "frequency": 0.0,
+      "mp3Stream": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3",
+      "aacStream": "",
+      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/Lcu8GzPgMR.png"
+    },
+    {
+      "id": "N14",
+      "name": "NRK P1 Hordaland",
+      "country": "Norway",
+      "description": "NRK P1 Distriktsradio",
+      "genre": "Various",
+      "frequency": 0.0,
+      "mp3Stream": "https://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_h",
+      "aacStream": "https:///lyd.nrk.no/nrk_radio_p1_hordaland_aac_h",
+      "imageUrl": "https://static.mytuner.mobi/media/radios-150px/54RCkz5HUP.png"
+    }                     
   ]
 }
