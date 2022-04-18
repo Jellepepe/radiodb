@@ -516,6 +516,17 @@
       "mp3Stream": "http://streams.radiopsr.de/psr-live/mp3-192",
       "aacStream": "http://streams.radiopsr.de/psr-live/aac-64",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE47.png"
+    },
+    {
+      "id": "DE48",
+      "name": "Beats Radio",
+      "country": "Deutschland",
+      "description": "Best of Beats",
+      "genre": "House, Deep House",
+      "frequency": 0.0,
+      "mp3Stream": "",
+      "aacStream": "https://edge09.streams.klassikradio.de/beats-radio?",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE48.png"
     }
   ]
 }
