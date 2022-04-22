@@ -40,7 +40,7 @@
       "description": "M80 Se a sua vida tem uma música, ela passa na M80",
       "genre": "Pop",
       "frequency": 104.5,
-      "mp3Stream": "https://mcrscast.mcr.iol.pt/m80",
+      "mp3Stream": "http://media3.mcr.iol.pt/livefm/m80.mp3/icecast.audio",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/PT/IMG/PT4.png"
     },
@@ -51,7 +51,7 @@
       "description": "Só se quiseres A 1ª rádio dos exitos!",
       "genre": "Pop",
       "frequency": 87.6,
-      "mp3Stream": "https://mcrscast.mcr.iol.pt/cidadefm",
+      "mp3Stream": "http://media3.mcr.iol.pt/livefm/cidade.mp3/icecast.audio",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/PT/IMG/PT5.png"
     },
@@ -73,7 +73,7 @@
       "description": "RFM Só grandes músicas",
       "genre": "Pop",
       "frequency": 91.7,
-      "mp3Stream": "http://21273.live.streamtheworld.com/RFMAAC_SC",
+      "mp3Stream": "https://20863.live.streamtheworld.com/RFM_SC",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/PT/IMG/PT7.png"
     },
@@ -84,7 +84,7 @@
       "description": "A Melhor Música, sempre. Em casa, no carro em todo o lado",
       "genre": "Pop",
       "frequency": 90.8,
-      "mp3Stream": "https://mcrscast.mcr.iol.pt/comercial.mp3",
+      "mp3Stream": "http://media3.mcr.iol.pt/livefm/comercial.mp3/icecast.audio",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/PT/IMG/PT8.png"
     },
@@ -106,7 +106,7 @@
       "description": "Programação, selecção musical e Informação",
       "genre": "Pop",
       "frequency": 98.9,
-      "mp3Stream": "http://centova.radios.pt:9528/;",
+      "mp3Stream": "http://centova.radios.pt:9528/stream",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/PT/IMG/PT10.png"
     },
@@ -117,7 +117,7 @@
       "description": "Música Sem Parar!",
       "genre": "Pop",
       "frequency": 100.1,
-      "mp3Stream": "http://centova.Rádios.pt:9478/;",
+      "mp3Stream": "http://centova.radios.pt:9478/stream",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/PT/IMG/PT11.png"
     },
@@ -128,7 +128,7 @@
       "description": "A par com o mundo",
       "genre": "Rock",
       "frequency": 90.2,
-      "mp3Stream": "http://21633.live.streamtheworld.com/Rádio_RENASCENCAAAC_SC",
+      "mp3Stream": "https://20723.live.streamtheworld.com/RADIO_RENASCENCA_SC",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/PT/IMG/PT12.png"
     },
@@ -139,7 +139,7 @@
       "description": "Rai Info",
       "genre": "Pop",
       "frequency": 98.4,
-      "mp3Stream": "https://radios.justweb.pt:7000/;",
+      "mp3Stream": "https://radios.justweb.pt:7000/stream",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/PT/IMG/PT13.png"
     },
@@ -150,7 +150,7 @@
       "description": "Lattemiele",
       "genre": "Pop",
       "frequency": 96.6,
-      "mp3Stream": "https://mcrscast.mcr.iol.pt/smoothfm",
+      "mp3Stream": "https://media3.mcr.iol.pt/livefm/smooth.mp3/icecast.audio",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/PT/IMG/PT14.png"
     },
