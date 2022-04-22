@@ -260,7 +260,7 @@
       "description": "RadioSei… e la Lazio sei tu",
       "genre": "Sport",
       "frequency": 98.1,
-      "mp3Stream": "https://radiosei.newradio.it/stream",
+      "mp3Stream": "https://icecast.ithost.it/radiosei.ogg",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/IT/IMG/IT24.png"
     },
