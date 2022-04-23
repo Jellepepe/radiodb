@@ -296,6 +296,17 @@
       "mp3Stream": "",
       "aacStream": "https://powerhit.ls.lv/PHR_GOLD_AAC",
       "imageUrl": "https://radio.byme.dev/LT/IMG/LT27.png"
+    },
+    {
+      "id": "LT28",
+      "name": "M-1 Dance",
+      "country": "Lithuania",
+      "description": "",
+      "genre": "Dance",
+      "frequency": 0.0,
+      "mp3Stream": "",
+      "aacStream": "https://radio.m-1.fm/m-1dance/aac",
+      "imageUrl": "https://i.ibb.co/sKqC9LV/Screenshot-20220404-111206-removebg-preview.png"  
     }
   ]
 }
