@@ -241,6 +241,17 @@
       "mp3Stream": "https://22553.live.streamtheworld.com:443/KINKINDIE_SC",
       "aacStream": "https://22723.live.streamtheworld.com:443/KINKINDIEAAC_SC",
       "imageUrl": "https://cdn-profiles.tunein.com/s287077/images/logod.png"
+    },
+    {
+      "id": "NL23",
+      "name": "Decibel",
+      "country": "Netherlands",
+      "description": "Decibel | the 90's zijn van ons!",
+      "genre": "90's",
+      "frequency": 107.4,
+      "mp3Stream": "https://22603.live.streamtheworld.com/RADIODECIBEL.mp3 ",
+      "aacStream": "",
+      "imageUrl": "https://www.decibel.nl/wp-content/uploads/2022/04/db.png"
     }
   ]
 }
