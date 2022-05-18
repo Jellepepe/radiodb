@@ -54,6 +54,50 @@
       "mp3Stream": "https://pub0201.101.ru/stream/reg/mp3/128/region_avto_202?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjkyLjM3LjEyOS4yMTEiLCJ1c2VyYWdlbnQiOiJNb3ppbGxhXC81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXRcLzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZVwvOTQuMC40NjA2LjgxIFNhZmFyaVwvNTM3LjM2IiwidWlkX2NoYW5uZWwiOiIxMDAiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwiZXhwIjoxNjM0NTY4MDg4fQ.B78CUaPFQGaBGEyk8tXn5V-auuuoXmuhmxY8VBneKsE",
       "aacStream": "",
       "imageUrl": "https://i.imgur.com/dPxKWcZ.png"
+    },
+    {
+      "id": "RU6",
+      "name": "Record Deep",
+      "country": "Russia",
+      "description": "House",
+      "genre": "Record all",
+      "frequency": 0.0,
+      "mp3Stream": "http://23.111.104.132:9010/deep_320",
+      "aacStream": "https://radiorecord.hostingradio.ru/deep96.aacp",
+      "imageUrl": "https://i.imgur.com/H8SYt9a.png"
+    },
+    {
+      "id": "RU7",
+      "name": "Record Disco 90s",
+      "country": "Russia",
+      "description": "disco",
+      "genre": "Record all",
+      "frequency": 0.0,
+      "mp3Stream": "http://23.111.104.132:9010/sd90_320",
+      "aacStream": "https://radiorecord.hostingradio.ru/sd9096.aacp",
+      "imageUrl": "https://i.imgur.com/s7sHGSt.png"
+    },
+    {
+      "id": "RU8",
+      "name": "Record Top100edm",
+      "country": "Russia",
+      "description": "Party, light, disco",
+      "genre": "Dance",
+      "frequency": 0.0,
+      "mp3Stream": "http://23.111.104.132:9010/top100edm_320",
+      "aacStream": "",
+      "imageUrl": "https://i.imgur.com/AggBSV7.png"
+    },
+    {
+      "id": "RU9",
+      "name": "Record Black Rap",
+      "country": "Russia",
+      "description": "Rap",
+      "genre": "",
+      "frequency": 0.0,
+      "mp3Stream": "http://23.111.104.132:9010/yo_320",
+      "aacStream": "https://radiorecord.hostingradio.ru/yo96.aacp",
+      "imageUrl": "https://i.imgur.com/MzSZSBc.png"
     }
   ]
 }
