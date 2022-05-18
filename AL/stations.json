@@ -51,7 +51,7 @@
       "description": "Albanian Radio Television",
       "genre": "Music, News, Arts & Culture, Pop Music, World Music",
       "frequency": 99.5,
-      "mp3Stream": "https://radiolive.rtsh.dev/radiotirana1",
+      "mp3Stream": "http://79.106.48.2:8000/radiotirana1",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/AL/IMG/AL5.png" 
     }, 
@@ -62,7 +62,7 @@
       "description": "Albanian Radio Television",
       "genre": "Music, News, Arts & Culture, Pop Music, World Music",
       "frequency": 99.8,
-      "mp3Stream": "https://radiolive.rtsh.dev/radiotirana2",
+      "mp3Stream": "http://79.106.48.2:8000/radiotirana2",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/AL/IMG/AL6.png" 
     },
@@ -73,7 +73,7 @@
       "description": "Albanian Radio Television",
       "genre": "Music, News, Arts & Culture, Pop Music, World Music",
       "frequency": 99.9,
-      "mp3Stream": "https://radiolive.rtsh.dev/radiotirana3",
+      "mp3Stream": "http://79.106.48.2:8000/radiotirana3",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/AL/IMG/AL7.png" 
     },
@@ -84,7 +84,7 @@
       "description": "Albanian Radio Television",
       "genre": "Classic Music, World Music",
       "frequency": 101.2,
-      "mp3Stream": "https://radiolive.rtsh.dev/radiotiranaklasik1",
+      "mp3Stream": "http://79.106.48.2:8000/radiotiranaklasik1",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/AL/IMG/AL8.png" 
     },
@@ -95,20 +95,9 @@
       "description": "Albanian Radio Television",
       "genre": "Music, News, Arts & Culture, Pop Music, World Music",
       "frequency": 102.1,
-      "mp3Stream": "https://radiolive.rtsh.dev/radiotiranafemije",
+      "mp3Stream": "http://79.106.48.2:8000/radiotiranafemije",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/AL/IMG/AL9.png" 
-    },
-    {
-      "id": "AL10",
-      "name": "Radio Korca",
-      "country": "Albania",
-      "description": "Albanian Radio Television",
-      "genre": "Music, News, Arts & Culture, Pop Music, World Music",
-      "frequency": 89.5,
-      "mp3Stream": "https://radiolive.rtsh.dev/radiokorca",
-      "aacStream": "",
-      "imageUrl": "https://radio.byme.dev/AL/IMG/AL10.png" 
     }
   ]
 }
