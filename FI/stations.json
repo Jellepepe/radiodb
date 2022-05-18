@@ -98,6 +98,39 @@
       "mp3Stream": "http://icecast.live.yle.fi/radio/YleX3M/icecast.audio",
       "aacStream": "",
       "imageUrl": "https://images.cdn.yle.fi/image/upload/ar_1:1,c_fill,f_auto,q_auto:eco,w_687/v0/13-57-1618406213893.png"
+    },
+    { 
+      "id": "FI10",
+      "name": "NRJ",
+      "country": "Finland",
+      "description": "NRJ - Hit Music Only!",
+      "genre": "Pop",
+      "frequency": 96.8,
+      "mp3Stream": "http://stream.bauermedia.fi/nrj/nrj_128.mp3",
+      "aacStream": "",
+      "imageUrl": "https://livetaajuus.fi/media/logos/nrj.png" 
+    },
+    { 
+      "id": "FI11",
+      "name": "Radio Suomipop",
+      "country": "Finland",
+      "description": " Kaikkea parasta",
+      "genre": "Pop",
+      "frequency": 0.0,
+      "mp3Stream": "https://digitacdn.akamaized.net/hls/live/629243/radiosuomipop/master.m3u8",
+      "aacStream": "https://digitacdn.akamaized.net/hls/live/629243/radiosuomipop/master.m3u8",
+      "imageUrl": "https://top200.supla.fi/wp-content/themes/brbr/images/radiosuomipop-logo.png"
+    },
+    { 
+      "id": "FI12",
+      "name": "Radio Rock",
+      "country": "Finland",
+      "description": "Asenne on Rock",
+      "genre": "Rock",
+      "frequency": 0.0,
+      "mp3Stream": "https://digitacdn.akamaized.net/hls/live/629243/radiorock/master.m3u8",
+      "aacStream": "https://digitacdn.akamaized.net/hls/live/629243/radiorock/master.m3u8",
+      "imageUrl": "https://xb-static.nm-ovp.nelonenmedia.fi/xb/styles/1440x1440_square/public/img/ec2f3a5ac09744f26f0010a72c2af688e3e1f430-supla_kanavakuva_radiorock_v2_2880x2880.jpg"
     }
   ]
 }
