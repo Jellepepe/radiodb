@@ -131,6 +131,61 @@
       "mp3Stream": "http://81.46.247.191:8045/live",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/ES/IMG/ES12.jpg"
+    },
+    {
+      "id": "ES13",
+      "name": "Flamenco Radio",
+      "country": "España",
+      "description": "Desde la tierra del Flamenco, Flamenco para toda la tierra",
+      "genre": "Flamenco",
+      "frequency": 104.8,
+      "mp3Stream": "https://cdnlive.codev8.net/rtvalive/smil:channel7.smil/chunklist_b250000.m3u8",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES13.png"
+    },
+    {
+      "id": "ES14",
+      "name": "Melodia FM",
+      "country": "España",
+      "description": "Los mejores éxitos musicales de los setenta ochenta y noventa",
+      "genre": "adulto-contemporáneo",
+      "frequency": 91.4,
+      "mp3Stream": "https://live-audio.melodia-fm.com/radio/melodiafm/bitrate_2.m3u8",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES14.png"
+    },
+    {
+      "id": "ES15",
+      "name": "Cadena Ser",
+      "country": "España",
+      "description": "Noticias sobre deportes, política, economía, cultura y sociedad",
+      "genre": "Noticias",
+      "frequency": 105.4,
+      "mp3Stream": "https://25693.live.streamtheworld.com/CADENASER_SC",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES15.png"
+    },
+	  {
+      "id": "ES16",
+      "name": "Cope",
+      "country": "España",
+      "description": "Noticias sobre deportes, política, economía, cultura y sociedad",
+      "genre": "Noticias",
+      "frequency": 106.3,
+      "mp3Stream": "https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES16.png"
+    },
+	  {
+      "id": "ES17",
+      "name": "Radio Castilla la Mancha",
+      "country": "España",
+      "description": "Las últimas noticias, programas culturales y de entretenimiento y la mejor música.",
+      "genre": "Musica y Noticias",
+      "frequency": 91.3,
+      "mp3Stream": "https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/2288691/e/1_qilzwlkz/tl/main/st/0/t/ViMu_92mnnNf7VdD47RQew/index-s32.m3u8?__hdnea__=st=1652817141~exp=1652903541~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/2288691/e/1_qilzwlkz/tl/main/st/0/t/ViMu_92mnnNf7VdD47RQew/index-s32.m3u8*~hmac=42170bd372474f2b2498f6bad43cb572be105e66270a89942532104d3255f07e",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES17.png"
     }
   ]
 }
