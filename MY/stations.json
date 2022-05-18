@@ -87,6 +87,17 @@
       "mp3Stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FM.mp3",
       "aacStream": "https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac",
       "imageUrl": "https://radio.byme.dev/MY/IMG/MY8.png"
+    },
+    {
+      "id": "MY9",
+      "name": "IKIM FM",
+      "country": "Malaysia",
+      "description": "Inspirasi Inforia Islami",
+      "genre": "Knowledge, Contemporary",
+      "frequency": 91.1,
+      "mp3Stream": "https://laylio.radioactive.sg/?p=c6aea0550e3335befbe3fecb7c0ce999",
+      "aacStream": "https://laylio.radioactive.sg/?p=c6aea0550e3335befbe3fecb7c0ce999",
+      "imageUrl": "https://radio.byme.dev/MY/IMG/MY9.png"
     }
   ]
 }
