@@ -527,6 +527,28 @@
       "mp3Stream": "",
       "aacStream": "https://edge09.streams.klassikradio.de/beats-radio?",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE48.png"
+    },
+    {
+      "id": "DE49",
+      "name": "Bremen NEXT",
+      "country": "Deutschland",
+      "description": "Musik und Lifestyle aus deiner Stadt",
+      "genre": "Hip Hop, Electro",
+      "frequency": 96.7,
+      "mp3Stream": "https://icecast.radiobremen.de/rb/bremennext/live/mp3/128/stream.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE49.png"
+    },
+    {
+      "id": "DE50",
+      "name": "Radio Bob - Deutschrock",
+      "country": "Deutschland",
+      "description": "Best of Deutschrock",
+      "genre": "Punk, Metal, Rock",
+      "frequency": 0.0,
+      "mp3Stream": "http://streams.radiobob.de/bob-deutsch/mp3-192/mediaplayer",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/DE/IMG/DE50.png"
     }
   ]
 }
