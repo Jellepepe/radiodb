@@ -205,7 +205,7 @@
       "description": "Electronic Music Radio",
       "genre": "Electronic",
       "frequency": 104.0,
-      "mp3Stream": "https://sunshinelive.hoerradar.de/sunshinelive-mp3-128",
+      "mp3Stream": "http://sunshinelive.hoerradar.de/sunshinelive-live-mp3-hq",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE19.png"
     },
@@ -304,7 +304,7 @@
       "description": "Die Besten aktuellen Hits",
       "genre": "Info, Pop",
       "frequency": 92.9,
-      "mp3Stream": "https://hitradion1--di--nacs-ais-lgc--09--cdn.cast.addradio.de/hitradion1/live/mp3/high/stream.mp3",
+      "mp3Stream": "https://frontend.streamonkey.net/fhn-hitradion1/stream/mp3",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE28.png"
     },
