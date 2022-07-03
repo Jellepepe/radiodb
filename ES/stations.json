@@ -186,6 +186,17 @@
       "mp3Stream": "https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/2288691/e/1_qilzwlkz/tl/main/st/0/t/ViMu_92mnnNf7VdD47RQew/index-s32.m3u8?__hdnea__=st=1652817141~exp=1652903541~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/2288691/e/1_qilzwlkz/tl/main/st/0/t/ViMu_92mnnNf7VdD47RQew/index-s32.m3u8*~hmac=42170bd372474f2b2498f6bad43cb572be105e66270a89942532104d3255f07e",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/ES/IMG/ES17.png"
+    },
+	  {
+      "id": "ES18",
+      "name": "Blue Marlin Ibiza",
+      "country": "España",
+      "description": "",
+      "genre": "House, Deep House, CHillout",
+      "frequency": ,
+      "mp3Stream": "https://ice1.viastreaming.net:8443/live",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES18.png"
     }
   ]
 }
