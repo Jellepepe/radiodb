@@ -205,7 +205,7 @@
       "description": "Electronic Music Radio",
       "genre": "Electronic",
       "frequency": 104.0,
-      "mp3Stream": "http://sunshinelive.hoerradar.de/sunshinelive-live-mp3-hq",
+      "mp3Stream": "https://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE19.png"
     },
@@ -315,8 +315,8 @@
       "description": "Maximum Rock",
       "genre": "Rock",
       "frequency": 107.8,
-      "mp3Stream": "https://starfm-4.explodio.com/nuernberg.mp3",
-      "aacStream": "",
+      "mp3Stream": "https://stream.starfm.de/nbg/mp3-192/iradio",
+      "aacStream": "https://stream.starfm.de/nbg/aac-64/iradio",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE29.png"
     },
     {
@@ -337,7 +337,7 @@
       "description": "Rock Classics",
       "genre": "Rock",
       "frequency": 97.1,
-      "mp3Stream": "https://gong971-live.cast.addradio.de/gong971/live/mp3/high",
+      "mp3Stream": "http://webstream.gong971.de",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/DE/IMG/DE31.png"
     },
