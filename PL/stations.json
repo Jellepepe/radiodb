@@ -9,7 +9,7 @@
         "frequency": 0.0,
         "mp3Stream": "https://n15a-eu.rcs.revma.com/ypqt40u0x1zuv?rj-ttl=5&rj-tok=AAABekk0sJEAzy6iTuiuEbOk0A",
         "aacStream": "https://n20a-eu.rcs.revma.com/5ws0kfn1x1zuv?rj-ttl=5&rj-tok=AAABekk1VN0Ah9W_YPLuW6U0Bg",
-        "imageUrl": "https://nowyswiat.online/wp-content/uploads/2020/08/rns-start.jpg"
+        "imageUrl": "https://cdn-profiles.tunein.com/s174766/images/logog.jpg"
       },
       {
         "id": "PL2",
@@ -130,7 +130,7 @@
         "frequency": 97.1,
         "mp3Stream": "https://stream.open.fm/337",
         "aacStream": "",
-        "imageUrl": "https://radiokampus.home.pl/takbrzmi/kampus.png"
+        "imageUrl": "https://api.radiokampus.fm/site/assets/files/1338/banner_kampus.png"
       },
       {
         "id": "PL13",
@@ -139,7 +139,7 @@
         "description": "Relaksująca muzyka",
         "genre": "Soul, Jazz, Pop",
         "frequency": 101.5,
-        "mp3Stream": "https://ch01.cdn.eurozet.pl/chi-net.mp3",
+        "mp3Stream": "https://ch02.cdn.eurozet.pl/CHIPOL.mp3",
         "aacStream": "",
         "imageUrl": "https://i.imgur.com/bFO0NCE.png"
       },
@@ -202,7 +202,7 @@
         "id": "PL19",
         "name": "Pogoda",
         "country": "Polska",
-        "description": "Najpi\u0119kniejsze melodie",
+        "description": "Najpiękniejsze melodie",
         "genre": "Classic Hits",
         "frequency": 88.4,
         "mp3Stream": "http://stream10.radioagora.pl/tuba139-1.mp3",
