@@ -37,11 +37,11 @@
       "id": "RO4",
       "name": "Europa FM",
       "country": "Romania",
-      "description": "",
-      "genre": "Pop, News",
-      "frequency": 0.0,
-      "mp3Stream": "http://astreaming.europafm.ro:8000/europafm_mp3_64k",
-      "aacStream": "http://astreaming.europafm.ro:8000/europafm_aacp48k",
+      "description": "Ascultă Radio Live",
+      "genre": "General, News",
+      "frequency": 106.7,
+      "mp3Stream": "https://astreaming.edi.ro:8443/europafm_mp3_64k",
+      "aacStream": "https://astreaming.edi.ro:8443/EuropaFM_aac",
       "imageUrl": "https://radio.byme.dev/RO/IMG/RO4.png"
     },
 	  {
