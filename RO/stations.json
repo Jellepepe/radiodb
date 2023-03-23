@@ -9,7 +9,7 @@
       "frequency": 0.0,
       "mp3Stream": "",
       "aacStream": "https://live.kissfm.ro/kissfm.aacp",
-      "imageUrl": "https://www.kissfm.ro/app/assets/images/logo.png"
+      "imageUrl": "https://www.kissfm.ro/assets/logo/kissfm.svg"
     },
     {
       "id": "RO2",
@@ -20,7 +20,7 @@
       "frequency": 89.0,
       "mp3Stream": "https://live7digi.antenaplay.ro/radiozu/radiozu-48000.m3u8",
       "aacStream": "",
-      "imageUrl": "https://radiozu.ro/img/logo-zu.png"
+      "imageUrl": "https://yt3.googleusercontent.com/S0_eBn7_AnijkmB7Tc7B-mK6XYvwD5LyfClMErP3qHK7GcpdQL2H1sSDdb99Bq0K57KvbmTYlg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "RO3",
@@ -108,7 +108,7 @@
       "frequency": 101.9,
       "mp3Stream": "",
       "aacStream": "https://live.magicfm.ro/magicfm.aacp",
-      "imageUrl": "https://www.magicfm.ro/app/assets/magicfm/logo-magicfm-black-red.png"
+      "imageUrl": "https://www.magicfm.ro/assets/logo/magicfm.png"
     },
 	{
       "id": "RO11",
@@ -130,7 +130,7 @@
       "frequency": 91.2,
       "mp3Stream": "",
       "aacStream": "https://live.rockfm.ro/rockfm.aacp",
-      "imageUrl": "https://www.rockfm.ro/app/assets/layout/rock-logo-white.png"
+      "imageUrl": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1598872147/brand_manager/radio_brands/sxduzaoopcj1xuqtup8f.png"
     },
 	  {
       "id": "RO13",
