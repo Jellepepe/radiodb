@@ -1,36 +1,89 @@
 {
   "stations": [
-    {
-      "id": "BE1",
-      "name": "MnM",
-      "country": "België",
-      "description": "Music and More",
-      "genre": "Pop Music, Top 40",
-      "frequency": 89.0,
-      "mp3Stream": "http://icecast.vrtcdn.be/mnm-high.mp3",
-      "imageUrl": "https://cdn-profiles.tunein.com/s10861/images/logod.png"
+     {
+     "id": "BE1",
+      "name": "Bel RTL",
+      "country": "Belgique",
+      "description": "Vos meilleurs moments - 100% musique.",
+      "genre": "Hits, Top 40",
+      "mp3Stream": "https://belrtl.ice.infomaniak.ch/belrtl-mp3-128.mp3",
+      "imageUrl": "https://nordkvelle.co.uk/public/radio/img/010.png"
     },
     {
       "id": "BE2",
-      "name": "Qmusic",
-      "country": "België",
-      "description": "Q sounds better with you!",
-      "genre": "Pop Music, News, Top 40",
-      "frequency": 93.5,
-      "mp3Stream": "https://21293.live.streamtheworld.com/QMUSIC.mp3",
-      "imageUrl": "https://cdn-profiles.tunein.com/s87683/images/logod.png"
+      "name": "Contact 2000",
+      "country": "Belgique",
+      "description": "Les Hits des années 2000 (2000-2020). Programmation Pop / Dance / Rock / Rnb / Variété Française.",
+      "genre": "Pop Music, Hits",
+      "mp3Stream": "https://contact2.ice.infomaniak.ch/contact2-128.mp3",
+      "imageUrl": "https://nordkvelle.co.uk/public/radio/img/002.png"
     },
     {
       "id": "BE3",
-      "name": "Q-Foute Radio",
-      "country": "België",
-      "description": "Q sounds better with you!",
-      "genre": "Pop Music, News, Top 40",
-      "mp3Stream": "http://20723.live.streamtheworld.com/QFOUTERADIO.mp3",
-      "imageUrl": "https://cdn-profiles.tunein.com/s308757/images/logod.png"
+      "name": "Contact 80s",
+      "country": "Belgique",
+      "description": "Retrouvez le meilleur des tubes des années 80.",
+      "genre": "80s Hits",
+      "mp3Stream": "https://contact80s.ice.infomaniak.ch/contact80s-128.mp3",
+      "imageUrl": "https://nordkvelle.co.uk/public/radio/img/004.png"
     },
     {
       "id": "BE4",
+      "name": "Contact 90s",
+      "country": "Belgique",
+      "description": "Retrouvez le meilleur des tubes des années 90.",
+      "genre": "90s Hits",
+      "mp3Stream": "https://contact90s.ice.infomaniak.ch/contact90s-128.mp3",
+      "imageUrl": "https://nordkvelle.co.uk/public/radio/img/003.png"
+    },
+    {
+      "id": "BE5",
+      "name": "Contact Afro-Latino",
+      "country": "Belgique",
+      "description": "Contact Afro-Latino, la plus Caliente des radios!",
+      "genre": "Latino, African, fusion",
+      "mp3Stream": "https://contactmix.ice.infomaniak.ch/contactmix-128.mp3",
+      "imageUrl": "https://nordkvelle.co.uk/public/radio/img/007.png"
+    },
+    {
+      "id": "BE6",
+      "name": "Contact Fresh",
+      "country": "Belgique",
+      "description": "Si c'est nouveau, c'est sur Contact Fresh!",
+      "genre": "Pop Music, Top 40, Hits",
+      "frequency": 102,
+      "mp3Stream": "https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3",
+      "imageUrl": "https://nordkvelle.co.uk/public/radio/img/001.png"
+    },
+    {
+      "id": "BE7",
+      "name": "Contact La playlist de Tonton",
+      "country": "Belgique",
+      "description": "La playlist de Tonton réunit tous vos plaisirs coupables ! Des années 80 à aujourd’hui",
+      "genre": "80s, 90s, Hip-Hop, RnB, Hits",
+      "mp3Stream": "https://contactlaplaylistdetonton.ice.infomaniak.ch/contactlaplaylistdetonton-128.mp3",
+      "imageUrl": "https://nordkvelle.co.uk/public/radio/img/008.png"
+    },
+    {
+      "id": "BE8",
+      "name": "Contact Urban",
+      "country": "Belgique",
+      "description": "La radio urbaine. Les dernières nouveautés , les sons actuels, et les classiques en matière de musique urbaine.",
+      "genre": "Hip Hop , Urban Pop , RnB et latino",
+      "mp3Stream": "https://contacturban.ice.infomaniak.ch/contacturban-128.mp3",
+      "imageUrl": "https://nordkvelle.co.uk/public/radio/img/006.png"
+    },
+    {
+      "id": "BE9",
+      "name": "Fun Radio Belgique",
+      "country": "Belgique",
+      "description": "All Hits Radio. Enjoy the Music",
+      "genre": "Hits, Top 40",
+      "mp3Stream": "https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3",
+      "imageUrl": "https://assets.radioplayer.org/056/0563/600/600/kyephd37.png"
+    },
+    {
+      "id": "BE10",
       "name": "Joe FM",
       "country": "België",
       "description": "Joe all the way.",
@@ -40,17 +93,17 @@
       "imageUrl": "https://cdn-profiles.tunein.com/s25741/images/logod.png"
     },
     {
-      "id": "BE5",
-      "name": "Topradio",
+      "id": "BE11",
+      "name": "MnM",
       "country": "België",
-      "description": "We Love Music!",
-      "genre": "EDM - Electronic Dance Music, Dance",
-      "frequency": 104.2,
-      "mp3Stream": "https://str.topradio.be/topradio.mp3",
-      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/uYUQmSmu67.png"
+      "description": "Music and More",
+      "genre": "Pop Music, Top 40",
+      "frequency": 89.0,
+      "mp3Stream": "http://icecast.vrtcdn.be/mnm-high.mp3",
+      "imageUrl": "https://cdn-profiles.tunein.com/s10861/images/logod.png"
     },
     {
-      "id": "BE6",
+      "id": "BE12",
       "name": "Nostalgie",
       "country": "België",
       "description": "What a feeling",
@@ -58,6 +111,53 @@
       "frequency": 104.5,
       "mp3Stream": "https://21293.live.streamtheworld.com/NOSTALGIEWHATAFEELING.mp3",
       "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/vy3lzby93see.png"
+    },
+     {
+      "id": "BE13",
+      "name": "NRJ Belgique",
+      "country": "Belgique",
+      "description": "Non-stop Hits",
+      "genre": "Hits, Top 40",
+      "aacStream": "https://streamingp.shoutcast.com/NRJ-aac",
+      "imageUrl": "https://nordkvelle.co.uk/public/radio/img/009.png"
+    },
+    {
+      "id": "BE14",
+      "name": "Q-Foute Radio",
+      "country": "België",
+      "description": "Q sounds better with you!",
+      "genre": "Pop Music, News, Top 40",
+      "mp3Stream": "http://20723.live.streamtheworld.com/QFOUTERADIO.mp3",
+      "imageUrl": "https://cdn-profiles.tunein.com/s308757/images/logod.png"
+    },
+    {
+      "id": "BE15",
+      "name": "Qmusic",
+      "country": "België",
+      "description": "Q sounds better with you!",
+      "genre": "Pop Music, News, Top 40",
+      "frequency": 93.5,
+      "mp3Stream": "https://21293.live.streamtheworld.com/QMUSIC.mp3",
+      "imageUrl": "https://cdn-profiles.tunein.com/s87683/images/logod.png"
+    },
+    {
+      "id": "BE16",
+      "name": "Radio Contact Kids",
+      "country": "Belgique",
+      "description": "La radio des enfants. Hits for Kids.",
+      "genre": "film, tv, soundtracks, calm",
+      "mp3Stream": "https://contactkids.ice.infomaniak.ch/contactkids-128.mp3",
+      "imageUrl": "https://nordkvelle.co.uk/public/radio/img/005.png"
+    },
+    {
+      "id": "BE17",
+      "name": "Topradio",
+      "country": "België",
+      "description": "We Love Music!",
+      "genre": "EDM - Electronic Dance Music, Dance",
+      "frequency": 104.2,
+      "mp3Stream": "https://str.topradio.be/topradio.mp3",
+      "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/uYUQmSmu67.png"
     }
   ]
 }
