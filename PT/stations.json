@@ -40,7 +40,7 @@
       "description": "M80 Se a sua vida tem uma música, ela passa na M80",
       "genre": "Pop",
       "frequency": 104.5,
-      "mp3Stream": "http://media3.mcr.iol.pt/livefm/m80.mp3/icecast.audio",
+      "mp3Stream": "http://stream-icy.bauermedia.pt/m8080.aac",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/PT/IMG/PT4.png"
     },
