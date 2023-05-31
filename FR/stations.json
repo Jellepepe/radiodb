@@ -35,14 +35,14 @@
       },
       {
         "id": "FR4",
-        "name": "Virgin Radio",
+        "name": "Europe 2",
         "country": "France",
-        "description": "Pop-Rock-Electro",
+        "description": "Le Meilleur Son",
         "genre": "Pop-Rock-Electro",
         "frequency": 103.5,
-        "mp3Stream": "https://stream.virginradio.fr/virgin.aac?aw_0_1st.playerid=lagardereWebVirgin",
-        "aacStream": "",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Virgin_radio_fr.png"
+        "mp3Stream": "http://ais-live.cloud-services.paris/europe2.mp3",
+        "aacStream": "http://ais-live.cloud-services.paris/europe2.aac",
+        "imageUrl": "https://fr.wikipedia.org/wiki/Europe_2#/media/Fichier:Europe_2_(2023_-).svg"
       },
       {
         "id": "FR5",
@@ -227,7 +227,7 @@
         "description": "La Radio du Rock",
         "genre": "Rock",
         "frequency": 102.1,
-        "mp3Stream": "https://target-ad-1.cdn.dvmr.fr/ouifm-high.mp3",
+        "mp3Stream": "http://broadcast.infomaniak.ch/ouifm-high.mp3",
         "aacStream": "",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Oui_FM_2014_logo.png/110px-Oui_FM_2014_logo.png"
       },
