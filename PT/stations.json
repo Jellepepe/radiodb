@@ -51,7 +51,7 @@
       "description": "Só se quiseres A 1ª rádio dos exitos!",
       "genre": "Pop",
       "frequency": 87.6,
-      "mp3Stream": "http://media3.mcr.iol.pt/livefm/cidade.mp3/icecast.audio",
+      "mp3Stream": "https://stream-icy.bauermedia.pt/cidade.mp3",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/PT/IMG/PT5.png"
     },
@@ -84,7 +84,7 @@
       "description": "A Melhor Música, sempre. Em casa, no carro em todo o lado",
       "genre": "Pop",
       "frequency": 90.8,
-      "mp3Stream": "http://media3.mcr.iol.pt/livefm/comercial.mp3/icecast.audio",
+      "mp3Stream": "https://stream-icy.bauermedia.pt/comercial.mp3",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/PT/IMG/PT8.png"
     },
