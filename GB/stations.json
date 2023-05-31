@@ -173,8 +173,8 @@
       "description": "Old Skool, Dance Anthems, Garage",
       "genre": "Dance",
       "frequency": 96.9,
-      "mp3Stream": "https://stream-kiss.planetradio.co.uk/kisstory.mp3",
-      "aacStream": "https://stream-kiss.planetradio.co.uk/kisstory.aac",
+      "mp3Stream": "http://edge-bauerall-01-gos2.sharp-stream.com/kisstory.mp3",
+      "aacStream": "http://edge-bauerall-01-gos2.sharp-stream.com/kisstory.aac",
       "imageUrl": "https://radio.byme.dev/GB/IMG/GB16.png"
     },
     {
