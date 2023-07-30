@@ -148,19 +148,19 @@
       "country": "Ελλάδα",
       "id": "GR14",
       "aacStream": "",
-      "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/rockfm.png",
-      "mp3Stream": "http://rockfmlive.mdc.akamaized.net/strmRCFm/userRCFm/playlist.m3u8",
+      "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/ert-zeppelin.png",
+      "mp3Stream": "https://radiostreaming.ert.gr/ert-zeppelin",
       "description": "Athens ",
       "genre": "Rock",
-      "name": "Rock FM 96.9"
+      "name": "Zeppelin 106.7"
     },
     {
       "frequency": 105.2,
       "country": "Ελλάδα",
       "id": "GR15",
       "aacStream": "",
-      "imageUrl": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/tnw8h59awc3h.jpg",
-      "mp3Stream": "http://85.10.206.222:8012/stream.mp3",
+      "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/rebel1052.png",
+      "mp3Stream": "https://netradio.live24.gr/rebel1052",
       "description": "Athens ",
       "genre": "Rock",
       "name": "Rebel 105,2 FM"
@@ -379,11 +379,11 @@
       "country": "Ελλάδα",
       "id": "GR35",
       "aacStream": "",
-      "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/stokokkino1055.png",
-      "mp3Stream": "http://stream.radiojar.com/kokkino-ath.mp3",
+      "imageUrl": "https://cdn.e-radio.gr/logos/gr/big/Rockon.png",
+      "mp3Stream": "https://ice.onestreaming.com/rockon",
       "description": "Athens ",
       "genre": "Music",
-      "name": "Sto Kokkino 105,5"
+      "name": "Rock On"
     }
   ]
 }
