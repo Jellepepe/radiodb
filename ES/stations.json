@@ -197,6 +197,116 @@
       "mp3Stream": "https://ice1.viastreaming.net:8443/live",
       "aacStream": "",
       "imageUrl": "https://radio.byme.dev/ES/IMG/ES18.png"
+    },
+	  {
+      "id": "ES19",
+      "name": "EsRadio",
+      "country": "España",
+      "description": "Noticias, cultura, politica",
+      "genre": "Politica",
+      "frequency": 99.1,
+      "mp3Stream": "http://livestreaming3.esradio.fm/stream64.mp3",
+      "aacStream": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES19.png"
+    },
+	  {
+      "id": "ES20",
+      "name": "Radio Galega",
+      "country": "España",
+      "description": "Actualidad, entretenimiento",
+      "genre": "Entretenimiento",
+      "frequency": 104.2,
+      "mp3Stream": "http://wecast-b02-03.flumotion.com/radiogalega/live.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES20.png"
+    },
+	  {
+      "id": "ES21",
+      "name": "RNE 1",
+      "country": "España",
+      "description": "Actualidad, entretenimiento",
+      "genre": "Entretenimiento",
+      "frequency": 102.0,
+      "mp3Stream": "http://dispatcher.rndfnk.com/crtve/rne1/main/mp3/high",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES21.png"
+    },
+	  {
+      "id": "ES22",
+      "name": "RNE 3",
+      "country": "España",
+      "description": "Musica fuera de listas, alternativa",
+      "genre": "Musica",
+      "frequency": 101.3,
+      "mp3Stream": "http://dispatcher.rndfnk.com/crtve/rner3/main/mp3/high",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES22.png"
+    },
+	  {
+      "id": "ES23",
+      "name": "Radio Clasica",
+      "country": "España",
+      "description": "Musica clasica",
+      "genre": "Musica",
+      "frequency": 97.3,
+      "mp3Stream": "http://dispatcher.rndfnk.com/crtve/rnerc/main/mp3/high",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES23.png"
+    },
+	  {
+      "id": "ES24",
+      "name": "Onda Cero",
+      "country": "España",
+      "description": "Actualidad, entretenimiento",
+      "genre": "Entretenimiento",
+      "frequency": 89.2,
+      "mp3Stream": "http://stream.ondaceronoroeste.es:8000/stream",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES24.png"
+    },
+	  {
+      "id": "ES25",
+      "name": "Ser Coruña",
+      "country": "España",
+      "description": "Actualidad, entretenimiento",
+      "genre": "Entretenimiento",
+      "frequency": 93.4,
+      "mp3Stream": "https://25693.live.streamtheworld.com/SER_ASO_CORUNA.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES25.png"
+    },
+	  {
+      "id": "ES26",
+      "name": "Cope Coruña",
+      "country": "España",
+      "description": "Actualidad, entretenimiento",
+      "genre": "Entretenimiento",
+      "frequency": 96.9,
+      "mp3Stream": "https://wecast20-h-cloud.flumotion.com/copesedes/lacoruna.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES26.png"
+    },
+	  {
+      "id": "ES27",
+      "name": "Radio Voz Coruña",
+      "country": "España",
+      "description": "Actualidad, entretenimiento",
+      "genre": "Entretenimiento",
+      "frequency": 89.3,
+      "mp3Stream": "https://live.radiovoz.es/mp3/stream_coruna.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES27.png"
+    },
+	  {
+      "id": "ES28",
+      "name": "Cadena Dial",
+      "country": "España",
+      "description": "Musica en español",
+      "genre": "Musica",
+      "frequency": 98.5,
+      "mp3Stream": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3",
+      "aacStream": "",
+      "imageUrl": "https://radio.byme.dev/ES/IMG/ES28.png"
     }
   ]
 }
