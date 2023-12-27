@@ -33,5 +33,115 @@
       "aacStream": "https://n02a-eu.rcs.revma.com/asn0cmvb938uv",
       "imageUrl": "https://radio.byme.dev/CZ/IMG/CZ3.png"
     }
+{
+      "id": "CZ4",
+      "name": "ČRo Radiožurnál",
+      "country": "Czech Republic",
+      "description": "Český Rozhlas",
+      "genre": "News, Public radio",
+      "frequency":"",
+      "mp3Stream": "http://icecast8.play.cz/cro1-128.mp3",
+      "aacStream": "http://icecast1.play.cz:8000/cro132aac",
+      "imageUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/favicon_radiozurnal.ico"
+    }
+ {
+      "id": "CZ5",
+      "name": " ČRo Dvojka",
+      "country": "Czech Republic",
+      "description": "Český Rozhlas",
+      "genre": "News, Public radio",
+      "frequency":"",
+      "mp3Stream": "http://icecast6.play.cz/cro2-128.mp3",
+      "aacStream": "http://icecast1.play.cz:8000/cro2-32aac",
+      "imageUrl": "http://api.play.cz/static/radio_logo/t200/cro2.png"
+    }
+     {
+      "id": "CZ6",
+      "name": " ČRo Radio Wave",
+      "country": "Czech Republic",
+      "description": "Český rozhlas Radio Wave is a public-radio station oriented primarily towards a young-thinking audience. We cover contemporary cultural and social events. We offer a variety of impulses that can help you find a way out of mainstream stereotypes. We share your passion for fresh music, and we bring you alternatives of many styles and genres.",
+      "genre": "Rock-Alternative",
+      "frequency":"",
+      "mp3Stream": "http://icecast5.play.cz:8000/crowave-128.mp3",
+      "aacStream": "",
+      "imageUrl": "http://api.play.cz/static/radio_logo/t200/cro2.png"
+    }
+  {
+      "id": "CZ7",
+      "name": "ČRo Vltava",
+      "country": "Czech Republic",
+      "description": "Český Rozhlas Vltava",
+      "genre": "Classical",
+      "frequency":"",
+      "mp3Stream": "http://icecast5.play.cz/cro3-128.mp3",
+      "aacStream": "",
+      "imageUrl": "http://api.play.cz/static/radio_logo/t200/cro3.png"
+    }
+{
+      "id": "CZ8",
+      "name": "ČRo Plus",
+      "country": "Czech Republic",
+      "description": "Český Rozhlas Plus",
+      "genre": "News",
+      "frequency":"",
+      "mp3Stream": "https://rozhlas.stream/plus_mp3_128.mp3",
+      "aacStream": "",
+      "imageUrl": "https://api.play.cz/static/radio_logo/t200/croplus.png"
+    }
+    {
+      "id": "CZ9",
+      "name": "Hitrádio Osmdesátka",
+      "country": "Czech Republic",
+      "description": "80´s",
+      "genre": "80´s",
+      "frequency":"",
+      "mp3Stream": "http://ice.abradio.cz/hit80128.mp3",
+      "aacStream": "",
+      "imageUrl": ""
+    }
+{
+      "id": "CZ10",
+      "name": "Fajn Rádio",
+      "country": "Czech Republic",
+      "description": "Fajn Rádio",
+      "genre": "Pop",
+      "frequency":"",
+      "mp3Stream": "http://ice.abradio.cz/fajn128.mp3",
+      "aacStream": "",
+      "imageUrl": ""
+    }
+  {
+      "id": "CZ11",
+      "name": "Rádio Beat",
+      "country": "Czech Republic",
+      "description": "Rádio Beat",
+      "genre": "classic rock,heavy metal,metal,rock",
+      "frequency":"",
+      "mp3Stream": "http://icecast2.play.cz/radiobeat128.mp3",
+      "aacStream": "https://icecast2.play.cz/beat128aac",
+      "imageUrl": "https://www.radiobeat.cz/img/logo@2x.png"
+    }
+      {
+      "id": "CZ12",
+      "name": "Kiss 98 FM",
+      "country": "Czech Republic",
+      "description": "",
+      "genre": "POP",
+      "frequency":"",
+      "mp3Stream": "",
+      "aacStream": "http://icecast2.play.cz:8000/kiss128aac",
+      "imageUrl": ""
+    }
+    {
+      "id": "CZ12",
+      "name": "Rockzone",
+      "country": "Czech Republic",
+      "description": "",
+      "genre": "Jazz",
+      "frequency":"",
+      "mp3Stream": "	http://icecast5.play.cz/rockzone128.mp3",
+      "aacStream": "",
+      "imageUrl": "http://www.rockzone.cz/favicon.ico"
+    }
   ]
 }
