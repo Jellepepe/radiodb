@@ -1,11 +1,19 @@
+# Deprecation notice
+
+This repository and database are no longer used as the app has fully transitioned to a managed database.  
+To view, edit, or submit to the database, please visit https://radio.byme.dev
+
+This repository will likely remain public for future reference, but no pull requests will be accepted.
+
+
 # radiodb
 Github-based database for radio stations
 
-This database is used for the Id7-themed CarRadio app made for android car headunits.
+This database is used for the [CarRadio app](https://play.google.com/store/apps/details?id=dev.byme.carradio) made for android car headunits.
 
 ## Improving the database
 
-Adding missing stations through pull requests is welcomed as long as you follow the format outlined in the format section.  
+~~Adding missing stations through pull requests is welcomed as long as you follow the format outlined in the format section.~~  
 Images may be uploaded in the 'IMG' subfolders, but please make sure to include a license if required.  
 If no such license is available or applicable please link to an external host.
 
